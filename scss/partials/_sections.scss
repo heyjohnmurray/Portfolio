@@ -1,6 +1,67 @@
 .intro {
+	padding: 10vh 0;
+
+	@media #{$medium-up} {
+		padding: 2vh 0;
+	}
+
+	@media #{$large-up} {
+		padding: 3vh 0;
+	}
+
 	.title {
-		font-family: "black-italic";
-		font-size: 180px;
+		font-size: 30vw;
+		line-height: 20vw;
+		//font-size: 340px;
+
+		@media #{$medium-up} {
+			font-size: 25vw;
+			line-height: 18vw;
+		}
+
+		@media #{$large-up} {
+			font-size: 20vw;
+			line-height: 12vw;
+		}
+
+		.capital {
+			font-family: "olympic", sans-serif;
+		}
+	}
+
+	.description {
+		color: $secondary-light;
+		text-align: center;
+		font-family: "script", sans-serif;
+		font-size: 20vw;
+		line-height: 20vw;
+		//font-size: 133px;
+
+		@media #{$medium-up} {
+			font-size: 15vw;
+			line-height: 18vw;
+		}
+
+		@media #{$large-up} {
+			font-size: 12vw;
+			line-height: 8vw;	
+		}
+	}
+
+	.attributes {
+		color: $primary-light;
+		font-family: "black-italic", sans-serif;
+		font-size: 15vw;
+		text-transform: uppercase;
+
+		@media #{$medium-up} {
+			font-size: 12vw;
+			line-height: 12vw;
+		}
+
+		@media #{$large-up} {
+			font-size: 10vw;
+			line-height: 15vw;
+		}
 	}
 }
