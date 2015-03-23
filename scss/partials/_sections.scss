@@ -1,6 +1,20 @@
+@import "partials/main";
+@import "partials/sidebar";
+
+.wrapper {
+	// position: relative;
+	// top: 0;
+	// width: 100%;
+	// overflow: hidden;
+}
+
 .intro {
 	color: $secondary-light;
 	padding: 10vh 0;
+
+	@media #{$large-up} {
+		margin-bottom: 200vh;
+	}
 
 	@media #{$medium-up} {
 		padding: 2vh 0;
@@ -81,4 +95,8 @@
 		top: 0;
 		@include animation(slowBounce 3s infinite);
 	}
+}
+
+.work {
+	position: absolute;
 }

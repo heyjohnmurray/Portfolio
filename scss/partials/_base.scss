@@ -4,6 +4,26 @@ body {
 }
 
 p {
-	font-family: "black";
+	font-family: "regular";
+	font-size: 18px;
+	line-height: 1.6;
 	color: #fff;
+}
+
+.headline {
+	font-family: "thin";
+	font-size: 50px;
+	line-height: 1;
+	text-transform: uppercase;
+
+	span {
+		display: block;
+		font-family: "black"
+	}
+}
+
+main,
+sidebar {
+	font-family: "regular";
+	font-size: 18px;
 }
