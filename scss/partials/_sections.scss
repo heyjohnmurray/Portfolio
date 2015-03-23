@@ -1,4 +1,5 @@
 .intro {
+	color: $secondary-light;
 	padding: 10vh 0;
 
 	@media #{$medium-up} {
@@ -7,6 +8,17 @@
 
 	@media #{$large-up} {
 		padding: 3vh 0;
+	}
+
+	a {
+		display: block;
+		margin-bottom: 3vh;
+		color: $secondary-light;
+		text-align: center;
+		font-size: 5vw;
+		font-family: "thin-italic", sans-serif;
+		line-height: 5vw;
+		text-decoration: none;
 	}
 
 	.title {
@@ -30,7 +42,6 @@
 	}
 
 	.description {
-		color: $secondary-light;
 		text-align: center;
 		font-family: "script", sans-serif;
 		font-size: 20vw;
@@ -61,7 +72,13 @@
 
 		@media #{$large-up} {
 			font-size: 10vw;
-			line-height: 15vw;
+			line-height: 10vw;
 		}
+	}
+
+	img {
+		position: relative;
+		top: 0;
+		@include animation(slowBounce 3s infinite);
 	}
 }
