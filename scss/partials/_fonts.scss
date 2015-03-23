@@ -1,0 +1,11 @@
+// Mission Gothic
+@include font-face("black","../fonts/mission-gothic/mission-gothic-black-webfont", $file-formats: eot woff2 woff svg ttf);
+@include font-face("black-italic","../fonts/mission-gothic/mission-gothic-black-italic-webfont", $file-formats: eot woff2 woff svg ttf);
+@include font-face("bold","../fonts/mission-gothic/mission-gothic-bold-webfont", $file-formats: eot woff2 woff svg ttf);
+@include font-face("bold-italic","../fonts/mission-gothic/mission-gothic-bold-italic-webfont", $file-formats: eot woff2 woff svg ttf);
+@include font-face("regular","../fonts/mission-gothic/mission-gothic-regular-webfont", $file-formats: eot woff2 woff svg ttf);
+@include font-face("regular-italic","../fonts/mission-gothic/mission-gothic-regular-italic-webfont", $file-formats: eot woff2 woff svg ttf);
+@include font-face("light","../fonts/mission-gothic/mission-gothic-light-webfont", $file-formats: eot woff2 woff svg ttf);
+@include font-face("light-italic","../fonts/mission-gothic/mission-gothic-light-italic-webfont", $file-formats: eot woff2 woff svg ttf);
+@include font-face("thin","../fonts/mission-gothic/mission-gothic-thin-webfont", $file-formats: eot woff2 woff svg ttf);
+@include font-face("thin-italic","../fonts/mission-gothic/mission-gothic-thin-italic-webfont", $file-formats: eot woff2 woff svg ttf);
