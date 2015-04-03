@@ -1581,6 +1581,12 @@ sidebar {
   -moz-animation: blink 0.7s infinite;
   animation: blink 0.7s infinite; }
 
+main {
+  float: left;
+  width: 68%;
+  padding: 2vw;
+  background-color: #f6f6f6; }
+
 .intro {
   color: #f6f6f6;
   padding: 10vh 0; }
@@ -1648,13 +1654,45 @@ sidebar {
     position: relative;
     top: 0; }
 
+.site-wrapper {
+  position: relative;
+  top: 0;
+  width: 100%;
+  overflow: hidden; }
+
+section.work {
+  position: relative; }
+  @media only screen and (min-width: 64.0625em) {
+    section.work .is-sticky {
+      position: fixed;
+      top: 0;
+      z-index: 9999; } }
+
+aside {
+  background-color: #434343;
+  color: #f6f6f6;
+  padding: 2vw;
+  width: 100%; }
+  @media only screen and (min-width: 64.0625em) {
+    aside {
+      height: 1500px;
+      left: 0;
+      position: absolute;
+      width: 32%; } }
+  aside.is-sticky {
+    display: table;
+    height: 100%; }
+
 section.content {
   background-color: #f6f6f6;
-  float: left;
+  float: right;
   width: 100%; }
   @media only screen and (min-width: 64.0625em) {
     section.content {
-      width: 68%; } }
+      float: none;
+      position: relative;
+      left: 32%;
+      width: 88%; } }
 
 .work-samples li a {
   background-position: 50% 30%;
@@ -1832,20 +1870,7 @@ section.content {
     .work-samples .skills li {
       font-size: 25px; } }
 
-main {
-  float: left;
-  width: 68%;
-  padding: 2vw;
-  background-color: #f6f6f6; }
-
-sidebar {
-  background-color: #434343;
-  color: #f6f6f6;
-  float: left;
-  padding: 2vw;
-  width: 100%; }
-  @media only screen and (min-width: 64.0625em) {
-    sidebar {
-      width: 32%; } }
+.content.position {
+  position: relative; }
 
 /*# sourceMappingURL=project.min.css.map */

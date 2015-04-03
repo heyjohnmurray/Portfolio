@@ -6,11 +6,23 @@ $(function() {
 	});
 
 	$(window).scroll(function(){
-	  	if ($(this).scrollTop() > 1350){
-			$('.work sidebar').addClass('is-sticky');
+		var workSidebar = $('.js-aside');
+		var workTop = $('.js-work-position').offset().top;
+		//var portfolioHeight = $(document).height() - $(window).scrollTop() - $(window).height();
+
+	  	if($(window).scrollTop() >= workTop){
+			workSidebar.addClass('is-sticky');
 		} else {
-			$('.work sidebar').removeClass('is-sticky');
-		}	
+			workSidebar.removeClass('is-sticky');
+		}
+
+		// work on unstickying the fixed content after a certain scroll point
+
+		// if($(window).scrollTop() >= portfolioHeight){
+		// 	$('body').addClass('stooooooooop');
+		// } else {
+
+		// }
 	});
 //close jquery    
 });
