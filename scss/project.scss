@@ -1,6 +1,6 @@
 // globals
 @import "bourbon";
-@import "partials/grid";
+@import "globals/foundation";
 @import "partials/variables";
 @import "partials/base";
 @import "partials/fonts";
@@ -14,6 +14,7 @@
 @import "partials/header";
 @import "partials/masthead";
 @import "partials/sections";
+@import "partials/portfolio";
 @import "partials/main";
 @import "partials/sidebar";
 @import "partials/footer";

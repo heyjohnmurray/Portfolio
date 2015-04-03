@@ -30,12 +30,11 @@
 		font-family: "thin-italic", sans-serif;
 		line-height: 5vw;
 		text-decoration: none;
-	}
+	} // a
 
 	.title {
 		font-size: 30vw;
 		line-height: 20vw;
-		//font-size: 340px;
 
 		@media #{$medium-up} {
 			font-size: 25vw;
@@ -50,14 +49,13 @@
 		.capital {
 			font-family: "olympic", sans-serif;
 		}
-	}
+	} // title
 
 	.description {
 		text-align: center;
 		font-family: "script", sans-serif;
 		font-size: 20vw;
 		line-height: 20vw;
-		//font-size: 133px;
 
 		@media #{$medium-up} {
 			font-size: 15vw;
@@ -68,7 +66,7 @@
 			font-size: 12vw;
 			line-height: 8vw;	
 		}
-	}
+	} // description
 
 	.attributes {
 		color: $primary-light;
@@ -85,97 +83,21 @@
 			font-size: 10vw;
 			line-height: 10vw;
 		}
-	}
+	} // attributes
 
 	img {
+		@include animation(slowBounce 3s infinite);
 		position: relative;
 		top: 0;
-		@include animation(slowBounce 3s infinite);
 	}
-}
+} // intro
 
 section.content {
-	float: left;
-	width: 68%;
 	background-color: $secondary-light;
-}
-
-.work-samples {
-	li {
-		@include transition (height .5s);
-		padding: 50px;
-		height: 300px;
-
-		&[class*="site-"] {
-			background-position: no-repeat;
-			background-size: cover;
-		}
-
-		&:hover {
-			@include transition (height .5s);
-			cursor: pointer;
-			height: 400px;
-		}
-
-		&.site-hi-redesign {
-			background-image: url(../images/background-hi-redesign.jpg);
-		}
-
-		&.site-safeco-redesign {
-			background-image: url(../images/background-safeco-redesign.jpg);
-		}
-
-		&.site-att-mobile-redesign {
-			background-image: url(../images/background-att-mobile-redesign.jpg);
-		}
-
-		&.site-quotes-hoi-redesign {
-			background-image: url(../images/background-quotes-hoi-redesign.jpg);
-		}
-
-		&.site-safeco-multi-landing-pages {
-			background-image: url(../images/background-safeco-multi-landing-pages.jpg);
-		}
-
-		&.site-safeco-do-more {
-			background-image: url(../images/background-site-safeco-do-more.jpg);
-		}
-
-		&.site-metlife-auto {
-			background-image: url(../images/background-metlife-auto-design.jpg);
-		}
-
-		&.site-homeowners-insurance-redesign {
-			background-image: url(../images/background-homeowners-insurance-redesign.jpg);
-		}
-	}
-
-	a {
-		color: $primary-dark;
-		display: inline-block;
-		font-size: 50px;
-		text-decoration: none;
-		text-transform: uppercase;
-	}
-
-	strong,
-	span {
-		background-color: rgba($primary-light, .7);
-		padding: 0 10px;
-	}
-
-	strong {
-		font-family: "black";
-	}
-
-	span {
-		display: block;
-		font-family: "thin";
-		margin-top: 10px;
-	}
-
-	small {
-		font-family: "regular";
-		font-size: 23px;
+	float: left;
+	width: 100%;
+	
+	@media #{$large-up} {
+		width: 68%;
 	}
 }
