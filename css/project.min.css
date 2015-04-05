@@ -1645,11 +1645,11 @@ sidebar {
     position: relative;
     top: 0; }
 
-section.work {
+section {
   position: relative;
   overflow: hidden; }
   @media only screen and (min-width: 64.0625em) {
-    section.work .is-sticky {
+    section .is-sticky {
       position: fixed;
       top: 0;
       z-index: 9999; } }
