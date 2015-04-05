@@ -6,8 +6,8 @@ $(function() {
 	});
 
 	$(window).scroll(function(){
-		var workSidebar = $('.js-aside');
-		var workTop = $('.js-work-position').offset().top;
+		var workSidebar = $('.js-work-aside');
+		var workTop = $('.js-work').offset().top;
 
 	  	if($(window).scrollTop() >= workTop){
 			workSidebar.addClass('is-sticky');

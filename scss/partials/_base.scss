@@ -10,29 +10,15 @@ ul {
 	li {
 		list-style-type: none;
 	}
-}
 
-p {
-	font-family: "regular";
-	font-size: 18px;
-	line-height: 1.6;
-	color: #fff;
-}
+	&.inline-list {
+		margin-bottom: 20px;
 
-.headline {
-	font-family: "thin";
-	font-size: 50px;
-	line-height: 1;
-	text-transform: uppercase;
-
-	span {
-		display: block;
-		font-family: "black"
+		li {
+			display: inline-block;
+			margin: 0 3px 5px 0;
+			padding: 10px 15px;
+			background-color: darken($primary-dark, 5%);
+		}
 	}
-}
-
-main,
-sidebar {
-	font-family: "regular";
-	font-size: 18px;
 }

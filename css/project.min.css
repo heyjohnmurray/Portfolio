@@ -1452,26 +1452,13 @@ ul {
   padding: 0; }
   ul li {
     list-style-type: none; }
-
-p {
-  font-family: "regular";
-  font-size: 18px;
-  line-height: 1.6;
-  color: #fff; }
-
-.headline {
-  font-family: "thin";
-  font-size: 50px;
-  line-height: 1;
-  text-transform: uppercase; }
-  .headline span {
-    display: block;
-    font-family: "black"; }
-
-main,
-sidebar {
-  font-family: "regular";
-  font-size: 18px; }
+  ul.inline-list {
+    margin-bottom: 20px; }
+    ul.inline-list li {
+      display: inline-block;
+      margin: 0 3px 5px 0;
+      padding: 10px 15px;
+      background-color: #363636; }
 
 @font-face {
   font-family: "black";
@@ -1533,6 +1520,43 @@ sidebar {
   font-style: normal;
   font-weight: normal;
   src: url("../fonts/script/script-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/script/script-webfont.woff2") format("woff2"), url("../fonts/script/script-webfont.woff") format("woff"), url("../fonts/script/script-webfont.ttf") format("truetype"), url("../fonts/script/script-webfont.svg#script") format("svg"); }
+section,
+aside {
+  font-family: "regular";
+  font-size: 18px; }
+
+.headline {
+  font-family: "thin";
+  font-size: 50px;
+  line-height: 1;
+  text-transform: uppercase; }
+  .headline span {
+    display: block;
+    font-family: "black"; }
+
+.subheadline {
+  background-color: #f6c80f;
+  color: #434343;
+  font-family: "bold";
+  font-size: 26px;
+  line-height: 1;
+  margin-bottom: 10px;
+  padding: 10px;
+  text-transform: uppercase; }
+
+b {
+  font-family: "black"; }
+
+strong {
+  font-family: "bold"; }
+
+p,
+td {
+  font-family: "thin";
+  font-size: 18px;
+  line-height: 1.6;
+  color: #fff; }
+
 @-webkit-keyframes blink {
   0% {
     opacity: 1; }
@@ -1581,70 +1605,6 @@ sidebar {
   -moz-animation: blink 0.7s infinite;
   animation: blink 0.7s infinite; }
 
-.intro {
-  color: #f6f6f6;
-  padding: 10vh 0; }
-  @media only screen and (min-width: 40.0625em) {
-    .intro {
-      padding: 2vh 0; } }
-  @media only screen and (min-width: 64.0625em) {
-    .intro {
-      padding: 3vh 0; } }
-  .intro a {
-    display: block;
-    margin-bottom: 3vh;
-    color: #f6f6f6;
-    text-align: center;
-    font-size: 5vw;
-    font-family: "thin-italic", sans-serif;
-    line-height: 5vw;
-    text-decoration: none; }
-  .intro .title {
-    font-size: 30vw;
-    line-height: 20vw; }
-    @media only screen and (min-width: 40.0625em) {
-      .intro .title {
-        font-size: 25vw;
-        line-height: 18vw; } }
-    @media only screen and (min-width: 64.0625em) {
-      .intro .title {
-        font-size: 20vw;
-        line-height: 12vw; } }
-    .intro .title .capital {
-      font-family: "olympic", sans-serif; }
-  .intro .description {
-    text-align: center;
-    font-family: "script", sans-serif;
-    font-size: 20vw;
-    line-height: 20vw; }
-    @media only screen and (min-width: 40.0625em) {
-      .intro .description {
-        font-size: 15vw;
-        line-height: 15vw; } }
-    @media only screen and (min-width: 64.0625em) {
-      .intro .description {
-        font-size: 12vw;
-        line-height: 8vw; } }
-  .intro .attributes {
-    color: #f6c80f;
-    font-family: "black-italic", sans-serif;
-    font-size: 15vw;
-    text-transform: uppercase; }
-    @media only screen and (min-width: 40.0625em) {
-      .intro .attributes {
-        font-size: 12vw;
-        line-height: 12vw; } }
-    @media only screen and (min-width: 64.0625em) {
-      .intro .attributes {
-        font-size: 10vw;
-        line-height: 10vw; } }
-  .intro img {
-    -webkit-animation: slowBounce 3s infinite;
-    -moz-animation: slowBounce 3s infinite;
-    animation: slowBounce 3s infinite;
-    position: relative;
-    top: 0; }
-
 section {
   position: relative;
   overflow: hidden; }
@@ -1653,6 +1613,70 @@ section {
       position: fixed;
       top: 0;
       z-index: 9999; } }
+
+section.intro {
+  color: #f6f6f6;
+  padding: 10vh 0; }
+  @media only screen and (min-width: 40.0625em) {
+    section.intro {
+      padding: 2vh 0; } }
+  @media only screen and (min-width: 64.0625em) {
+    section.intro {
+      padding: 3vh 0; } }
+  section.intro a {
+    display: block;
+    margin-bottom: 3vh;
+    color: #f6f6f6;
+    text-align: center;
+    font-size: 5vw;
+    font-family: "thin-italic", sans-serif;
+    line-height: 5vw;
+    text-decoration: none; }
+  section.intro .title {
+    font-size: 30vw;
+    line-height: 20vw; }
+    @media only screen and (min-width: 40.0625em) {
+      section.intro .title {
+        font-size: 25vw;
+        line-height: 18vw; } }
+    @media only screen and (min-width: 64.0625em) {
+      section.intro .title {
+        font-size: 20vw;
+        line-height: 12vw; } }
+    section.intro .title .capital {
+      font-family: "olympic", sans-serif; }
+  section.intro .description {
+    text-align: center;
+    font-family: "script", sans-serif;
+    font-size: 20vw;
+    line-height: 20vw; }
+    @media only screen and (min-width: 40.0625em) {
+      section.intro .description {
+        font-size: 15vw;
+        line-height: 15vw; } }
+    @media only screen and (min-width: 64.0625em) {
+      section.intro .description {
+        font-size: 12vw;
+        line-height: 8vw; } }
+  section.intro .attributes {
+    color: #f6c80f;
+    font-family: "black-italic", sans-serif;
+    font-size: 15vw;
+    text-transform: uppercase; }
+    @media only screen and (min-width: 40.0625em) {
+      section.intro .attributes {
+        font-size: 12vw;
+        line-height: 12vw; } }
+    @media only screen and (min-width: 64.0625em) {
+      section.intro .attributes {
+        font-size: 10vw;
+        line-height: 10vw; } }
+  section.intro img {
+    -webkit-animation: slowBounce 3s infinite;
+    -moz-animation: slowBounce 3s infinite;
+    animation: slowBounce 3s infinite;
+    position: relative;
+    top: 0; }
 
 aside {
   background-color: #434343;
@@ -1747,8 +1771,6 @@ aside {
 .work-samples li b,
 .work-samples li span {
   padding: 0 10px; }
-.work-samples li b {
-  font-family: "black"; }
 .work-samples li span {
   background-color: rgba(246, 200, 15, 0.7);
   display: block;
@@ -1864,7 +1886,12 @@ aside {
     .work-samples .skills li {
       font-size: 25px; } }
 
-.content.position {
-  position: relative; }
+table {
+  margin-bottom: 20px; }
+  table td {
+    background-color: #363636;
+    padding: 10px 15px; }
+  table strong {
+    text-transform: uppercase; }
 
 /*# sourceMappingURL=project.min.css.map */

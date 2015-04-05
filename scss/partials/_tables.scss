@@ -1,0 +1,12 @@
+table {
+	margin-bottom: 20px;
+
+	td {
+		background-color: darken($primary-dark, 5%);
+		padding: 10px 15px;
+	}
+
+	strong {
+		text-transform: uppercase;
+	}
+}

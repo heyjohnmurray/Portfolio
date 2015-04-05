@@ -83,10 +83,6 @@
 			padding: 0 10px;
 		}
 
-		b {
-			font-family: "black";
-		}
-
 		span {
 			background-color: rgba($primary-light, .7);
 			display: block;
@@ -132,7 +128,7 @@
 				@include transition(opacity 0.35s, transform 0.35s);
 				content: '';
 				position: absolute;
-			}
+			} // before/after
 
 			&:before {
 				@include transform(scale(0,1));
@@ -187,9 +183,9 @@
 				@media #{$large-up} {
 					font-size: 50px;
 				}
-			}
+			} // b
 		} // cover
-	} //li
+	} // li
 
 	.skills {
 		li {
@@ -212,9 +208,3 @@
 		} // li
 	}
 } // work samples
-
-.content {
-	&.position {
-		position: relative;
-	}
-} // content

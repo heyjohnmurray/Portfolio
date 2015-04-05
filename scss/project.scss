@@ -4,7 +4,7 @@
 @import "partials/variables";
 @import "partials/base";
 @import "partials/fonts";
-
+@import "partials/typography";
 @import "partials/animations";
 
 // plugin styles
@@ -12,8 +12,7 @@
 
 // partials
 @import "partials/header";
-@import "partials/masthead";
-@import "partials/main";
 @import "partials/sections";
 @import "partials/portfolio";
+@import "partials/tables";
 @import "partials/footer";
