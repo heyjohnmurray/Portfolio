@@ -26,13 +26,16 @@ $(function() {
 	    // about section stickiness
 	    // NOTE :: Go back and make this sticky until bottom of bio photo
 
+
+	    // figure out why about section sidebar doesn't unsticky
+
 	    if($(window).scrollTop() >= aboutTop){
 			aboutSidebar.addClass('is-sticky');
 		} else {
 			aboutSidebar.removeClass('is-sticky');
 		}
 
-		if($(window).scrollTop() >= $('js-about-bio').offset().top + $('js-about-bio').outerHeight() - window.innerHeight) {
+		if($(window).scrollTop() >= $('.js-about-bio').offset().top + $('.js-about-bio').outerHeight() - window.innerHeight) {
 			aboutSidebar.removeClass('is-sticky');
 	    }
 	});
