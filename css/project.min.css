@@ -1455,6 +1455,7 @@ ul {
   ul.inline-list {
     margin-bottom: 20px; }
     ul.inline-list li {
+      color: #f6f6f6;
       display: inline-block;
       margin: 0 3px 5px 0;
       padding: 10px 15px;
@@ -1711,6 +1712,10 @@ aside {
   @media only screen and (min-width: 64.0625em) {
     .content.align-right {
       left: 32%; } }
+
+.body-copy {
+  background-color: #f6f6f6;
+  padding: 70px; }
 
 .work-samples li a {
   background-position: 50% 30%;
