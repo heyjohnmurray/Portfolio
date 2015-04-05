@@ -11,6 +11,8 @@ $(function() {
 		var workTop = $('.js-work').offset().top;
 		var aboutTop = $('.js-about').offset().top;
 
+		// portfolio section stickiness
+
 	  	if($(window).scrollTop() >= workTop){
 			workSidebar.addClass('is-sticky');
 		} else {
@@ -21,13 +23,16 @@ $(function() {
 			workSidebar.removeClass('is-sticky');
 	    }
 
+	    // about section stickiness
+	    // NOTE :: Go back and make this sticky until bottom of bio photo
+
 	    if($(window).scrollTop() >= aboutTop){
 			aboutSidebar.addClass('is-sticky');
 		} else {
 			aboutSidebar.removeClass('is-sticky');
 		}
 
-		if($(window).scrollTop() >= $('.js-about-bio').offset().top + $('..js-about-bio').outerHeight() - window.innerHeight) {
+		if($(window).scrollTop() >= $('js-about-bio').offset().top + $('js-about-bio').outerHeight() - window.innerHeight) {
 			aboutSidebar.removeClass('is-sticky');
 	    }
 	});

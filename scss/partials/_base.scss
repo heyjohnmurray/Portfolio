@@ -23,3 +23,20 @@ ul {
 		}
 	}
 }
+
+.body-copy {
+	background-color: $secondary-light;
+	padding: 10px;
+
+	@media #{$medium-up} {
+		padding: 40px;
+	}
+
+	@media #{$large-up} {
+		padding: 70px;
+	}
+
+	p {
+		color: $primary-dark;
+	}
+}
