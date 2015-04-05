@@ -19,29 +19,43 @@ aside {
 	width: 100%;
 
 	@media #{$large-up} {
-		height: 1500px; // just need this height to simulate equal height until sticky
-		left: 0;
 		position: absolute;
 		width: 32%;
 	}
 
-	&.is-sticky {
-		display: table;
-		height: 100%;
+	&.align-left {
+		@media #{$large-up} {
+			left: 0;
+		}
+	}
+
+	&.align-right {
+		@media #{$large-up} {
+			left: 68%;
+		}
 	}
 }
 
-section.content {
+.content {
 	background-color: $secondary-light;
-	float: right;
-	width: 100%;
-	padding-bottom: 99999px;
+	float: left;
 	margin-bottom: -99999px;
-	
+	padding-bottom: 99999px;
+	width: 100%;
+
 	@media #{$large-up} {
 		float: none;
 		position: relative;
-		left: 32%;
 		width: 68%;
+	}
+
+	&.align-left {
+		left: 0;
+	}
+
+	&.align-right {
+		@media #{$large-up} {
+			left: 32%;
+		}
 	}
 }

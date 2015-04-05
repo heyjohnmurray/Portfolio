@@ -1581,18 +1581,9 @@ sidebar {
   -moz-animation: blink 0.7s infinite;
   animation: blink 0.7s infinite; }
 
-main {
-  float: left;
-  width: 68%;
-  padding: 2vw;
-  background-color: #f6f6f6; }
-
 .intro {
   color: #f6f6f6;
   padding: 10vh 0; }
-  @media only screen and (min-width: 64.0625em) {
-    .intro {
-      margin-bottom: 200vh; } }
   @media only screen and (min-width: 40.0625em) {
     .intro {
       padding: 2vh 0; } }
@@ -1671,26 +1662,31 @@ aside {
   width: 100%; }
   @media only screen and (min-width: 64.0625em) {
     aside {
-      height: 1500px;
-      left: 0;
       position: absolute;
       width: 32%; } }
-  aside.is-sticky {
-    display: table;
-    height: 100%; }
-
-section.content {
-  background-color: #f6f6f6;
-  float: right;
-  width: 100%;
-  padding-bottom: 99999px;
-  margin-bottom: -99999px; }
   @media only screen and (min-width: 64.0625em) {
-    section.content {
+    aside.align-left {
+      left: 0; } }
+  @media only screen and (min-width: 64.0625em) {
+    aside.align-right {
+      left: 68%; } }
+
+.content {
+  background-color: #f6f6f6;
+  float: left;
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+  width: 100%; }
+  @media only screen and (min-width: 64.0625em) {
+    .content {
       float: none;
       position: relative;
-      left: 32%;
       width: 68%; } }
+  .content.align-left {
+    left: 0; }
+  @media only screen and (min-width: 64.0625em) {
+    .content.align-right {
+      left: 32%; } }
 
 .work-samples li a {
   background-position: 50% 30%;
