@@ -8,7 +8,6 @@ $(function() {
 	$(window).scroll(function(){
 		var workSidebar = $('.js-aside');
 		var workTop = $('.js-work-position').offset().top;
-		//var portfolioHeight = $(document).height() - $(window).scrollTop() - $(window).height();
 
 	  	if($(window).scrollTop() >= workTop){
 			workSidebar.addClass('is-sticky');
@@ -16,13 +15,9 @@ $(function() {
 			workSidebar.removeClass('is-sticky');
 		}
 
-		// work on unstickying the fixed content after a certain scroll point
-
-		// if($(window).scrollTop() >= portfolioHeight){
-		// 	$('body').addClass('stooooooooop');
-		// } else {
-
-		// }
+		if($(window).scrollTop() >= $('.js-work-samples').offset().top + $('.js-work-samples').outerHeight() - window.innerHeight) {
+			workSidebar.removeClass('is-sticky');
+	    }
 	});
-//close jquery    
+//close jquery
 });
