@@ -1,12 +1,6 @@
-.site-wrapper {
-	  position: relative;
-	  top: 0;
-	  width: 100%;
-	  overflow: hidden;
-}
-
 section.work {
 	position: relative;
+	overflow: hidden;
 
 	.is-sticky { // add a js media match here for >= desktop
 		@media #{$large-up} {
@@ -20,7 +14,8 @@ section.work {
 aside {
 	background-color: $primary-dark;
 	color: $secondary-light;
-	padding: 2vw;
+	padding: 2vw 2vw 99999px 2vw;
+	margin-bottom: -99999px;
 	width: 100%;
 
 	@media #{$large-up} {
@@ -40,6 +35,8 @@ section.content {
 	background-color: $secondary-light;
 	float: right;
 	width: 100%;
+	padding-bottom: 99999px;
+	margin-bottom: -99999px;
 	
 	@media #{$large-up} {
 		float: none;

@@ -1654,14 +1654,9 @@ main {
     position: relative;
     top: 0; }
 
-.site-wrapper {
-  position: relative;
-  top: 0;
-  width: 100%;
-  overflow: hidden; }
-
 section.work {
-  position: relative; }
+  position: relative;
+  overflow: hidden; }
   @media only screen and (min-width: 64.0625em) {
     section.work .is-sticky {
       position: fixed;
@@ -1671,7 +1666,8 @@ section.work {
 aside {
   background-color: #434343;
   color: #f6f6f6;
-  padding: 2vw;
+  padding: 2vw 2vw 99999px 2vw;
+  margin-bottom: -99999px;
   width: 100%; }
   @media only screen and (min-width: 64.0625em) {
     aside {
@@ -1686,7 +1682,9 @@ aside {
 section.content {
   background-color: #f6f6f6;
   float: right;
-  width: 100%; }
+  width: 100%;
+  padding-bottom: 99999px;
+  margin-bottom: -99999px; }
   @media only screen and (min-width: 64.0625em) {
     section.content {
       float: none;
