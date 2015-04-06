@@ -1684,6 +1684,42 @@ ul {
   font-style: normal;
   font-weight: normal;
   src: url("../fonts/script/script-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/script/script-webfont.woff2") format("woff2"), url("../fonts/script/script-webfont.woff") format("woff"), url("../fonts/script/script-webfont.ttf") format("truetype"), url("../fonts/script/script-webfont.svg#script") format("svg"); }
+@font-face {
+  font-family: "portfolio-icons";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/icons/portfolio-icons.eot?#iefix") format("embedded-opentype"), url("../fonts/icons/portfolio-icons.woff") format("woff"), url("../fonts/icons/portfolio-icons.ttf") format("truetype"), url("../fonts/icons/portfolio-icons.svg#portfolio-icons") format("svg"); }
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "portfolio-icons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .7em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1em;
+  margin-left: .2em; }
+
+.icon-paper-plane:before {
+  content: '\e809'; }
+
+.icon-github-circled:before {
+  content: '\e80a'; }
+
+.icon-linkedin-squared:before {
+  content: '\e80b'; }
+
+.icon-facebook:before {
+  content: '\e80c'; }
+
+.icon-instagramm:before {
+  content: '\e80d'; }
+
 section,
 aside {
   font-family: "regular";
@@ -1859,6 +1895,17 @@ aside {
   @media only screen and (min-width: 64.0625em) {
     aside.align-right {
       left: 68%; } }
+  aside a {
+    -webkit-transition: color 0.5s, left 0.5s;
+    -moz-transition: color 0.5s, left 0.5s;
+    transition: color 0.5s, left 0.5s;
+    color: #f6f6f6;
+    left: 0;
+    position: relative;
+    text-decoration: none; }
+    aside a:hover {
+      color: #b6b6b6;
+      left: 10px; }
   @media only screen and (min-width: 64.0625em) {
     aside .headline,
     aside p,

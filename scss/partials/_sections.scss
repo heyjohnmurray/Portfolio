@@ -123,6 +123,19 @@ aside {
 		}
 	} // align right
 
+	a {
+		@include transition(color .5s, left .5s);
+		color: $secondary-light;
+		left: 0;
+		position: relative;
+		text-decoration: none;
+
+		&:hover {
+			color: darken($secondary-light, 25%);
+			left: 10px;
+		}
+	}
+
 	@media #{$large-up} {
 		.headline,
 		p,

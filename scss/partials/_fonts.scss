@@ -13,3 +13,6 @@
 // Olympic
 @include font-face("olympic", "../fonts/olympic/olympic-branding-webfont", $file-formats: eot woff2 woff svg ttf);
 @include font-face("script", "../fonts/script/script-webfont", $file-formats: eot woff2 woff svg ttf);
+
+// Icon font
+@include font-face("portfolio-icons", "../fonts/icons/portfolio-icons", $file-formats: eot svg ttf woff);
