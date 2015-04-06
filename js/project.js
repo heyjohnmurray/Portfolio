@@ -53,11 +53,6 @@ $(function() {
 			contactSidebar.removeClass('fadeIn');
 		}
 
-		if($(window).scrollTop() >= $('.js-contact-info').offset().top + $('.js-contact-info').outerHeight() - window.innerHeight) {
-			aboutSidebar.removeClass('is-sticky');
-			aboutSidebar.removeClass('fadeIn');
-	    }
-
 	});
 //close jquery
 });
