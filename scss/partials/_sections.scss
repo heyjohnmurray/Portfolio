@@ -1,6 +1,6 @@
 section {
-	position: relative;
 	overflow: hidden;
+	position: relative;
 
 	.is-sticky { // add a js media match here for >= desktop
 		@media #{$large-up} {
@@ -10,7 +10,7 @@ section {
 		}
 	}
 
-	.intro {
+	&.intro {
 		color: $secondary-light;
 		padding: 10vh 0;
 
@@ -92,6 +92,10 @@ section {
 			top: 0;
 		}
 	} // intro
+
+	&.contact {
+		height: 850px;
+	}
 } // section
 
 aside {
@@ -117,6 +121,23 @@ aside {
 			left: 68%;
 		}
 	} // align right
+
+	@media #{$large-up} {
+		.headline,
+		p,
+		table {
+			@include transition(opacity 2s);
+			opacity: .3;
+		}
+
+		&.fadeIn {
+			.headline,
+			p,
+			table {
+				opacity: 1;
+			}
+		}
+	}
 } // aside
 
 .content {

@@ -11,15 +11,31 @@ ul {
 		list-style-type: none;
 	}
 
+	&.list {
+		li {
+			margin: 0 3px 5px 0;
+			padding: 10px 15px;
+		}
+	}
+
 	&.inline-list {
 		margin-bottom: 20px;
 
 		li {
-			color: $secondary-light;
 			display: inline-block;
-			margin: 0 3px 5px 0;
-			padding: 10px 15px;
+		}
+	}
+
+	&.block-list {
+		li {
+			display: block;
+		}
+	}
+
+	&.has-row-colors {
+		li {
 			background-color: darken($primary-dark, 5%);
+			color: $secondary-light;
 		}
 	}
 }
