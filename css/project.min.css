@@ -1599,14 +1599,17 @@ ul {
   padding: 0; }
   ul li {
     list-style-type: none; }
-  ul.list li {
-    margin: 0 3px 5px 0;
-    padding: 10px 15px; }
+  ul.list {
+    margin-bottom: 20px; }
+    ul.list li {
+      margin: 0 3px 5px 0;
+      padding: 10px 15px; }
   ul.inline-list {
     margin-bottom: 20px; }
     ul.inline-list li {
       display: inline-block; }
-  ul.block-list li {
+  ul.block-list li,
+  ul.block-list a {
     display: block; }
   ul.has-row-colors li {
     background-color: #363636;
@@ -1821,7 +1824,8 @@ section {
         padding: 2vh 0; } }
     @media only screen and (min-width: 64.0625em) {
       section.intro {
-        padding: 3vh 0; } }
+        padding: 3vh 0;
+        margin-bottom: 100vh; } }
     section.intro a {
       display: block;
       margin-bottom: 3vh;
@@ -1876,13 +1880,14 @@ section {
       animation: slowBounce 3s infinite;
       position: relative;
       top: 0; }
-  section.contact {
-    height: 840px; }
+  @media only screen and (min-width: 64.0625em) {
+    section.contact {
+      height: 840px; } }
 
 aside {
   background-color: #434343;
   color: #f6f6f6;
-  padding: 2vw 2vw 99999px 2vw;
+  padding: 20px 20px 99999px 20px;
   margin-bottom: -99999px;
   width: 100%; }
   @media only screen and (min-width: 64.0625em) {

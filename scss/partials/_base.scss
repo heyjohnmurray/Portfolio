@@ -12,6 +12,8 @@ ul {
 	}
 
 	&.list {
+		margin-bottom: 20px;
+
 		li {
 			margin: 0 3px 5px 0;
 			padding: 10px 15px;
@@ -27,7 +29,8 @@ ul {
 	}
 
 	&.block-list {
-		li {
+		li,
+		a {
 			display: block;
 		}
 	}

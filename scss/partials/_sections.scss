@@ -20,6 +20,7 @@ section {
 
 		@media #{$large-up} {
 			padding: 3vh 0;
+			margin-bottom: 100vh;
 		}
 
 		a {
@@ -94,15 +95,16 @@ section {
 	} // intro
 
 	&.contact {
-		height: 840px;
-		// overflow: hidden;
+		@media #{$large-up} {
+			height: 840px;
+		}
 	}
 } // section
 
 aside {
 	background-color: $primary-dark;
 	color: $secondary-light;
-	padding: 2vw 2vw 99999px 2vw;
+	padding: 20px 20px 99999px 20px;
 	margin-bottom: -99999px;
 	width: 100%;
 
@@ -134,7 +136,7 @@ aside {
 			color: darken($secondary-light, 25%);
 			left: 10px;
 		}
-	}
+	}// a
 
 	@media #{$large-up} {
 		.headline,
@@ -142,7 +144,7 @@ aside {
 		table {
 			@include transition(opacity 2s);
 			opacity: .3;
-		}
+		} // aside content element transitions
 
 		&.fadeIn {
 			.headline,
@@ -150,8 +152,8 @@ aside {
 			table {
 				opacity: 1;
 			}
-		}
-	}
+		} // fadeIn class transitions
+	}// 
 } // aside
 
 .content {
