@@ -14,6 +14,11 @@ nav {
 		opacity: 1;
 	}
 
+	ul {
+		position: relative;
+		z-index: 99; // place below nav
+	}
+
 	a {
 		color: $primary-dark;
 		display: block;

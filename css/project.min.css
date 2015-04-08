@@ -1863,6 +1863,9 @@ nav {
   width: 100%; }
   nav.is-shown {
     opacity: 1; }
+  nav ul {
+    position: relative;
+    z-index: 99; }
   nav a {
     color: #434343;
     display: block;

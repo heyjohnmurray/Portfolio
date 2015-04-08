@@ -12,21 +12,22 @@ $(function() {
 		var workSidebar = $('.js-work-aside');
 		var aboutSidebar = $('.js-about-aside');
 		var contactSidebar = $('.js-contact-aside');
-		var navClose = $('.js-nav-close');
 		var navMenu = $('.js-nav');
+		var nameLogo = $('.js-nav .name-logo');
 
 		// open menu nav
 		$('.js-toggle-nav').on('click', function(e){
 			navMenu.addClass('is-shown');
-			$('.js-nav .name-logo').addClass('logo-fade');
+			nameLogo.addClass('logo-fade');
 
 			e.preventDefault();
 		});
 
-		navClose.on('click', function(e){
+		$('.js-nav-close, .js-nav a').on('click', function(e){
 			navMenu.removeClass('is-shown');
-			$('.js-nav .name-logo').removeClass('logo-fade');
-			e.preventDefault();
+			nameLogo.removeClass('logo-fade');
+
+		  	e.preventDefault();
 		});
 
 		// sticky portfolio section
