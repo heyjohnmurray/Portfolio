@@ -1708,6 +1708,9 @@ ul {
   line-height: 1em;
   margin-left: .2em; }
 
+.icon-cancel:before {
+  content: '\e801'; }
+
 .icon-paper-plane:before {
   content: '\e809'; }
 
@@ -1876,13 +1879,17 @@ nav {
   nav .nav-close {
     font-family: "regular";
     font-size: 13px;
-    left: -8px;
+    left: -4px;
     margin-bottom: 20px;
     position: relative;
     text-align: right;
     text-transform: uppercase;
-    top: -3px;
+    top: -25px;
     z-index: 999; }
+    nav .nav-close i {
+      font-size: 30px;
+      position: relative;
+      top: 5px; }
   nav .name-logo {
     -webkit-transform: rotate(-25deg);
     -moz-transform: rotate(-25deg);
