@@ -1879,17 +1879,19 @@ nav {
   nav .nav-close {
     font-family: "regular";
     font-size: 13px;
-    left: -4px;
+    left: 2px;
     margin-bottom: 20px;
     position: relative;
     text-align: right;
     text-transform: uppercase;
-    top: -25px;
+    top: -23px;
     z-index: 999; }
     nav .nav-close i {
       font-size: 30px;
       position: relative;
       top: 5px; }
+      nav .nav-close i:before {
+        margin: 0; }
   nav .name-logo {
     -webkit-transform: rotate(-25deg);
     -moz-transform: rotate(-25deg);
