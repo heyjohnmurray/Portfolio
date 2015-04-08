@@ -1,6 +1,7 @@
 nav {
+	@include transition(opacity .5s);
 	background-color: $primary-light;
-	display: none;
+	opacity: 0;
 	height: 100%;
 	left: 0;
 	overflow: hidden;
@@ -10,7 +11,7 @@ nav {
 	width: 100%;
 
 	&.is-shown {
-		display: block;
+		opacity: 1;
 	}
 
 	a {
@@ -22,29 +23,96 @@ nav {
 		text-transform: uppercase;
 	}
 
-
 	.nav-close {
 		font-family: "regular";
-		font-size: 30px;
+		font-size: 13px;
 		margin-bottom: 20px;
+		position: relative;
+		text-align: right;
 		text-transform: uppercase;
+		top: -23px;
+		z-index: 999;
 
 		span {
 			display: inline-block;
 			font-family: "black";
+			font-size: 30px;
+			position: relative;
+			left: -10px;
+			top: 5px;
 		}
 	}
 
 	.name-logo {
 		@include transform(rotate(-25deg));
-		@include transition(color 1s linear);
-		color: lighten($primary-light, 10%);
+		@include transition(opacity 1s linear);
+		@include transition-delay(1s);
 		left: -23%;
+		opacity: 0;
 		position: relative;
-		top: 50px;
+		top: 0;
 
 		&.logo-fade {
-			color: $primary-light;
+			opacity: .3;
 		}
 	}
 }
+
+span.nav-label {
+	font-size: 13px;
+	left: 35px;
+	position: relative;
+	text-transform: uppercase;
+	top: -10px;
+}
+
+a.button-toggle-nav {
+	color: $primary-light;
+	cursor: pointer;
+	height: 30px;
+	right: 65px;
+	position: absolute;
+	text-decoration: none;
+	top: 30px;
+	transition: left 0.2s;
+	width: 30px;
+	z-index: 10;
+} // button-toggle-nav
+
+.button-nav-toggle {
+	background: $primary-light;
+	display: inline-block;
+	height: 5px;
+	position: absolute;
+	transition: 0.3s;
+	width: 25px;
+	z-index: 200;
+
+	&:before {
+		top: 7px;
+	}
+
+	&:after {
+		top: -7px;
+	}
+
+	&:before, &:after {
+		@include transform-origin(5px center);
+		@include transition(.3s);
+		background: $primary-light;
+		content: '';
+		display: inline-block;
+		height: 5px;
+		left: 0;
+		position: absolute;
+		width: 25px;
+	}
+
+	&:hover:before {
+		top: 10px;
+	}
+
+	&:hover:after{
+		top: -10px;
+	}
+} // nav-toggle
