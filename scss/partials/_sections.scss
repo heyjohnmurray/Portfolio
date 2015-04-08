@@ -11,10 +11,7 @@ section {
 	}
 
 	&.intro {
-		@include transition(background-color .5s linear);
-		background-color: $secondary-dark;
 		color: $secondary-light;
-		height: 1500px;
 		padding: 10vh 0;
 
 		@media #{$medium-up} {
@@ -22,11 +19,16 @@ section {
 		}
 
 		@media #{$large-up} {
+			@include transition(background-color .5s linear);
+			background-color: $secondary-dark;
+			height: 1000px;
 			padding: 3vh 0;
 		}
 
 		&.is-scrolled {
-			background-color: $primary-light;
+			@media #{$large-up} {
+				background-color: $primary-light;
+			}
 		}
 
 		a {
