@@ -1,7 +1,7 @@
 $(function() {
 	$('.js-typer').typed({
 		strings: ['Designer', 'Developer', 'UX Expert', 'Strategist', 'Husband', 'Father', 'Leader', 'Mentor', 'Southerner'],
-		loop: false,
+		loop: true,
 		typeSpeed: 100
 	});
 

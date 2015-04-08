@@ -27,9 +27,7 @@ section {
 
 		&.is-scrolled {
 			@media #{$large-up} {
-				// background-color: $primary-light;
-				// background-color: lighten($primary-dark, 10%);
-				background-color: #27acc0;
+				background-color: $primary-light;
 			}
 		}
 
