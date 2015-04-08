@@ -1817,15 +1817,21 @@ section {
       top: 0;
       z-index: 9999; } }
   section.intro {
+    -webkit-transition: background-color 0.5s linear;
+    -moz-transition: background-color 0.5s linear;
+    transition: background-color 0.5s linear;
+    background-color: #262626;
     color: #f6f6f6;
+    height: 1500px;
     padding: 10vh 0; }
     @media only screen and (min-width: 40.0625em) {
       section.intro {
         padding: 2vh 0; } }
     @media only screen and (min-width: 64.0625em) {
       section.intro {
-        padding: 3vh 0;
-        margin-bottom: 100vh; } }
+        padding: 3vh 0; } }
+    section.intro.is-scrolled {
+      background-color: #f6c80f; }
     section.intro a {
       display: block;
       margin-bottom: 3vh;

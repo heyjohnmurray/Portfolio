@@ -53,6 +53,25 @@ $(function() {
 			contactSidebar.removeClass('fadeIn');
 		}
 
+		if ($(window).scrollTop() > 300){
+			$('.intro').addClass('is-scrolled');
+		} else {
+			$('.intro').removeClass('is-scrolled');
+		}
+	});
+
+	// scrolling links
+	$('a[href^="#"]').on('click',function (e) {
+		var target = this.hash;
+		var $target = $(target);
+
+		$('html, body').stop().animate({
+			'scrollTop': $target.offset().top + 1 // add a pixel to trigger transition fadeIn
+		}, 1000, 'swing', function () {
+			window.location.hash = target;
+		});
+
+		e.preventDefault();
 	});
 //close jquery
 });
