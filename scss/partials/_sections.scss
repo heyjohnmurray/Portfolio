@@ -27,7 +27,9 @@ section {
 
 		&.is-scrolled {
 			@media #{$large-up} {
-				background-color: $primary-light;
+				// background-color: $primary-light;
+				// background-color: lighten($primary-dark, 10%);
+				background-color: #4f4105;
 			}
 		}
 
@@ -42,65 +44,65 @@ section {
 			text-decoration: none;
 		} // a
 
-		.title {
-			font-size: 30vw;
-			line-height: 20vw;
-
-			@media #{$medium-up} {
-				font-size: 25vw;
-				line-height: 18vw;
-			}
-
-			@media #{$large-up} {
-				font-size: 20vw;
-				line-height: 12vw;
-			}
-
-			.capital {
-				font-family: "olympic", sans-serif;
-			}
-		} // title
-
-		.description {
-			text-align: center;
-			font-family: "script", sans-serif;
-			font-size: 20vw;
-			line-height: 20vw;
-
-			@media #{$medium-up} {
-				font-size: 15vw;
-				line-height: 15vw;
-			}
-
-			@media #{$large-up} {
-				font-size: 12vw;
-				line-height: 8vw;	
-			}
-		} // description
-
-		.attributes {
-			color: $primary-light;
-			font-family: "black-italic", sans-serif;
-			font-size: 15vw;
-			text-transform: uppercase;
-
-			@media #{$medium-up} {
-				font-size: 12vw;
-				line-height: 12vw;
-			}
-
-			@media #{$large-up} {
-				font-size: 10vw;
-				line-height: 10vw;
-			}
-		} // attributes
-
 		img {
 			@include animation(slowBounce 3s infinite);
 			position: relative;
 			top: 0;
 		}
 	} // intro
+
+	.title {
+		font-size: 30vw;
+		line-height: 20vw;
+
+		@media #{$medium-up} {
+			font-size: 25vw;
+			line-height: 18vw;
+		}
+
+		@media #{$large-up} {
+			font-size: 20vw;
+			line-height: 12vw;
+		}
+
+		.capital {
+			font-family: "olympic", sans-serif;
+		}
+	} // title
+
+	.name-logo {
+		text-align: center;
+		font-family: "script", sans-serif;
+		font-size: 20vw;
+		line-height: 20vw;
+
+		@media #{$medium-up} {
+			font-size: 15vw;
+			line-height: 15vw;
+		}
+
+		@media #{$large-up} {
+			font-size: 12vw;
+			line-height: 8vw;	
+		}
+	} // description
+
+	.attributes {
+		color: $primary-light;
+		font-family: "black-italic", sans-serif;
+		font-size: 15vw;
+		text-transform: uppercase;
+
+		@media #{$medium-up} {
+			font-size: 12vw;
+			line-height: 12vw;
+		}
+
+		@media #{$large-up} {
+			font-size: 10vw;
+			line-height: 10vw;
+		}
+	} // attributes
 
 	&.contact {
 		@media #{$large-up} {
@@ -133,18 +135,20 @@ aside {
 		}
 	} // align right
 
-	a {
-		@include transition(color .5s, left .5s);
-		color: $secondary-light;
-		left: 0;
-		position: relative;
-		text-decoration: none;
+	.list {
+		a {
+			@include transition(color .5s, left .5s);
+			color: $secondary-light;
+			left: 0;
+			position: relative;
+			text-decoration: none;
 
-		&:hover {
-			color: darken($secondary-light, 25%);
-			left: 10px;
-		}
-	}// a
+			&:hover {
+				color: darken($secondary-light, 25%);
+				left: 10px;
+			}
+		}// a
+	}
 
 	@media #{$large-up} {
 		.headline,

@@ -1,0 +1,30 @@
+nav {
+	background-color: $primary-light;
+	height: 100%;
+	left: 0;
+	overflow: hidden;
+	padding: 30px;
+	position: absolute;
+	top: 0;
+	width: 100%;
+
+	a,
+	.nav-close {
+		color: $primary-dark;
+		text-decoration: none;
+	}
+
+	.nav-close {
+		font-family: "regular";
+		font-size: 20px;
+		text-transform: uppercase;
+
+		span {
+			display: inline-block;
+			font-family: "black";
+			font-size: 30px;
+			position: relative;
+			top: 3px;
+		}
+	}
+}
