@@ -12,6 +12,10 @@ $(function() {
 		var workSidebar = $('.js-work-aside');
 		var aboutSidebar = $('.js-about-aside');
 		var contactSidebar = $('.js-contact-aside');
+		var navMenu = $('.js-nav');
+
+		// finish adding menu js
+		navMenu.addClass('logo-fade');
 
 		// sticky portfolio section
 

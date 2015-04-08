@@ -29,7 +29,7 @@ section {
 			@media #{$large-up} {
 				// background-color: $primary-light;
 				// background-color: lighten($primary-dark, 10%);
-				background-color: #4f4105;
+				background-color: #27acc0;
 			}
 		}
 
@@ -50,59 +50,6 @@ section {
 			top: 0;
 		}
 	} // intro
-
-	.title {
-		font-size: 30vw;
-		line-height: 20vw;
-
-		@media #{$medium-up} {
-			font-size: 25vw;
-			line-height: 18vw;
-		}
-
-		@media #{$large-up} {
-			font-size: 20vw;
-			line-height: 12vw;
-		}
-
-		.capital {
-			font-family: "olympic", sans-serif;
-		}
-	} // title
-
-	.name-logo {
-		text-align: center;
-		font-family: "script", sans-serif;
-		font-size: 20vw;
-		line-height: 20vw;
-
-		@media #{$medium-up} {
-			font-size: 15vw;
-			line-height: 15vw;
-		}
-
-		@media #{$large-up} {
-			font-size: 12vw;
-			line-height: 8vw;	
-		}
-	} // description
-
-	.attributes {
-		color: $primary-light;
-		font-family: "black-italic", sans-serif;
-		font-size: 15vw;
-		text-transform: uppercase;
-
-		@media #{$medium-up} {
-			font-size: 12vw;
-			line-height: 12vw;
-		}
-
-		@media #{$large-up} {
-			font-size: 10vw;
-			line-height: 10vw;
-		}
-	} // attributes
 
 	&.contact {
 		@media #{$large-up} {

@@ -1,0 +1,52 @@
+.name-logo {
+	text-align: center;
+	font-family: "script", sans-serif;
+	font-size: 20vw;
+	line-height: 20vw;
+
+	@media #{$medium-up} {
+		font-size: 15vw;
+		line-height: 15vw;
+	}
+
+	@media #{$large-up} {
+		font-size: 12vw;
+		line-height: 8vw;	
+	}
+
+	.title {
+		font-size: 30vw;
+		line-height: 20vw;
+
+		@media #{$medium-up} {
+			font-size: 25vw;
+			line-height: 18vw;
+		}
+
+		@media #{$large-up} {
+			font-size: 20vw;
+			line-height: 12vw;
+		}
+
+		.capital {
+			font-family: "olympic", sans-serif;
+		}
+	} // title
+
+	.attributes {
+		color: $primary-light;
+		font-family: "black-italic", sans-serif;
+		font-size: 15vw;
+		text-transform: uppercase;
+
+		@media #{$medium-up} {
+			font-size: 12vw;
+			line-height: 12vw;
+		}
+
+		@media #{$large-up} {
+			font-size: 10vw;
+			line-height: 10vw;
+		}
+	} // attributes
+} // name-logo

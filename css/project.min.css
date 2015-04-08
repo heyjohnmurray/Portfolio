@@ -1808,8 +1808,49 @@ td {
   -moz-animation: blink 0.7s infinite;
   animation: blink 0.7s infinite; }
 
+.name-logo {
+  text-align: center;
+  font-family: "script", sans-serif;
+  font-size: 20vw;
+  line-height: 20vw; }
+  @media only screen and (min-width: 40.0625em) {
+    .name-logo {
+      font-size: 15vw;
+      line-height: 15vw; } }
+  @media only screen and (min-width: 64.0625em) {
+    .name-logo {
+      font-size: 12vw;
+      line-height: 8vw; } }
+  .name-logo .title {
+    font-size: 30vw;
+    line-height: 20vw; }
+    @media only screen and (min-width: 40.0625em) {
+      .name-logo .title {
+        font-size: 25vw;
+        line-height: 18vw; } }
+    @media only screen and (min-width: 64.0625em) {
+      .name-logo .title {
+        font-size: 20vw;
+        line-height: 12vw; } }
+    .name-logo .title .capital {
+      font-family: "olympic", sans-serif; }
+  .name-logo .attributes {
+    color: #f6c80f;
+    font-family: "black-italic", sans-serif;
+    font-size: 15vw;
+    text-transform: uppercase; }
+    @media only screen and (min-width: 40.0625em) {
+      .name-logo .attributes {
+        font-size: 12vw;
+        line-height: 12vw; } }
+    @media only screen and (min-width: 64.0625em) {
+      .name-logo .attributes {
+        font-size: 10vw;
+        line-height: 10vw; } }
+
 nav {
   background-color: #f6c80f;
+  display: none;
   height: 100%;
   left: 0;
   overflow: hidden;
@@ -1817,20 +1858,38 @@ nav {
   position: absolute;
   top: 0;
   width: 100%; }
-  nav a,
-  nav .nav-close {
+  nav.is-shown {
+    display: block; }
+  nav a {
     color: #434343;
-    text-decoration: none; }
+    display: block;
+    font-family: "black";
+    font-size: 50px;
+    text-decoration: none;
+    text-transform: uppercase; }
   nav .nav-close {
     font-family: "regular";
-    font-size: 20px;
+    font-size: 30px;
+    margin-bottom: 20px;
     text-transform: uppercase; }
     nav .nav-close span {
       display: inline-block;
-      font-family: "black";
-      font-size: 30px;
-      position: relative;
-      top: 3px; }
+      font-family: "black"; }
+  nav .name-logo {
+    -webkit-transform: rotate(-25deg);
+    -moz-transform: rotate(-25deg);
+    -ms-transform: rotate(-25deg);
+    -o-transform: rotate(-25deg);
+    transform: rotate(-25deg);
+    -webkit-transition: color 1s linear;
+    -moz-transition: color 1s linear;
+    transition: color 1s linear;
+    color: #f8d340;
+    left: -23%;
+    position: relative;
+    top: 50px; }
+    nav .name-logo.logo-fade {
+      color: #f6c80f; }
 
 section {
   overflow: hidden;
@@ -1856,7 +1915,7 @@ section {
         padding: 3vh 0; } }
     @media only screen and (min-width: 64.0625em) {
       section.intro.is-scrolled {
-        background-color: #4f4105; } }
+        background-color: #27acc0; } }
     section.intro a {
       display: block;
       margin-bottom: 3vh;
@@ -1872,45 +1931,6 @@ section {
       animation: slowBounce 3s infinite;
       position: relative;
       top: 0; }
-  section .title {
-    font-size: 30vw;
-    line-height: 20vw; }
-    @media only screen and (min-width: 40.0625em) {
-      section .title {
-        font-size: 25vw;
-        line-height: 18vw; } }
-    @media only screen and (min-width: 64.0625em) {
-      section .title {
-        font-size: 20vw;
-        line-height: 12vw; } }
-    section .title .capital {
-      font-family: "olympic", sans-serif; }
-  section .name-logo {
-    text-align: center;
-    font-family: "script", sans-serif;
-    font-size: 20vw;
-    line-height: 20vw; }
-    @media only screen and (min-width: 40.0625em) {
-      section .name-logo {
-        font-size: 15vw;
-        line-height: 15vw; } }
-    @media only screen and (min-width: 64.0625em) {
-      section .name-logo {
-        font-size: 12vw;
-        line-height: 8vw; } }
-  section .attributes {
-    color: #f6c80f;
-    font-family: "black-italic", sans-serif;
-    font-size: 15vw;
-    text-transform: uppercase; }
-    @media only screen and (min-width: 40.0625em) {
-      section .attributes {
-        font-size: 12vw;
-        line-height: 12vw; } }
-    @media only screen and (min-width: 64.0625em) {
-      section .attributes {
-        font-size: 10vw;
-        line-height: 10vw; } }
   @media only screen and (min-width: 64.0625em) {
     section.contact {
       height: 840px; } }

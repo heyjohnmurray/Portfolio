@@ -1,5 +1,6 @@
 nav {
 	background-color: $primary-light;
+	display: none;
 	height: 100%;
 	left: 0;
 	overflow: hidden;
@@ -8,23 +9,42 @@ nav {
 	top: 0;
 	width: 100%;
 
-	a,
-	.nav-close {
-		color: $primary-dark;
-		text-decoration: none;
+	&.is-shown {
+		display: block;
 	}
+
+	a {
+		color: $primary-dark;
+		display: block;
+		font-family: "black";
+		font-size: 50px;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
 
 	.nav-close {
 		font-family: "regular";
-		font-size: 20px;
+		font-size: 30px;
+		margin-bottom: 20px;
 		text-transform: uppercase;
 
 		span {
 			display: inline-block;
 			font-family: "black";
-			font-size: 30px;
-			position: relative;
-			top: 3px;
+		}
+	}
+
+	.name-logo {
+		@include transform(rotate(-25deg));
+		@include transition(color 1s linear);
+		color: lighten($primary-light, 10%);
+		left: -23%;
+		position: relative;
+		top: 50px;
+
+		&.logo-fade {
+			color: $primary-light;
 		}
 	}
 }
