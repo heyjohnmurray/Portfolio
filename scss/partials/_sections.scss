@@ -82,9 +82,12 @@ aside {
 	} // align right
 
 	.sidebar-copy {
-		height: 1000px; // help cover <nav> below
 		position: relative;
 		z-index: 200;
+
+		@media #{$large-up} {
+			height: 1000px; // help cover <nav> below
+		}
 	}
 
 	// <ul> style on asides :: see contact section

@@ -2018,9 +2018,11 @@ aside {
     aside.align-right {
       left: 68%; } }
   aside .sidebar-copy {
-    height: 1000px;
     position: relative;
     z-index: 200; }
+    @media only screen and (min-width: 64.0625em) {
+      aside .sidebar-copy {
+        height: 1000px; } }
   aside .list a {
     -webkit-transition: color 0.5s, left 0.5s;
     -moz-transition: color 0.5s, left 0.5s;
