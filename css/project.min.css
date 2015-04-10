@@ -1831,17 +1831,7 @@ td {
 
 .name-logo {
   text-align: center;
-  font-family: "script", sans-serif;
-  font-size: 20vw;
-  line-height: 20vw; }
-  @media only screen and (min-width: 40.0625em) {
-    .name-logo {
-      font-size: 15vw;
-      line-height: 15vw; } }
-  @media only screen and (min-width: 64.0625em) {
-    .name-logo {
-      font-size: 12vw;
-      line-height: 8vw; } }
+  font-family: "script", sans-serif; }
   .name-logo .title {
     font-size: 30vw;
     line-height: 20vw; }
@@ -1855,6 +1845,19 @@ td {
         line-height: 12vw; } }
     .name-logo .title .capital {
       font-family: "olympic", sans-serif; }
+    .name-logo .title.clickable {
+      font-size: 18px; }
+  .name-logo .description {
+    font-size: 20vw;
+    line-height: 20vw; }
+    @media only screen and (min-width: 40.0625em) {
+      .name-logo .description {
+        font-size: 15vw;
+        line-height: 15vw; } }
+    @media only screen and (min-width: 64.0625em) {
+      .name-logo .description {
+        font-size: 12vw;
+        line-height: 8vw; } }
   .name-logo .attributes {
     color: #f6c80f;
     font-family: "black-italic", sans-serif;
@@ -1881,9 +1884,11 @@ nav {
   padding: 30px;
   position: absolute;
   top: 0;
-  width: 100%; }
+  width: 100%;
+  z-index: 100; }
   nav.is-shown {
-    opacity: 1; }
+    opacity: 1;
+    z-index: 300; }
   nav ul {
     position: relative;
     z-index: 99; }
@@ -1934,10 +1939,10 @@ a.button-toggle-nav {
   color: #f6c80f;
   cursor: pointer;
   height: 30px;
-  right: 80px;
+  right: 53px;
   position: absolute;
   text-decoration: none;
-  top: 30px;
+  top: 0;
   transition: left 0.2s;
   width: 30px;
   z-index: 10; }
@@ -1994,7 +1999,8 @@ aside {
   color: #f6f6f6;
   padding: 20px 20px 99999px 20px;
   margin-bottom: -99999px;
-  width: 100%; }
+  width: 100%;
+  z-index: 200; }
   @media only screen and (min-width: 64.0625em) {
     aside {
       position: absolute;
@@ -2005,6 +2011,9 @@ aside {
   @media only screen and (min-width: 64.0625em) {
     aside.align-right {
       left: 68%; } }
+  aside .sidebar-copy {
+    position: relative;
+    z-index: 200; }
   aside .list a {
     -webkit-transition: color 0.5s, left 0.5s;
     -moz-transition: color 0.5s, left 0.5s;

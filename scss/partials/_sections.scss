@@ -62,6 +62,7 @@ aside {
 	padding: 20px 20px 99999px 20px;
 	margin-bottom: -99999px;
 	width: 100%;
+	z-index: 200;
 
 	@media #{$large-up} {
 		position: absolute;
@@ -79,6 +80,11 @@ aside {
 			left: 68%;
 		}
 	} // align right
+
+	.sidebar-copy {
+		position: relative;
+		z-index: 200;
+	}
 
 	// <ul> style on asides :: see contact section
 	.list {
@@ -121,7 +127,7 @@ aside {
 		}
 
 		aside {
-			
+
 		}
 	}
 } // aside
