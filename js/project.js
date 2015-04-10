@@ -21,8 +21,6 @@ $(function() {
 	$('.js-nav-close, .js-nav a').on('click', function(e){
 		navMenu.removeClass('is-shown');
 		nameLogo.removeClass('logo-fade');
-
-	  	e.preventDefault();
 	});
 
 	// make interior page <aside> sticky

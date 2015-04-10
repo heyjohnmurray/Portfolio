@@ -116,18 +116,14 @@ aside {
 			table {
 				opacity: 1;
 			}
-		} // fadeIn class transitions$_SERVER["PHP_SELF"];
-	}// 
+		}
+	} // desktop fadeIn transitions
 
 	.interior-page & {
 		.headline,
 		p,
 		table {
 			opacity: 1;
-		}
-
-		aside {
-
 		}
 	}
 } // aside

@@ -1845,8 +1845,6 @@ td {
         line-height: 12vw; } }
     .name-logo .title .capital {
       font-family: "olympic", sans-serif; }
-    .name-logo .title.clickable {
-      font-size: 18px; }
   .name-logo .description {
     font-size: 20vw;
     line-height: 20vw; }
