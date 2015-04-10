@@ -18,9 +18,13 @@ $(function() {
 	});
 
 	// close nav menu
-	$('.js-nav-close, .js-nav a').on('click', function(e){
+	$('.js-nav-close, .js-nav a').on('click', function(){
 		navMenu.removeClass('is-shown');
 		nameLogo.removeClass('logo-fade');
+	});
+
+	$('.js-nav-close').on('click', function(e){
+		e.preventDefault();
 	});
 
 	// make interior page <aside> sticky
