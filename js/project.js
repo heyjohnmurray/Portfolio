@@ -1,8 +1,26 @@
 $(function() {
+	var navMenu = $('.js-nav');
+	var nameLogo = $('.js-nav .name-logo');
+
 	$('.js-typer').typed({
 		strings: ['Designer', 'Developer', 'UX Expert', 'Strategist', 'Husband', 'Father', 'Leader', 'Mentor', 'Southerner'],
 		loop: true,
 		typeSpeed: 100
+	});
+
+	// open menu nav
+	$('.js-toggle-nav').on('click', function(e){
+		navMenu.addClass('is-shown');
+		nameLogo.addClass('logo-fade');
+
+		e.preventDefault();
+	});
+
+	$('.js-nav-close, .js-nav a').on('click', function(e){
+		navMenu.removeClass('is-shown');
+		nameLogo.removeClass('logo-fade');
+
+	  	e.preventDefault();
 	});
 
 	$(window).scroll(function(){
@@ -12,23 +30,6 @@ $(function() {
 		var workSidebar = $('.js-work-aside');
 		var aboutSidebar = $('.js-about-aside');
 		var contactSidebar = $('.js-contact-aside');
-		var navMenu = $('.js-nav');
-		var nameLogo = $('.js-nav .name-logo');
-
-		// open menu nav
-		$('.js-toggle-nav').on('click', function(e){
-			navMenu.addClass('is-shown');
-			nameLogo.addClass('logo-fade');
-
-			e.preventDefault();
-		});
-
-		$('.js-nav-close, .js-nav a').on('click', function(e){
-			navMenu.removeClass('is-shown');
-			nameLogo.removeClass('logo-fade');
-
-		  	e.preventDefault();
-		});
 
 		// sticky portfolio section
 
