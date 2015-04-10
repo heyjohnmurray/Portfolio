@@ -1,6 +1,5 @@
 body {
 	background-color: $secondary-dark;
-	font-size: 62.5%;
 
 	&.interior-page {
 		@include animation(fadeIn 1s ease-in);

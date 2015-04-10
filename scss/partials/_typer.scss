@@ -1,4 +1,5 @@
 .typed-cursor{
-	opacity: 1;
 	@include animation(blink 0.7s infinite);
+	font-size: 10vw;
+	opacity: 1;
 }

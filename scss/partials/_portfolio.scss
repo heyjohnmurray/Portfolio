@@ -109,7 +109,7 @@
 		.cover {
 			@include transition(top .5s);
 			backface-visibility: hidden;
-			background-color: rgba($primary-light, .7);
+			background-color: rgba(#27acc0, .7);
 			color: $secondary-light;
 			height: 100%;
 			left: 0;
@@ -173,8 +173,10 @@
 			} // after
 
 			b {
+				// color: $primary-dark;
+				font-family: "bold";
 				font-size: 30px;
-				text-shadow: 0px 3px 3px rgba($secondary-dark, .5);
+				letter-spacing: 0;
 
 				@media #{$medium-up} {
 					font-size: 40px;
