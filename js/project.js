@@ -72,9 +72,9 @@ $(function() {
 		}
 
 		if ($(window).scrollTop() > 300){
-			$('.intro').addClass('is-scrolled');
+			$('.intro').addClass('has-color-transition');
 		} else {
-			$('.intro').removeClass('is-scrolled');
+			$('.intro').removeClass('has-color-transition');
 		}
 	});
 

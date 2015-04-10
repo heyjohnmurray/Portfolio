@@ -1808,6 +1808,21 @@ td {
     top: -20px; }
   100% {
     top: 10px; } }
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+@keyframes fadeIn {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
 .typed-cursor {
   opacity: 1;
   -webkit-animation: blink 0.7s infinite;
@@ -1953,7 +1968,7 @@ section {
         height: 1000px;
         padding: 3vh 0; } }
     @media only screen and (min-width: 64.0625em) {
-      section.intro.is-scrolled {
+      section.intro.has-color-transition {
         background-color: #f6c80f; } }
     section.intro a {
       display: block;
@@ -2013,6 +2028,10 @@ aside {
     aside.fadeIn p,
     aside.fadeIn table {
       opacity: 1; } }
+  .interior-page aside .headline,
+  .interior-page aside p,
+  .interior-page aside table {
+    opacity: 1; }
 
 .content {
   background-color: #f6f6f6;

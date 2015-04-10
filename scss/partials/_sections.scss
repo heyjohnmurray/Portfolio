@@ -25,7 +25,7 @@ section {
 			padding: 3vh 0;
 		}
 
-		&.is-scrolled {
+		&.has-color-transition {
 			@media #{$large-up} {
 				background-color: $primary-light;
 			}
@@ -80,6 +80,7 @@ aside {
 		}
 	} // align right
 
+	// <ul> style on asides :: see contact section
 	.list {
 		a {
 			@include transition(color .5s, left .5s);
@@ -109,8 +110,16 @@ aside {
 			table {
 				opacity: 1;
 			}
-		} // fadeIn class transitions
+		} // fadeIn class transitions$_SERVER["PHP_SELF"];
 	}// 
+
+	.interior-page & {
+		.headline,
+		p,
+		table {
+			opacity: 1;
+		}
+	}
 } // aside
 
 .content {
