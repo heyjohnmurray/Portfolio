@@ -2,6 +2,7 @@ $(function() {
 	var navMenu = $('.js-nav');
 	var nameLogo = $('.js-nav .name-logo');
 
+	// typing effect on the home page
 	$('.js-typer').typed({
 		strings: ['Designer', 'Developer', 'UX Expert', 'Strategist', 'Husband', 'Father', 'Leader', 'Mentor', 'Southerner'],
 		loop: true,
@@ -16,12 +17,16 @@ $(function() {
 		e.preventDefault();
 	});
 
+	// close nav menu
 	$('.js-nav-close, .js-nav a').on('click', function(e){
 		navMenu.removeClass('is-shown');
 		nameLogo.removeClass('logo-fade');
 
 	  	e.preventDefault();
 	});
+
+	// make interior page <aside> sticky
+	$('.interior-page aside').addClass('is-sticky');
 
 	$(window).scroll(function(){
 		var workTop = $('.js-work').offset().top;
@@ -31,8 +36,14 @@ $(function() {
 		var aboutSidebar = $('.js-about-aside');
 		var contactSidebar = $('.js-contact-aside');
 
-		// sticky portfolio section
+		// add background color transition to .intro 
+		if ($(window).scrollTop() > 300){
+			$('.intro').addClass('has-color-transition');
+		} else {
+			$('.intro').removeClass('has-color-transition');
+		}
 
+		// sticky portfolio section
 		if ($(window).scrollTop() >= workTop){
 			workSidebar.addClass('is-sticky');
 			workSidebar.addClass('fadeIn');
@@ -41,13 +52,13 @@ $(function() {
 			workSidebar.removeClass('fadeIn');
 		}
 
+		// turn off sticky at the bottom of the portfolio section
 		if ($(window).scrollTop() >= $('.js-work-samples').offset().top + $('.js-work-samples').outerHeight() - window.innerHeight) {
 			workSidebar.removeClass('is-sticky');
 			workSidebar.removeClass('fadeIn');
 		}
 
 		// sticky about section
-
 		if ($(window).scrollTop() >= aboutTop){
 			aboutSidebar.addClass('is-sticky');
 			aboutSidebar.addClass('fadeIn');
@@ -56,25 +67,19 @@ $(function() {
 			aboutSidebar.removeClass('fadeIn');
 		}
 
+		// turn off sticky at the bottom of the about section
 		if($(window).scrollTop() >= $('.js-about-bio').offset().top + $('.js-about-bio').outerHeight() - window.innerHeight) {
 			aboutSidebar.removeClass('is-sticky');
 			aboutSidebar.removeClass('fadeIn');
 		}
 
 		// sticky contact section
-
 		if ($(window).scrollTop() >= contactTop){
 			contactSidebar.addClass('is-sticky');
 			contactSidebar.addClass('fadeIn');
 		} else {
 			contactSidebar.removeClass('is-sticky');
 			contactSidebar.removeClass('fadeIn');
-		}
-
-		if ($(window).scrollTop() > 300){
-			$('.intro').addClass('has-color-transition');
-		} else {
-			$('.intro').removeClass('has-color-transition');
 		}
 	});
 
