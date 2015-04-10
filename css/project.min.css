@@ -1926,7 +1926,7 @@ nav {
     left: -23%;
     opacity: 0;
     position: relative;
-    top: 0; }
+    top: -70px; }
     nav .name-logo.logo-fade {
       opacity: .3; }
 
@@ -2014,6 +2014,7 @@ aside {
     aside.align-right {
       left: 68%; } }
   aside .sidebar-copy {
+    height: 1000px;
     position: relative;
     z-index: 200; }
   aside .list a {
