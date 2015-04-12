@@ -1629,6 +1629,16 @@ ul {
       padding: 70px; } }
   .body-copy p {
     color: #434343; }
+  .body-copy a {
+    -webkit-transition: all 0.25s ease-in;
+    -moz-transition: all 0.25s ease-in;
+    transition: all 0.25s ease-in;
+    border-bottom: none;
+    color: #434343;
+    font-family: 'bold';
+    text-decoration: none; }
+    .body-copy a:hover {
+      border-bottom: 3px solid #f6c80f; }
 
 @font-face {
   font-family: "black";
@@ -1864,7 +1874,7 @@ td {
     @media only screen and (min-width: 64.0625em) {
       .name-logo .description {
         font-size: 12vw;
-        line-height: 8vw; } }
+        line-height: 5vw; } }
   .name-logo .attributes {
     color: #f6c80f;
     font-family: "black-italic", sans-serif;
