@@ -1627,18 +1627,6 @@ ul {
   @media only screen and (min-width: 64.0625em) {
     .body-copy {
       padding: 70px; } }
-  .body-copy p {
-    color: #434343; }
-  .body-copy a {
-    -webkit-transition: all 0.25s ease-in;
-    -moz-transition: all 0.25s ease-in;
-    transition: all 0.25s ease-in;
-    border-bottom: none;
-    color: #434343;
-    font-family: 'bold';
-    text-decoration: none; }
-    .body-copy a:hover {
-      border-bottom: 3px solid #f6c80f; }
 
 @font-face {
   font-family: "black";
@@ -1746,10 +1734,49 @@ body {
   font-size: 62.5%;
   letter-spacing: .5px; }
 
+p,
+td {
+  font-family: "thin";
+  font-size: 18px;
+  line-height: 1.6; }
+
+b {
+  font-family: "black";
+  letter-spacing: 1.5px; }
+
+strong {
+  font-family: "bold"; }
+
 section,
 aside {
   font-family: "regular";
   font-size: 18px; }
+  section p,
+  section td,
+  section li,
+  section a,
+  aside p,
+  aside td,
+  aside li,
+  aside a {
+    color: #fff; }
+
+.body-copy p,
+.body-copy td,
+.body-copy li,
+.body-copy a,
+.body-copy .headline,
+.body-copy .subheadline {
+  color: #434343; }
+.body-copy a {
+  -webkit-transition: all 0.25s ease-in;
+  -moz-transition: all 0.25s ease-in;
+  transition: all 0.25s ease-in;
+  border-bottom: none;
+  font-family: "bold";
+  text-decoration: none; }
+  .body-copy a:hover {
+    border-bottom: 3px solid #f6c80f; }
 
 .headline {
   font-family: "thin";
@@ -1762,27 +1789,12 @@ aside {
 
 .subheadline {
   background-color: #f6c80f;
-  color: #434343;
   font-family: "bold";
   font-size: 26px;
   line-height: 1;
   margin-bottom: 10px;
   padding: 10px;
   text-transform: uppercase; }
-
-b {
-  font-family: "black";
-  letter-spacing: 1.5px; }
-
-strong {
-  font-family: "bold"; }
-
-p,
-td {
-  font-family: "thin";
-  font-size: 18px;
-  line-height: 1.6;
-  color: #fff; }
 
 @-webkit-keyframes blink {
   0% {

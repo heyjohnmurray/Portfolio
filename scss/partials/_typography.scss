@@ -3,10 +3,56 @@ body {
 	letter-spacing: .5px;
 }
 
+p,
+td {
+	font-family: "thin";
+	font-size: 18px;
+	line-height: 1.6;
+	
+}
+
+b {
+	font-family: "black";
+	letter-spacing: 1.5px;
+}
+
+strong {
+	font-family: "bold";
+}
+
 section,
 aside {
 	font-family: "regular";
 	font-size: 18px;
+
+	p,
+	td,
+	li,
+	a {
+		color: #fff;
+	}
+}
+
+.body-copy {
+	p,
+	td,
+	li,
+	a,
+	.headline,
+	.subheadline {
+		color: $primary-dark;
+	}
+
+	a {
+		@include transition(all .25s ease-in);
+		border-bottom: none;
+		font-family: "bold";
+		text-decoration: none;
+
+		&:hover {
+			border-bottom: 3px solid $primary-light;
+		}
+	}
 }
 
 .headline {
@@ -23,28 +69,10 @@ aside {
 
 .subheadline {
 	background-color: $primary-light;
-	color: $primary-dark;
 	font-family: "bold";
 	font-size: 26px;
 	line-height: 1;
 	margin-bottom: 10px;
 	padding: 10px;
 	text-transform: uppercase;
-}
-
-b {
-	font-family: "black";
-	letter-spacing: 1.5px;
-}
-
-strong {
-	font-family: "bold";
-}
-
-p,
-td {
-	font-family: "thin";
-	font-size: 18px;
-	line-height: 1.6;
-	color: #fff;
 }
