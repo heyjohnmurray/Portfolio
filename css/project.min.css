@@ -1618,16 +1618,6 @@ ul {
     background-color: #363636;
     color: #f6f6f6; }
 
-.body-copy {
-  background-color: #f6f6f6;
-  padding: 10px; }
-  @media only screen and (min-width: 40.0625em) {
-    .body-copy {
-      padding: 40px; } }
-  @media only screen and (min-width: 64.0625em) {
-    .body-copy {
-      padding: 70px; } }
-
 @font-face {
   font-family: "black";
   font-style: normal;
@@ -1734,6 +1724,21 @@ body {
   font-size: 62.5%;
   letter-spacing: .5px; }
 
+h1 {
+  font-size: 40px; }
+
+h2 {
+  font-size: 35px; }
+
+h3 {
+  font-size: 30px; }
+
+h4 {
+  font-size: 25px; }
+
+p {
+  margin: 0 0 20px 0; }
+
 p,
 td {
   font-family: "thin";
@@ -1761,22 +1766,26 @@ aside {
   aside a {
     color: #fff; }
 
-.body-copy p,
-.body-copy td,
-.body-copy li,
-.body-copy a,
-.body-copy .headline,
-.body-copy .subheadline {
+.content p,
+.content td,
+.content li,
+.content a,
+.content .headline,
+.content .subheadline {
   color: #434343; }
-.body-copy a {
+.content a {
   -webkit-transition: all 0.25s ease-in;
   -moz-transition: all 0.25s ease-in;
   transition: all 0.25s ease-in;
   border-bottom: none;
   font-family: "bold";
   text-decoration: none; }
-  .body-copy a:hover {
+  .content a:hover {
     border-bottom: 3px solid #f6c80f; }
+
+.headline,
+.subheadline {
+  margin-bottom: 20px; }
 
 .headline {
   font-family: "thin";
@@ -2073,8 +2082,23 @@ aside {
   .interior-page aside table {
     opacity: 1; }
 
+.body-copy,
+.callout {
+  padding: 10px; }
+  @media only screen and (min-width: 40.0625em) {
+    .body-copy,
+    .callout {
+      padding: 40px; } }
+  @media only screen and (min-width: 64.0625em) {
+    .body-copy,
+    .callout {
+      padding: 70px; } }
+  .body-copy:nth-child(odd),
+  .callout:nth-child(odd) {
+    background-color: #f6f6f6; }
+
 .content {
-  background-color: #f6f6f6;
+  background-color: #fff;
   float: left;
   margin-bottom: -99999px;
   padding-bottom: 99999px;
