@@ -1,3 +1,8 @@
+// the following files are prepended to this through codekit:
+// foundation.js
+// foundation.interchange.js
+// typer.js
+
 $(function() {
 	var navMenu = $('.js-nav');
 	var nameLogo = $('.js-nav .name-logo');
