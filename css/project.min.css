@@ -1724,6 +1724,14 @@ body {
   font-size: 62.5%;
   letter-spacing: .5px; }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 0 20px 0; }
+
 h1 {
   font-size: 50px; }
 
@@ -1773,14 +1781,15 @@ aside {
 .content .headline,
 .content .subheadline {
   color: #434343; }
-.content a {
+
+.body-copy a {
   -webkit-transition: all 0.25s ease-in;
   -moz-transition: all 0.25s ease-in;
   transition: all 0.25s ease-in;
   border-bottom: none;
   font-family: "bold";
   text-decoration: none; }
-  .content a:hover {
+  .body-copy a:hover {
     border-bottom: 3px solid #f6c80f; }
 
 .headline,
