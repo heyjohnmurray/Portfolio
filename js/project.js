@@ -3,6 +3,9 @@
 // foundation.interchange.js
 // typer.js
 
+// set up foundation js plugins
+$(document).foundation();
+
 $(function() {
 	var navMenu = $('.js-nav');
 	var nameLogo = $('.js-nav .name-logo');
