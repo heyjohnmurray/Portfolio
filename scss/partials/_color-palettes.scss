@@ -1,0 +1,51 @@
+// uses project palette variables
+.color-palette {
+	&.hi-redesign {
+		.base-grey {
+			background-color: $hi-base-grey;
+		}
+
+		.base-red {
+			background-color: $hi-base-red;
+		}
+
+		.base-green {
+			background-color: $hi-base-green;
+		}
+
+		.light-grey {
+			background-color: $hi-grey-lighter;
+		}
+
+		.dark-grey {
+			background-color: $hi-grey-darker;
+		}
+
+		.dark-green {
+			background-color: $hi-green-darker;
+		}
+	}
+
+	// base color sample card-like appearance
+	li {
+		box-shadow: 0 2px 2px 2px rgba(0,0,0,.25);
+		border: 5px solid #fff;
+		color: $primary-dark;
+		height: 100px;
+		position: relative;
+		width: 100px;
+	}
+
+	span {
+		background-color: #fff;
+		bottom: 0;
+		display: inline-block;
+		font-size: 14px;
+		left: 0;
+		line-height: 30px;
+		position: absolute;
+		text-align: center;
+		text-transform: uppercase;
+		width: 100%;
+	}
+}

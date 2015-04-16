@@ -2313,4 +2313,35 @@ table {
   table strong {
     text-transform: uppercase; }
 
+.color-palette.hi-redesign .base-grey {
+  background-color: #e8e8e8; }
+.color-palette.hi-redesign .base-red {
+  background-color: #a80000; }
+.color-palette.hi-redesign .base-green {
+  background-color: #3cada8; }
+.color-palette.hi-redesign .light-grey {
+  background-color: #f6f6f6; }
+.color-palette.hi-redesign .dark-grey {
+  background-color: #333; }
+.color-palette.hi-redesign .dark-green {
+  background-color: #33938f; }
+.color-palette li {
+  box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.25);
+  border: 5px solid #fff;
+  color: #434343;
+  height: 100px;
+  position: relative;
+  width: 100px; }
+.color-palette span {
+  background-color: #fff;
+  bottom: 0;
+  display: inline-block;
+  font-size: 14px;
+  left: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%; }
+
 /*# sourceMappingURL=project.min.css.map */
