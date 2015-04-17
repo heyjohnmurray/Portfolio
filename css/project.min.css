@@ -1596,7 +1596,7 @@ body {
     -webkit-animation: fadeIn 1s ease-in;
     -moz-animation: fadeIn 1s ease-in;
     animation: fadeIn 1s ease-in; }
-  body.no-scroll {
+  body.has-no-scroll {
     overflow: hidden; }
 
 .margin {

@@ -38,7 +38,7 @@ $(function() {
 
 	// open menu nav
 	$('.js-toggle-nav').on('click', function(e){
-		$('body').addClass('no-scroll');
+		$('body').addClass('has-no-scroll');
 		navMenu.addClass('is-shown');
 		nameLogo.addClass('logo-fade');
 
@@ -47,6 +47,7 @@ $(function() {
 
 	// close nav menu
 	$('.js-nav-close, .js-nav a').on('click', function(){
+		$('body').removeClass('has-no-scroll');
 		navMenu.removeClass('is-shown');
 		nameLogo.removeClass('logo-fade');
 	});
