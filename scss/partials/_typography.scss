@@ -13,7 +13,7 @@ h6 {
 }
 
 h1 {
-	font-size: 35px;
+	font-size: 34px;
 
 	@media #{$medium-up} {
 		font-size: 50px;
@@ -29,11 +29,19 @@ h2 {
 }
 
 h3 {
-	font-size: 30px;
+	font-size: 26px;
+
+	@media #{$medium-up} {
+		font-size: 35px;
+	}
 }
 
 h4 {
-	font-size: 25px;
+	font-size: 20px;
+
+	@media #{$medium-up} {
+		font-size: 30px;
+	}
 }
 
 p {

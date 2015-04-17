@@ -2,7 +2,6 @@ nav {
 	@include transition(all .5s);
 	background-color: $primary-light;
 	opacity: 0;
-	height: 100%;
 	left: 0;
 	overflow: hidden;
 	padding: 30px;
@@ -12,8 +11,14 @@ nav {
 	z-index: 100;
 
 	&.is-shown {
+		height: 100%;
 		opacity: 1;
+		position: fixed;
 		z-index: 300;
+
+		@media #{$large-up} {
+			position: absolute;
+		}
 	}
 
 	ul {

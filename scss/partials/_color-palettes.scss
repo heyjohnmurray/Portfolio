@@ -1,5 +1,8 @@
 // uses project palette variables
 .color-palette {
+	@include clearfix;
+	margin-bottom: 20px;
+
 	&.hi-redesign {
 		.base-grey {
 			background-color: $hi-base-grey;
@@ -27,25 +30,32 @@
 	}
 
 	// base color sample card-like appearance
-	li {
+	.color {
 		box-shadow: 0 2px 2px 2px rgba(0,0,0,.25);
 		border: 5px solid #fff;
 		color: $primary-dark;
-		height: 100px;
+		height: 15vh;
 		position: relative;
-		width: 100px;
+
+		@media #{$medium-up} {
+			height: 25vh;
+		}
 	}
 
 	span {
 		background-color: #fff;
 		bottom: 0;
 		display: inline-block;
-		font-size: 14px;
+		font-size: 11px;
 		left: 0;
 		line-height: 30px;
 		position: absolute;
 		text-align: center;
 		text-transform: uppercase;
 		width: 100%;
+
+		@media #{$medium-up} {
+			font-size: 14px;
+		}
 	}
 }

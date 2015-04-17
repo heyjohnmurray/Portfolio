@@ -6,6 +6,15 @@ body {
 	}
 }
 
+//customizable margin mixins
+.margin {
+	@include margin(20px 0);
+}
+
+.margin-bottom {
+	@include margin(0 0 40px 0);
+}
+
 ul {
 	margin: 0;
 	padding: 0;
