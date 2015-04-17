@@ -23,7 +23,7 @@ $(function() {
     };
 
 	// unveil/lazy load functionality
-	$('img.js-lazy').unveil(200, function(){
+	$('img.js-delay-load').unveil(200, function(){
 		$(this).load(function(){
 			$(this).lazyInterchange();
 		});
