@@ -38,6 +38,7 @@ $(function() {
 
 	// open menu nav
 	$('.js-toggle-nav').on('click', function(e){
+		$('body').addClass('no-scroll');
 		navMenu.addClass('is-shown');
 		nameLogo.addClass('logo-fade');
 

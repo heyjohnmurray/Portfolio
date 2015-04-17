@@ -1596,6 +1596,8 @@ body {
     -webkit-animation: fadeIn 1s ease-in;
     -moz-animation: fadeIn 1s ease-in;
     animation: fadeIn 1s ease-in; }
+  body.no-scroll {
+    overflow: hidden; }
 
 .margin {
   margin: 20px 0; }

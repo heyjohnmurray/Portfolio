@@ -4,6 +4,10 @@ body {
 	&.interior-page {
 		@include animation(fadeIn 1s ease-in);
 	}
+
+	&.no-scroll {
+		overflow: hidden;
+	}
 }
 
 //customizable margin mixins
