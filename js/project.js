@@ -10,6 +10,25 @@ $(function() {
 	var navMenu = $('.js-nav');
 	var nameLogo = $('.js-nav .name-logo');
 
+	// custom lazy load function to work with Foundation's Interchange
+	$.fn.lazyInterchange = function() {
+		var selectors = this.each(function() {
+		if($(this).attr('data-lazy')){
+				$(this).attr('data-interchange',$(this).attr('data-lazy'));
+				$(this).removeAttr('data-lazy');
+				$(this).foundation('interchange', 'reflow');
+			}
+		});
+		return selectors;
+    };
+
+	// unveil/lazy load functionality
+	$('img.js-lazy').unveil(200, function(){
+		$(this).load(function(){
+			$(this).lazyInterchange();
+		});
+	});
+
 	// typing effect on the home page
 	$('.js-typer').typed({
 		strings: ['Designer', 'Developer', 'UX Expert', 'Strategist', 'Husband', 'Father', 'Leader', 'Mentor', 'Southerner'],
@@ -39,57 +58,66 @@ $(function() {
 	$('.interior-page aside').addClass('is-sticky');
 
 	$(window).scroll(function(){
-		var workTop = $('.js-work').offset().top;
-		var aboutTop = $('.js-about').offset().top;
-		var contactTop = $('.js-contact').offset().top;
+		var intro = $('.js-intro');
 		var workSidebar = $('.js-work-aside');
 		var aboutSidebar = $('.js-about-aside');
 		var contactSidebar = $('.js-contact-aside');
 
 		// add background color transition to .intro 
-		if ($(window).scrollTop() > 300){
-			$('.intro').addClass('has-color-transition');
-		} else {
-			$('.intro').removeClass('has-color-transition');
+		if (intro[0]) {
+			if ($(window).scrollTop() > 300){
+				intro.addClass('has-color-transition');
+			} else {
+				intro.removeClass('has-color-transition');
+			}
 		}
 
 		// sticky portfolio section
-		if ($(window).scrollTop() >= workTop){
-			workSidebar.addClass('is-sticky');
-			workSidebar.addClass('fadeIn');
-		} else {
-			workSidebar.removeClass('is-sticky');
-			workSidebar.removeClass('fadeIn');
-		}
+		if (workSidebar[0]) { // make sure item exists on the page otherwise ignore
+			var workTop = $('.js-work').offset().top; // in this if statement b/c it threw errors on every scrolled pixel looking for .top value
+			if ($(window).scrollTop() >= workTop){
+				workSidebar.addClass('is-sticky');
+				workSidebar.addClass('fadeIn');
+			} else {
+				workSidebar.removeClass('is-sticky');
+				workSidebar.removeClass('fadeIn');
+			}
 
-		// turn off sticky at the bottom of the portfolio section
-		if ($(window).scrollTop() >= $('.js-work-samples').offset().top + $('.js-work-samples').outerHeight() - window.innerHeight) {
-			workSidebar.removeClass('is-sticky');
-			workSidebar.removeClass('fadeIn');
+			// turn off sticky at the bottom of the portfolio section
+			if ($(window).scrollTop() >= $('.js-work-samples').offset().top + $('.js-work-samples').outerHeight() - window.innerHeight) {
+				workSidebar.removeClass('is-sticky');
+				workSidebar.removeClass('fadeIn');
+			}
 		}
 
 		// sticky about section
-		if ($(window).scrollTop() >= aboutTop){
-			aboutSidebar.addClass('is-sticky');
-			aboutSidebar.addClass('fadeIn');
-		} else {
-			aboutSidebar.removeClass('is-sticky');
-			aboutSidebar.removeClass('fadeIn');
-		}
+		if (aboutSidebar[0]) { // make sure item exists on the page otherwise ignore
+			var aboutTop = $('.js-about').offset().top; // in this if statement b/c it threw errors on every scrolled pixel looking for .top value
+			if ($(window).scrollTop() >= aboutTop){
+				aboutSidebar.addClass('is-sticky');
+				aboutSidebar.addClass('fadeIn');
+			} else {
+				aboutSidebar.removeClass('is-sticky');
+				aboutSidebar.removeClass('fadeIn');
+			}
 
-		// turn off sticky at the bottom of the about section
-		if($(window).scrollTop() >= $('.js-about-bio').offset().top + $('.js-about-bio').outerHeight() - window.innerHeight) {
-			aboutSidebar.removeClass('is-sticky');
-			aboutSidebar.removeClass('fadeIn');
+			// turn off sticky at the bottom of the about section
+			if($(window).scrollTop() >= $('.js-about-bio').offset().top + $('.js-about-bio').outerHeight() - window.innerHeight) {
+				aboutSidebar.removeClass('is-sticky');
+				aboutSidebar.removeClass('fadeIn');
+			}
 		}
 
 		// sticky contact section
-		if ($(window).scrollTop() >= contactTop){
-			contactSidebar.addClass('is-sticky');
-			contactSidebar.addClass('fadeIn');
-		} else {
-			contactSidebar.removeClass('is-sticky');
-			contactSidebar.removeClass('fadeIn');
+		if (contactSidebar[0]) { // make sure item exists on the page otherwise ignore
+			var contactTop = $('.js-contact').offset().top;
+			if ($(window).scrollTop() >= contactTop){ // in this if statement b/c it threw errors on every scrolled pixel looking for .top value
+				contactSidebar.addClass('is-sticky');
+				contactSidebar.addClass('fadeIn');
+			} else {
+				contactSidebar.removeClass('is-sticky');
+				contactSidebar.removeClass('fadeIn');
+			}
 		}
 	});
 
