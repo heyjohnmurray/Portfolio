@@ -64,6 +64,7 @@ $(function() {
 		var workSidebar = $('.js-work-aside');
 		var aboutSidebar = $('.js-about-aside');
 		var contactSidebar = $('.js-contact-aside');
+		var nextProject = $('.js-view-next-project');
 
 		// add background color transition to .intro 
 		if (intro[0]) {
@@ -119,6 +120,13 @@ $(function() {
 			} else {
 				contactSidebar.removeClass('is-sticky');
 				contactSidebar.removeClass('fadeIn');
+			}
+		}
+
+		// view next project link
+		if (nextProject[0]) {
+			if ($(window).scrollTop() > 100){
+				nextProject.addClass('is-shown');
 			}
 		}
 	});

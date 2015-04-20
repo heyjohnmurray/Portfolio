@@ -86,3 +86,35 @@ a.button-toggle-nav {
 		top: 0;
 	}
 } // button-toggle-nav
+
+// link to view next project details page
+.view-next-project {
+	@include transition(opacity .5s);
+	background-color: $primary-light;
+	bottom: 0;
+	color: $primary-dark;
+	font-family: "bold";
+	font-size: 2em;
+	opacity: 0;
+	padding: 20px;
+	position: fixed;
+	right: 0;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	width: 100%;
+	z-index: 99999;
+
+	@media #{$large-up} {
+		padding: 20px 0;
+		width: 18%;
+	}
+
+	&.is-shown {
+		opacity: 1;
+	}
+
+	&:after {
+		content: " »";
+	}
+}
