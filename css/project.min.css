@@ -2038,7 +2038,7 @@ a.button-toggle-nav {
   text-decoration: none;
   text-transform: uppercase;
   width: 100%;
-  z-index: 99999; }
+  z-index: 99; }
   @media only screen and (min-width: 64.0625em) {
     .view-next-project {
       padding: 20px 0;
