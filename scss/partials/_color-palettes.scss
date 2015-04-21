@@ -29,6 +29,32 @@
 		}
 	}
 
+	&.quotes-hoi-redesign {
+		.base-grey{
+			background-color: $qhoi-base-grey;
+		}
+
+		.base-purple {
+			background-color: $qhoi-base-purple;
+		}
+
+		.base-yellow {
+			background-color: $qhoi-base-yellow;
+		}
+
+		.light-grey {
+			background-color: $qhoi-grey-lighter;
+		}
+
+		.dark-purple {
+			background-color: $qhoi-purple-darker;
+		}
+
+		.accent-blue {
+			background-color: $qhoi-blue-accent;
+		}
+	}
+
 	// base color sample card-like appearance
 	.color {
 		box-shadow: 0 2px 2px 2px rgba(0,0,0,.25);

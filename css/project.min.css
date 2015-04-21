@@ -2378,6 +2378,18 @@ table {
     background-color: #333; }
   .color-palette.hi-redesign .dark-green {
     background-color: #33938f; }
+  .color-palette.quotes-hoi-redesign .base-grey {
+    background-color: #909090; }
+  .color-palette.quotes-hoi-redesign .base-purple {
+    background-color: #5f184a; }
+  .color-palette.quotes-hoi-redesign .base-yellow {
+    background-color: #efd777; }
+  .color-palette.quotes-hoi-redesign .light-grey {
+    background-color: #dedede; }
+  .color-palette.quotes-hoi-redesign .dark-purple {
+    background-color: #48004b; }
+  .color-palette.quotes-hoi-redesign .accent-blue {
+    background-color: #37a6ca; }
   .color-palette .color {
     box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.25);
     border: 5px solid #fff;
