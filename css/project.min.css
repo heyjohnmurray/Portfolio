@@ -1609,10 +1609,11 @@ body {
 ul {
   margin: 0;
   padding: 0; }
+  ul li {
+    list-style-type: none; }
   ul.list {
     margin-bottom: 20px; }
     ul.list li {
-      list-style-type: none;
       margin: 0 3px 5px 0;
       padding: 10px 15px; }
   ul.inline-list {

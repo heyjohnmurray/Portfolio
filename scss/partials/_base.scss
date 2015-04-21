@@ -23,11 +23,14 @@ ul {
 	margin: 0;
 	padding: 0;
 
+	li {
+		list-style-type: none;
+	}
+
 	&.list {
 		margin-bottom: 20px;
 
 		li {
-			list-style-type: none;
 			margin: 0 3px 5px 0;
 			padding: 10px 15px;
 		}
