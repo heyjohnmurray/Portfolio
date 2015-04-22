@@ -103,7 +103,33 @@
 				<div class="row">
 					<div class="column small-12">
 						<h2>Coding Considerations</h2>
-						<p>Talk about using PHP and Javascript to dynamically load in each page. Maybe create a gif.</p>
+
+						<p>From a coding perspective I wanted to make the experience seemless. Since I was just giving the user a lead form it seemed logical to keep them on the same page (the home page) the whole time. The problem, however, is that providing unique hero backgrounds and header content based on the user's drop down menu selection could look messy.</p>
+
+						<h4>The Solution</h4>
+
+						<p>I used PHP and Javascript to do all my behind-the-scenes coding. The anchor tag within each list item had a class name attached to it. The name, whether it be "auto", "home", etc, was passed via Javascript when the user selected an option. This name was then compared to an existing array of names called <code>$insTypes</code>. PHP checked to see if the name it was passed matched an existing type name. If so, then it called a PHP include that corresponded to the type that was chosen.</p>
+
+						<p>Simultaneously, I used AJAX to place a loading screen on top of the entire page hero while the content was being retrieved. Once the AJAX call was made and the "complete" method was fired the loading screen faded out and showed the user their updated page.</p>
+					</div>
+					<!-- /.column -->
+				</div>
+				<!-- /.row -->
+			</div>
+			<!-- /.body-copy -->
+			<div class="body-copy">
+				<div class="row">
+					<div class="column small-12">
+						<h2>Small UI enhancements</h2>
+						<p>I used this project as an opportunity to improve my CSS3 transition and animation skills. Obviously, this drop down menu could have simply been an unstyled <code>&lt;select&gt;</code> menu. I chose to add some polish to the UI. The gif below shows a rough approximation of what I did.</p>
+
+						<div class="row">
+							<div class="column small-12 medium-6 medium-offset-3">
+								<img src="http://zippy.gfycat.com/UnrulyNeglectedBillygoat.gif" alt="">
+							</div>
+							<!-- /.column -->
+						</div>
+						<!-- /.row -->
 					</div>
 					<!-- /.column -->
 				</div>
