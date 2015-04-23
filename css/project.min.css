@@ -2026,6 +2026,18 @@ span.nav-label {
   text-transform: uppercase;
   top: -2px; }
 
+.toggle-nav-wrap.is-sticky {
+  height: 40px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #f6c80f;
+  width: 100%; }
+  .toggle-nav-wrap.is-sticky a.button-toggle-nav {
+    color: #434343;
+    right: 73px;
+    top: 6px; }
+
 a.button-toggle-nav {
   color: #f6c80f;
   cursor: pointer;

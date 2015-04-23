@@ -65,6 +65,7 @@ $(function() {
 		var aboutSidebar = $('.js-about-aside');
 		var contactSidebar = $('.js-contact-aside');
 		var nextProject = $('.js-view-next-project');
+		var interiorNavToggle = $('.toggle-nav-wrap');
 
 		// add background color transition to .intro 
 		if (intro[0]) {
@@ -127,6 +128,13 @@ $(function() {
 		if (nextProject[0]) {
 			if ($(window).scrollTop() > 100){
 				nextProject.addClass('is-shown');
+			}
+		}
+
+		if(interiorNavToggle[0]) {
+			if($(window).scrollTop() > 20) {
+				interiorNavToggle.addClass('is-sticky');
+				$('aside').css('marginTop', $('.toggle-nav-wrap.is-sticky').height());
 			}
 		}
 	});

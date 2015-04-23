@@ -79,6 +79,23 @@ span.nav-label {
 	top: -2px;
 }
 
+.toggle-nav-wrap {
+	&.is-sticky {
+		height: 40px;
+		position: fixed;
+		top: 0;
+		left: 0;
+		background-color: $color-primary-light;
+		width: 100%;
+
+		a.button-toggle-nav {
+			color: $color-primary-dark;
+			right: 73px;
+			top: 6px;
+		}
+	}
+}
+
 a.button-toggle-nav {
 	color: $color-primary-light;
 	cursor: pointer;

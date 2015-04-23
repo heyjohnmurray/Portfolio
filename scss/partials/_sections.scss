@@ -1,9 +1,9 @@
 section {
 	overflow: hidden;
 	position: relative;
-
-	.is-sticky { // add a js media match here for >= desktop
-		@media #{$large-up} {
+	
+	@media #{$large-up} {
+		.is-sticky { // add a js media match here for >= desktop
 			position: fixed;
 			top: 0;
 			z-index: 9999;
