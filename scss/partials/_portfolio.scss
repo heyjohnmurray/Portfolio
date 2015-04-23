@@ -128,13 +128,8 @@
 			}
 		} // title
 
-		.show-details {
-			// mobile touch class added to 'touch for details' buttons
-			@include transition(top .5s);
-		}
-
 		.cover {
-			//@include transition(top .5s);
+			@include transition(top .5s);
 			backface-visibility: hidden;
 			background-color: rgba(#27acc0, .7);
 			color: $color-secondary-light;

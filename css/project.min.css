@@ -2286,11 +2286,10 @@ aside {
   position: absolute; }
   .work-samples li .title b {
     background-color: rgba(246, 200, 15, 0.7); }
-.work-samples li .show-details {
+.work-samples li .cover {
   -webkit-transition: top 0.5s;
   -moz-transition: top 0.5s;
-  transition: top 0.5s; }
-.work-samples li .cover {
+  transition: top 0.5s;
   backface-visibility: hidden;
   background-color: rgba(39, 172, 192, 0.7);
   color: #f6f6f6;
