@@ -50,10 +50,20 @@ nav {
 		@include transform(rotate(-25deg));
 		@include transition(opacity 1s linear);
 		@include transition-delay(1s);
-		left: -23%;
+		left: 0;
 		opacity: 0;
 		position: relative;
-		top: -70px;
+		top: 0;
+
+		@media #{$medium-up} {
+			left: 0;
+			top: 0;
+		}
+
+		@media #{$large-up} {
+			left: -23%;
+			top: -70px;
+		}
 
 		&.logo-fade {
 			opacity: .3;
