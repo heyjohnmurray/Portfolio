@@ -1969,7 +1969,7 @@ nav {
     height: 100%;
     opacity: 1;
     position: fixed;
-    z-index: 300; }
+    z-index: 400; }
     @media only screen and (min-width: 64.0625em) {
       nav.is-shown {
         position: absolute; } }
@@ -2058,7 +2058,7 @@ a.button-toggle-nav {
   text-decoration: none;
   text-transform: uppercase;
   width: 100%;
-  z-index: 999; }
+  z-index: 300; }
   @media only screen and (min-width: 64.0625em) {
     .view-next-project {
       padding: 20px 0;

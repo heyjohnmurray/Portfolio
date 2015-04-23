@@ -14,7 +14,7 @@ nav {
 		height: 100%;
 		opacity: 1;
 		position: fixed;
-		z-index: 300;
+		z-index: 400;
 
 		@media #{$large-up} {
 			position: absolute;
@@ -113,7 +113,7 @@ a.button-toggle-nav {
 	text-decoration: none;
 	text-transform: uppercase;
 	width: 100%;
-	z-index: 999;
+	z-index: 300;
 
 	@media #{$large-up} {
 		padding: 20px 0;
