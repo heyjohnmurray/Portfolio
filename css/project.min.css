@@ -1815,7 +1815,7 @@ aside {
 
 .headline,
 .subheadline {
-  margin-bottom: 20px; }
+  margin: 0 0 20px 0; }
 
 .headline {
   font-family: "thin";

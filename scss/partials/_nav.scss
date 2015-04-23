@@ -1,6 +1,6 @@
 nav {
 	@include transition(all .5s);
-	background-color: $primary-light;
+	background-color: $color-primary-light;
 	opacity: 0;
 	left: 0;
 	overflow: hidden;
@@ -27,7 +27,7 @@ nav {
 	}
 
 	a {
-		color: $primary-dark;
+		color: $color-primary-dark;
 		display: block;
 		font-family: "black";
 		font-size: 50px;
@@ -80,7 +80,7 @@ span.nav-label {
 }
 
 a.button-toggle-nav {
-	color: $primary-light;
+	color: $color-primary-light;
 	cursor: pointer;
 	height: 30px;
 	right: 53px;
@@ -100,9 +100,9 @@ a.button-toggle-nav {
 // link to view next project details page
 .view-next-project {
 	@include transition(opacity .5s);
-	background-color: $primary-light;
+	background-color: $color-primary-light;
 	bottom: 0;
-	color: $primary-dark;
+	color: $color-primary-dark;
 	font-family: "bold";
 	font-size: 2em;
 	opacity: 0;

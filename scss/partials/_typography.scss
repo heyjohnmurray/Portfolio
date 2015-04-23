@@ -45,7 +45,7 @@ h4 {
 }
 
 p {
-	margin: 0 0 $global-margin-bottom 0;
+	@include margin(0 0 20px 0);
 }
 
 p,
@@ -85,7 +85,7 @@ aside {
 	a,
 	.headline,
 	.subheadline {
-		color: $primary-dark;
+		color: $color-primary-dark;
 	}
 }
 
@@ -97,14 +97,14 @@ aside {
 		text-decoration: none;
 
 		&:hover {
-			border-bottom: 3px solid $primary-light;
+			border-bottom: 3px solid $color-primary-light;
 		}
 	}
 }
 
 .headline,
 .subheadline {
-	margin-bottom: $global-margin-bottom;
+	@include margin(0 0 20px 0);
 }
 
 .headline {
@@ -120,7 +120,7 @@ aside {
 }
 
 .subheadline {
-	background-color: $primary-light;
+	background-color: $color-primary-light;
 	font-family: "bold";
 	font-size: 26px;
 	line-height: 1;

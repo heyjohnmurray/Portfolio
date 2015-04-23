@@ -3,7 +3,7 @@
 		a {
 			background-position: 50% 30%;
 			background-size: cover;
-			color: $primary-dark;
+			color: $color-primary-dark;
 			display: block;
 			height: 340px;
 			overflow: hidden;
@@ -84,7 +84,7 @@
 		}
 
 		span {
-			background-color: rgba($primary-light, .7);
+			background-color: rgba($color-primary-light, .7);
 			display: block;
 			font-family: "thin";
 			margin-top: 10px;
@@ -102,7 +102,7 @@
 			position: absolute;
 
 			b {
-				background-color: rgba($primary-light, .7);
+				background-color: rgba($color-primary-light, .7);
 			}
 		} // title
 
@@ -110,7 +110,7 @@
 			@include transition(top .5s);
 			backface-visibility: hidden;
 			background-color: rgba(#27acc0, .7);
-			color: $secondary-light;
+			color: $color-secondary-light;
 			height: 100%;
 			left: 0;
 			padding: 30px 0;
@@ -137,8 +137,8 @@
 			&:before {
 				@include transform(scale(0,1));
 				@include transform-origin(0 0);
-				border-bottom: 1px solid $secondary-light;
-				border-top: 1px solid $secondary-light;
+				border-bottom: 1px solid $color-secondary-light;
+				border-top: 1px solid $color-secondary-light;
 				
 				@media (min-width: 800px) {
 					bottom: 20px;
@@ -158,8 +158,8 @@
 			&:after {
 				@include transform(scale(1,0));
 				@include transform-origin(100% 0);
-				border-left: 1px solid $secondary-light;
-				border-right: 1px solid $secondary-light;
+				border-left: 1px solid $color-secondary-light;
+				border-right: 1px solid $color-secondary-light;
 				
 				@media (min-width: 800px) {
 					bottom: 10px;
@@ -197,8 +197,8 @@
 
 	.skills {
 		li {
-			background-color: $primary-dark;
-			color: $secondary-light;
+			background-color: $color-primary-dark;
+			color: $color-secondary-light;
 			display: inline-block;
 			font-family: 'thin';
 			font-size: 16px;

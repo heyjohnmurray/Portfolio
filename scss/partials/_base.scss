@@ -1,5 +1,5 @@
 body {
-	background-color: $secondary-dark;
+	background-color: $color-secondary-dark;
 
 	&.interior-page {
 		@include animation(fadeIn 1s ease-in);
@@ -7,6 +7,12 @@ body {
 
 	&.has-no-scroll {
 		overflow: hidden;
+	}
+}
+
+.button {
+	&.is-primary {
+		// background-color: #FFF
 	}
 }
 
@@ -53,8 +59,8 @@ ul {
 
 	&.has-row-colors {
 		li {
-			background-color: darken($primary-dark, 5%);
-			color: $secondary-light;
+			background-color: darken($color-primary-dark, 5%);
+			color: $color-secondary-light;
 		}
 	}
 }
