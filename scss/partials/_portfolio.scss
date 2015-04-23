@@ -33,7 +33,8 @@
 					top: -100%;
 				}
 
-				.cover {
+				.cover,
+				.show-details {
 					top: 0;
 
 					&:before,
@@ -104,10 +105,15 @@
 		.button {
 			clear: both;
 			float: left;
+			width: 100%;
 
-			@media #{$large-up} {
+			@media #{$large-up} { 
+				// this button disappears on desktop
+				// but i wanna keep it styled anyway
+				// in case i do something with it in the future
 				clear: none;
 				float: none;
+				width: auto;
 			}
 		}
 
@@ -122,8 +128,13 @@
 			}
 		} // title
 
-		.cover {
+		.show-details {
+			// mobile touch class added to 'touch for details' buttons
 			@include transition(top .5s);
+		}
+
+		.cover {
+			//@include transition(top .5s);
 			backface-visibility: hidden;
 			background-color: rgba(#27acc0, .7);
 			color: $color-secondary-light;
