@@ -11,8 +11,14 @@ body {
 }
 
 .button {
+	font-family: "bold";
+	font-size: 18px;
+	padding: 20px;
+	text-align: center;
+
 	&.is-primary {
-		// background-color: #FFF
+		background-color: $button-background-color-primary;
+		color: $button-text-color-primary;
 	}
 }
 

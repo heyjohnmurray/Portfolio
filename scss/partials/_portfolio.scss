@@ -80,11 +80,17 @@
 
 		b,
 		span {
+			float: left;
 			padding: 0 10px;
+
+			@media #{$large-up} {
+				float: none;
+			}
 		}
 
 		span {
 			background-color: rgba($color-primary-light, .7);
+			clear: both;
 			display: block;
 			font-family: "thin";
 			margin-top: 10px;
@@ -94,6 +100,16 @@
 			font-family: "regular";
 			font-size: 23px;
 		} // small
+
+		.button {
+			clear: both;
+			float: left;
+
+			@media #{$large-up} {
+				clear: none;
+				float: none;
+			}
+		}
 
 		.title {
 			@include transition(top .5s);
@@ -178,6 +194,7 @@
 
 			b {
 				display: block;
+				float: none;
 				font-family: "bold";
 				font-size: 30px;
 				letter-spacing: 0;

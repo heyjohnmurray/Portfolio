@@ -1600,6 +1600,15 @@ body {
   body.has-no-scroll {
     overflow: hidden; }
 
+.button {
+  font-family: "bold";
+  font-size: 18px;
+  padding: 20px;
+  text-align: center; }
+  .button.is-primary {
+    background-color: #27acc0;
+    color: #f6f6f6; }
+
 .margin {
   margin: 20px 0; }
 
@@ -2241,15 +2250,28 @@ aside {
     background-image: url(../images/background-homeowners-insurance-redesign.jpg); }
 .work-samples li b,
 .work-samples li span {
+  float: left;
   padding: 0 10px; }
+  @media only screen and (min-width: 64.0625em) {
+    .work-samples li b,
+    .work-samples li span {
+      float: none; } }
 .work-samples li span {
   background-color: rgba(246, 200, 15, 0.7);
+  clear: both;
   display: block;
   font-family: "thin";
   margin-top: 10px; }
 .work-samples li small {
   font-family: "regular";
   font-size: 23px; }
+.work-samples li .button {
+  clear: both;
+  float: left; }
+  @media only screen and (min-width: 64.0625em) {
+    .work-samples li .button {
+      clear: none;
+      float: none; } }
 .work-samples li .title {
   -webkit-transition: top 0.5s;
   -moz-transition: top 0.5s;
@@ -2337,6 +2359,7 @@ aside {
         top: 30px; } }
   .work-samples li .cover b {
     display: block;
+    float: none;
     font-family: "bold";
     font-size: 30px;
     letter-spacing: 0;
