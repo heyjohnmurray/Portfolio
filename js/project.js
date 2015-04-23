@@ -146,7 +146,7 @@ $(function() {
 	});
 
 	// portfolio details on mobile
-	$('.js-work-samples a').on('click', function(e){
+	$('.js-work-samples .button').on('click', function(e){
 		$(this).find('.cover').addClass('show-details');
 		e.preventDefault();
 	});

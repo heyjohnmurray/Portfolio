@@ -1828,9 +1828,12 @@ aside {
 
 .headline {
   font-family: "thin";
-  font-size: 50px;
+  font-size: 48px;
   line-height: 1;
   text-transform: uppercase; }
+  @media only screen and (min-width: 40.0625em) {
+    .headline {
+      font-size: 50px; } }
   .headline span {
     display: block;
     font-family: "black"; }
@@ -2055,7 +2058,7 @@ a.button-toggle-nav {
   text-decoration: none;
   text-transform: uppercase;
   width: 100%;
-  z-index: 99; }
+  z-index: 999; }
   @media only screen and (min-width: 64.0625em) {
     .view-next-project {
       padding: 20px 0;

@@ -109,9 +109,13 @@ aside {
 
 .headline {
 	font-family: "thin";
-	font-size: 50px;
+	font-size: 48px;
 	line-height: 1;
 	text-transform: uppercase;
+
+	@media #{$medium-up} {
+		font-size: 50px;
+	}
 
 	span {
 		display: block;

@@ -113,7 +113,7 @@ a.button-toggle-nav {
 	text-decoration: none;
 	text-transform: uppercase;
 	width: 100%;
-	z-index: 99;
+	z-index: 999;
 
 	@media #{$large-up} {
 		padding: 20px 0;
