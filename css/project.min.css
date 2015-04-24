@@ -2098,7 +2098,6 @@ a.button-toggle-nav {
       bottom: 0;
       color: #434343;
       display: inline-block;
-      font-family: "bold";
       font-size: 2em;
       opacity: 0;
       position: fixed;
@@ -2113,9 +2112,12 @@ a.button-toggle-nav {
         content: " »"; } }
   .view-next-project a {
     color: #434343;
+    font-family: "bold";
     position: relative;
-    top: 15px;
-    text-decoration: none; }
+    text-decoration: none;
+    top: 15px; }
+    .view-next-project a:hover {
+      color: #b29007; }
 
 section {
   overflow: hidden;
