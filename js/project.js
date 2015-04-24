@@ -30,7 +30,7 @@ $(function() {
 	});
 
 	// typing effect on the home page
-	$('.js-typer').typed({
+	$('.js-typer').typed({	
 		strings: ['Designer', 'Developer', 'UX Expert', 'Strategist', 'Husband', 'Father', 'Leader', 'Mentor', 'Southerner'],
 		loop: true,
 		typeSpeed: 100
@@ -131,10 +131,12 @@ $(function() {
 			}
 		}
 
-		if(interiorNavToggle[0]) {
-			if($(window).scrollTop() > 20) {
-				interiorNavToggle.addClass('is-sticky');
-				$('aside').css('marginTop', $('.toggle-nav-wrap.is-sticky').height());
+		if (Modernizr.mq('only screen and (max-width: 40em)') || Modernizr.mq('only screen and (max-width: 64em)')) {
+			if(interiorNavToggle[0]) {
+				if($(window).scrollTop() > 20) {
+					interiorNavToggle.addClass('is-sticky');
+					$('aside').css('marginTop', $('.toggle-nav-wrap.is-sticky').height());
+				}
 			}
 		}
 	});
