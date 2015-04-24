@@ -90,6 +90,11 @@ span.nav-label {
 			margin: 8px 0 0 10px;
 			text-decoration: none;
 			text-transform: uppercase;
+
+			@media #{$medium-up} {
+				font-size: 20px;
+				margin-top: 5px;
+			}
 		}
 
 		i {

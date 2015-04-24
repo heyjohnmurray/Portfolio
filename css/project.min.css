@@ -2041,6 +2041,10 @@ span.nav-label {
     margin: 8px 0 0 10px;
     text-decoration: none;
     text-transform: uppercase; }
+    @media only screen and (min-width: 40.0625em) {
+      .toggle-nav-wrap .mobile-link a {
+        font-size: 20px;
+        margin-top: 5px; } }
   .toggle-nav-wrap .mobile-link i {
     font-size: 16px; }
     .toggle-nav-wrap .mobile-link i:before {
