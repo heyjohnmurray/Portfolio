@@ -2047,11 +2047,14 @@ span.nav-label {
         margin-top: 5px; } }
   .toggle-nav-wrap .mobile-link i {
     font-size: 16px; }
+    @media only screen and (min-width: 40.0625em) {
+      .toggle-nav-wrap .mobile-link i {
+        font-size: inherit; } }
     .toggle-nav-wrap .mobile-link i:before {
       margin-right: 2px; }
       @media only screen and (min-width: 40.0625em) {
         .toggle-nav-wrap .mobile-link i:before {
-          margin-right: .7em; } }
+          margin-right: 7px; } }
 .toggle-nav-wrap.is-sticky {
   background-color: #f6c80f;
   height: 40px;

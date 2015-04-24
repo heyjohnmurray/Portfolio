@@ -100,11 +100,15 @@ span.nav-label {
 		i {
 			font-size: 16px;
 
+			@media #{$medium-up} {
+				font-size: inherit;
+			}
+
 			&:before {
 				margin-right: 2px;
 
 				@media #{$medium-up} {
-					margin-right: .7em;
+					margin-right: 7px;
 				}
 			}
 		}
