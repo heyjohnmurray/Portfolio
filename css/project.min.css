@@ -1,4 +1,3 @@
-@charset "UTF-8";
 meta.foundation-version {
   font-family: "/{{VERSION}}/"; }
 
@@ -2099,17 +2098,17 @@ a.button-toggle-nav {
       color: #434343;
       display: inline-block;
       font-size: 2em;
+      height: 60px;
       opacity: 0;
       position: fixed;
       right: 0;
       text-align: center;
       text-decoration: none;
       text-transform: uppercase;
+      width: 69%;
       z-index: 300; }
       .view-next-project.is-shown {
-        opacity: 1; }
-      .view-next-project:after {
-        content: " »"; } }
+        opacity: 1; } }
   .view-next-project a {
     color: #434343;
     font-family: "bold";
