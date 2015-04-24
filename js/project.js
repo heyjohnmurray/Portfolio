@@ -145,7 +145,7 @@ $(function() {
 		} else {
 			// this removes the sticky class in case user goes from mobile to desktop without page refresh
 			interiorNavToggle.removeClass('is-sticky');
-			$('aside').css('marginTop', 0);
+			$('.sidebar-copy').css('marginTop', 0);
 		}
 	});
 
