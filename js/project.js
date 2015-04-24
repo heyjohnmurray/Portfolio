@@ -125,9 +125,11 @@ $(function() {
 		}
 
 		// view next project link
-		if (nextProject[0]) {
-			if ($(window).scrollTop() > 100){
-				nextProject.addClass('is-shown');
+		if (Modernizr.mq('only screen and (min-width: 64.0625em)')) {
+			if (nextProject[0]) {
+				if ($(window).scrollTop() > 100){
+					nextProject.addClass('is-shown');
+				}
 			}
 		}
 

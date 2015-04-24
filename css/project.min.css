@@ -1,3 +1,4 @@
+@charset "UTF-8";
 meta.foundation-version {
   font-family: "/{{VERSION}}/"; }
 
@@ -2051,6 +2052,33 @@ a.button-toggle-nav {
   a.button-toggle-nav i {
     position: absolute;
     top: 0; }
+
+.view-next-project {
+  -webkit-transition: opacity 0.5s;
+  -moz-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+  background-color: #f6c80f;
+  bottom: 0;
+  color: #434343;
+  font-family: "bold";
+  font-size: 2em;
+  opacity: 0;
+  padding: 20px;
+  position: fixed;
+  right: 0;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 100%;
+  z-index: 300; }
+  @media only screen and (min-width: 64.0625em) {
+    .view-next-project {
+      padding: 20px 0;
+      width: 18%; } }
+  .view-next-project.is-shown {
+    opacity: 1; }
+  .view-next-project:after {
+    content: " »"; }
 
 section {
   overflow: hidden;
