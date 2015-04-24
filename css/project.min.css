@@ -2026,6 +2026,9 @@ span.nav-label {
   text-transform: uppercase;
   top: -2px; }
 
+.toggle-nav-wrap .mobile-view-next-project,
+.toggle-nav-wrap .mobile-view-portfolio {
+  display: none; }
 .toggle-nav-wrap.is-sticky {
   background-color: #f6c80f;
   height: 40px;
@@ -2033,6 +2036,16 @@ span.nav-label {
   position: fixed;
   top: 0;
   width: 100%; }
+  .toggle-nav-wrap.is-sticky .mobile-view-next-project {
+    display: inline-block; }
+    @media only screen and (min-width: 64.0625em) {
+      .toggle-nav-wrap.is-sticky .mobile-view-next-project {
+        display: none; } }
+  .toggle-nav-wrap.is-sticky .mobile-view-portfolio {
+    display: inline-block; }
+    @media only screen and (min-width: 64.0625em) {
+      .toggle-nav-wrap.is-sticky .mobile-view-portfolio {
+        display: none; } }
   .toggle-nav-wrap.is-sticky a.button-toggle-nav {
     color: #434343;
     right: 73px;
@@ -2054,31 +2067,36 @@ a.button-toggle-nav {
     top: 0; }
 
 .view-next-project {
-  -webkit-transition: opacity 0.5s;
-  -moz-transition: opacity 0.5s;
-  transition: opacity 0.5s;
-  background-color: #f6c80f;
-  bottom: 0;
-  color: #434343;
-  font-family: "bold";
-  font-size: 2em;
-  opacity: 0;
-  padding: 20px;
-  position: fixed;
-  right: 0;
-  text-align: center;
-  text-decoration: none;
-  text-transform: uppercase;
-  width: 100%;
-  z-index: 300; }
+  display: none; }
   @media only screen and (min-width: 64.0625em) {
+    .view-next-project {
+      -webkit-transition: opacity 0.5s;
+      -moz-transition: opacity 0.5s;
+      transition: opacity 0.5s;
+      background-color: #f6c80f;
+      bottom: 0;
+      color: #434343;
+      display: inline-block;
+      font-family: "bold";
+      font-size: 2em;
+      opacity: 0;
+      padding: 20px;
+      position: fixed;
+      right: 0;
+      text-align: center;
+      text-decoration: none;
+      text-transform: uppercase;
+      width: 100%;
+      z-index: 300; } }
+  @media only screen and (min-width: 64.0625em) and (min-width: 64.0625em) {
     .view-next-project {
       padding: 20px 0;
       width: 18%; } }
-  .view-next-project.is-shown {
-    opacity: 1; }
-  .view-next-project:after {
-    content: " »"; }
+  @media only screen and (min-width: 64.0625em) {
+      .view-next-project.is-shown {
+        opacity: 1; }
+      .view-next-project:after {
+        content: " »"; } }
 
 section {
   overflow: hidden;

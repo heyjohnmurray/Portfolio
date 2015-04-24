@@ -80,6 +80,11 @@ span.nav-label {
 }
 
 .toggle-nav-wrap {
+	.mobile-view-next-project,
+	.mobile-view-portfolio {
+		display: none;
+	}
+
 	&.is-sticky {
 		background-color: $color-primary-light;
 		height: 40px;
@@ -87,6 +92,22 @@ span.nav-label {
 		position: fixed;
 		top: 0;
 		width: 100%;
+
+		.mobile-view-next-project {
+			display: inline-block;
+
+			@media #{$large-up} {
+				display: none;
+			}
+		}
+
+		.mobile-view-portfolio {
+			display: inline-block;
+
+			@media #{$large-up} {
+				display: none;
+			}	
+		}
 
 		a.button-toggle-nav {
 			color: $color-primary-dark;
@@ -116,32 +137,37 @@ a.button-toggle-nav {
 
 // link to view next project details page
 .view-next-project {
-	@include transition(opacity .5s);
-	background-color: $color-primary-light;
-	bottom: 0;
-	color: $color-primary-dark;
-	font-family: "bold";
-	font-size: 2em;
-	opacity: 0;
-	padding: 20px;
-	position: fixed;
-	right: 0;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;
-	width: 100%;
-	z-index: 300;
+	display: none;
 
 	@media #{$large-up} {
-		padding: 20px 0;
-		width: 18%;
-	}
+		@include transition(opacity .5s);
+		background-color: $color-primary-light;
+		bottom: 0;
+		color: $color-primary-dark;
+		display: inline-block;
+		font-family: "bold";
+		font-size: 2em;
+		opacity: 0;
+		padding: 20px;
+		position: fixed;
+		right: 0;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+		width: 100%;
+		z-index: 300;
 
-	&.is-shown {
-		opacity: 1;
-	}
+		@media #{$large-up} {
+			padding: 20px 0;
+			width: 18%;
+		}
 
-	&:after {
-		content: " »";
+		&.is-shown {
+			opacity: 1;
+		}
+
+		&:after {
+			content: " »";
+		}
 	}
 }
