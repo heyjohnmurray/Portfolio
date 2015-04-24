@@ -80,9 +80,25 @@ span.nav-label {
 }
 
 .toggle-nav-wrap {
-	.mobile-view-next-project,
-	.mobile-view-portfolio {
+	.mobile-link {
 		display: none;
+
+		a {
+			color: $color-primary-dark;
+			display: inline-block;
+			font-size: 14px;
+			margin: 8px 0 0 10px;
+			text-decoration: none;
+			text-transform: uppercase;
+		}
+
+		i {
+			font-size: 16px;
+
+			&:before {
+				margin-right: 2px;
+			}
+		}
 	}
 
 	&.is-sticky {
@@ -93,20 +109,12 @@ span.nav-label {
 		top: 0;
 		width: 100%;
 
-		.mobile-view-next-project {
+		.mobile-link {
 			display: inline-block;
 
 			@media #{$large-up} {
 				display: none;
 			}
-		}
-
-		.mobile-view-portfolio {
-			display: inline-block;
-
-			@media #{$large-up} {
-				display: none;
-			}	
 		}
 
 		a.button-toggle-nav {

@@ -2032,9 +2032,19 @@ span.nav-label {
   text-transform: uppercase;
   top: -2px; }
 
-.toggle-nav-wrap .mobile-view-next-project,
-.toggle-nav-wrap .mobile-view-portfolio {
+.toggle-nav-wrap .mobile-link {
   display: none; }
+  .toggle-nav-wrap .mobile-link a {
+    color: #434343;
+    display: inline-block;
+    font-size: 14px;
+    margin: 8px 0 0 10px;
+    text-decoration: none;
+    text-transform: uppercase; }
+  .toggle-nav-wrap .mobile-link i {
+    font-size: 16px; }
+    .toggle-nav-wrap .mobile-link i:before {
+      margin-right: 2px; }
 .toggle-nav-wrap.is-sticky {
   background-color: #f6c80f;
   height: 40px;
@@ -2042,15 +2052,10 @@ span.nav-label {
   position: fixed;
   top: 0;
   width: 100%; }
-  .toggle-nav-wrap.is-sticky .mobile-view-next-project {
+  .toggle-nav-wrap.is-sticky .mobile-link {
     display: inline-block; }
     @media only screen and (min-width: 64.0625em) {
-      .toggle-nav-wrap.is-sticky .mobile-view-next-project {
-        display: none; } }
-  .toggle-nav-wrap.is-sticky .mobile-view-portfolio {
-    display: inline-block; }
-    @media only screen and (min-width: 64.0625em) {
-      .toggle-nav-wrap.is-sticky .mobile-view-portfolio {
+      .toggle-nav-wrap.is-sticky .mobile-link {
         display: none; } }
   .toggle-nav-wrap.is-sticky a.button-toggle-nav {
     color: #434343;
