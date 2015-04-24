@@ -2110,13 +2110,18 @@ a.button-toggle-nav {
       .view-next-project.is-shown {
         opacity: 1; } }
   .view-next-project a {
+    -webkit-transition: color 0.5s, left 0.5s;
+    -moz-transition: color 0.5s, left 0.5s;
+    transition: color 0.5s, left 0.5s;
     color: #434343;
     font-family: "bold";
+    left: 0;
     position: relative;
     text-decoration: none;
     top: 15px; }
     .view-next-project a:hover {
-      color: #b29007; }
+      color: #b29007;
+      left: 10px; }
 
 section {
   overflow: hidden;

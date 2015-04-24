@@ -183,14 +183,17 @@ a.button-toggle-nav {
 	}
 
 	a {
+		@include transition(color .5s, left .5s);
 		color: $color-primary-dark;
 		font-family: "bold";
+		left: 0;
 		position: relative;
 		text-decoration: none;
 		top: 15px;
 
 		&:hover {
 			color: darken($color-primary-light, 15%);
+			left: 10px;
 		}
 	}
 }
