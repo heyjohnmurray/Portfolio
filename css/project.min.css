@@ -2045,6 +2045,9 @@ span.nav-label {
     font-size: 16px; }
     .toggle-nav-wrap .mobile-link i:before {
       margin-right: 2px; }
+      @media only screen and (min-width: 40.0625em) {
+        .toggle-nav-wrap .mobile-link i:before {
+          margin-right: .7em; } }
 .toggle-nav-wrap.is-sticky {
   background-color: #f6c80f;
   height: 40px;

@@ -97,6 +97,10 @@ span.nav-label {
 
 			&:before {
 				margin-right: 2px;
+
+				@media #{$medium-up} {
+					margin-right: .7em;
+				}
 			}
 		}
 	}
