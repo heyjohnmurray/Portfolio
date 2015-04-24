@@ -169,19 +169,12 @@ a.button-toggle-nav {
 		font-family: "bold";
 		font-size: 2em;
 		opacity: 0;
-		padding: 20px;
 		position: fixed;
 		right: 0;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
-		width: 100%;
 		z-index: 300;
-
-		@media #{$large-up} {
-			padding: 20px 0;
-			width: 18%;
-		}
 
 		&.is-shown {
 			opacity: 1;
@@ -190,5 +183,12 @@ a.button-toggle-nav {
 		&:after {
 			content: " »";
 		}
+	}
+
+	a {
+		color: $color-primary-dark;
+		position: relative;
+		top: 15px;
+		text-decoration: none;
 	}
 }
