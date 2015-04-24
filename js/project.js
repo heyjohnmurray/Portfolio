@@ -131,11 +131,15 @@ $(function() {
 			}
 		}
 
+		// mobile sticky nav only on 'small' and 'medium' devices
 		if (Modernizr.mq('only screen and (max-width: 40em)') || Modernizr.mq('only screen and (max-width: 64em)')) {
 			if(interiorNavToggle[0]) {
 				if($(window).scrollTop() > 20) {
 					interiorNavToggle.addClass('is-sticky');
 					$('aside').css('marginTop', $('.toggle-nav-wrap.is-sticky').height());
+				} else {
+					interiorNavToggle.removeClass('is-sticky');
+					$('aside').css('marginTop', 0);
 				}
 			}
 		}
