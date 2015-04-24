@@ -137,10 +137,10 @@ $(function() {
 		if (Modernizr.mq('only screen and (max-width: 40em)') || Modernizr.mq('only screen and (max-width: 64em)')) {
 			if($(window).scrollTop() > 20) {
 				interiorNavToggle.addClass('is-sticky');
-				$('aside').css('marginTop', $('.toggle-nav-wrap.is-sticky').height());
+				$('.sidebar-copy').css('marginTop', ($('.toggle-nav-wrap.is-sticky').height() + 30));
 			} else {
 				interiorNavToggle.removeClass('is-sticky');
-				$('aside').css('marginTop', 0);
+				$('.sidebar-copy').css('marginTop', 0);
 			}
 		} else {
 			// this removes the sticky class in case user goes from mobile to desktop without page refresh
