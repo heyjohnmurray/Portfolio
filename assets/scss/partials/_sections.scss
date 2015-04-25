@@ -11,6 +11,7 @@ section {
 	}
 
 	&.intro {
+		@include transition(background-color .5s linear);
 		color: $color-secondary-light;
 		padding: 10vh 0;
 
@@ -18,17 +19,13 @@ section {
 			padding: 2vh 0;
 		}
 
-		@media #{$large-up} {
-			@include transition(background-color .5s linear);
-			background-color: $color-secondary-dark;
+		@media #{$large-up} {			
 			height: 1000px;
 			padding: 3vh 0;
 		}
 
 		&.has-color-transition {
-			@media #{$large-up} {
-				background-color: $color-primary-light;
-			}
+			background-color: $color-primary-light;
 		}
 
 		a {

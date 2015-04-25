@@ -1,66 +1,10 @@
-<!doctype html>
-<html class="no-js" lang="">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>AT&amp;T U-Verse Mobile Site</title>
-<meta name="robots" content="noindex, nofollow">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<!-- Place favicon.ico in the root directory -->
-
-<link rel="stylesheet" href="css/project.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-</head>
+<? include_once('assets/includes/base/header.php'); ?>
 <body class="interior-page att-site">
-	<div class="row view-next-project js-view-next-project">
-		<div class="column medium-3 mobile-link">
-			<a href="index.html#portfolio-section">
-				<i class="icon-th"></i>
-				View Projects
-			</a>
-		</div>
-		<!-- /.column -->
-		<div class="column medium-3 mobile-link">
-			<a href="safeco-redesign.html">
-				<i class="icon-briefcase"></i>
-				Next Project
-			</a>
-		</div>
-		<!-- /.column -->
-	</div>
-	<!-- /.row -->
+	<? include('includes/nav/nav-secondary-desktop.php'); ?>
 	<section>
 		<aside class="align-left">
 			<div class="sidebar-copy">
-				<div class="toggle-nav-wrap">
-					<div class="row collapse">
-						<div class="column small-4 medium-3 mobile-link">
-							<a href="index.html#portfolio-section">
-								<i class="icon-th"></i>
-								View Projects
-							</a>
-						</div>
-						<!-- /.column -->
-						<div class="column small-4 medium-3 mobile-link">
-							<a href="safeco-redesign.html">
-								<i class="icon-briefcase"></i>
-								Next Project
-							</a>
-						</div>
-						<!-- /.column -->
-						<div class="column small-2">
-							<a href="/" class="button-toggle-nav js-toggle-nav">
-								<i class="icon-menu js-toggle-menu"></i>
-								<span class="nav-label">Menu</span>
-							</a>
-							<!-- /.button-toggle-nav -->
-						</div>
-						<!-- /.column -->
-					</div>
-					<!-- /.row -->
-				</div>
-				<!-- /.toggle-nav-wrap -->
+				<? include('includes/nav/nav-secondary-mobile.php') ?>
 
 				<div class="headline"><span>AT&amp;T</span> U-Verse</div>
 				
@@ -81,25 +25,11 @@
 			</div>
 			<!-- /.sidebar-copy -->
 
-			<nav class="nav-primary js-nav">
-				<ul>
-					<li><a href="/" class="nav-close js-nav-close"><i class="icon-cancel"></i> Close</a></li>
-					<li><a href="index.html#intro-section">Home</a></li>
-					<li><a href="index.html#portfolio-section">Portfolio</a></li>
-					<li><a href="index.html#about-section">About</a></li>
-					<li><a href="index.html#contact-section">Contact</a></li>
-				</ul>
-				<div class="name-logo">
-					<div class="title">
-						<span class="capital">J</span>ohn Murray
-					</div>
-				</div>
-				<!-- /.description -->
-			</nav>
+			<? include_once('includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
 			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/att-mobile-site/project-headshots/small.jpg, (small)],[images/screenshots/att-mobile-site/project-headshots/medium.jpg, (medium)],[images/screenshots/att-mobile-site/project-headshots/large.jpg, (large-only)],[images/screenshots/att-mobile-site/project-headshots/xlarge.jpg, (xlarge-only)]">
-			<noscript><img src="images/screenshots/att-mobile-site/project-headshots/default.jpg"></noscript>
+			<noscript><img src="assets/images/screenshots/att-mobile-site/project-headshots/default.jpg"></noscript>
 			<div class="body-copy">
 				<div class="row">
 					<div class="column small-12">
@@ -120,7 +50,7 @@
 					<div class="column small-12">
 						<h3>Home Page</h3>
 						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/att-mobile-site/wireframes/home/small.jpg, (small)],[images/screenshots/att-mobile-site/wireframes/home/medium.jpg, (medium)],[images/screenshots/att-mobile-site/wireframes/home/large.jpg, (large-only)],[images/screenshots/att-mobile-site/wireframes/home/xlarge.jpg, (xlarge-only)]">
-						<noscript><img src="images/screenshots/att-mobile-site/wireframes/home/default.jpg"></noscript>
+						<noscript><img src="assets/images/screenshots/att-mobile-site/wireframes/home/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -129,7 +59,7 @@
 					<div class="column">
 						<h3>Plans Page</h3>
 						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/att-mobile-site/wireframes/plans/small.jpg, (small)],[images/screenshots/att-mobile-site/wireframes/plans/medium.jpg, (medium)],[images/screenshots/att-mobile-site/wireframes/plans/large.jpg, (large-only)],[images/screenshots/att-mobile-site/wireframes/plans/xlarge.jpg, (xlarge-only)]">
-						<noscript><img src="images/screenshots/att-mobile-site/wireframes/plans/default.jpg"></noscript>
+						<noscript><img src="assets/images/screenshots/att-mobile-site/wireframes/plans/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -138,7 +68,7 @@
 					<div class="column">
 						<h3>Card Flip on Plans Page</h3>
 						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/att-mobile-site/wireframes/card-flip/small.jpg, (small)],[images/screenshots/att-mobile-site/wireframes/card-flip/medium.jpg, (medium)],[images/screenshots/att-mobile-site/wireframes/card-flip/large.jpg, (large-only)],[images/screenshots/att-mobile-site/wireframes/card-flip/xlarge.jpg, (xlarge-only)]">
-						<noscript><img src="images/screenshots/att-mobile-site/wireframes/card-flip/default.jpg"></noscript>
+						<noscript><img src="assets/images/screenshots/att-mobile-site/wireframes/card-flip/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -147,7 +77,7 @@
 					<div class="column small-12">
 						<h3>Site Navigation</h3>
 						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/att-mobile-site/wireframes/nav/small.jpg, (small)],[images/screenshots/att-mobile-site/wireframes/nav/medium.jpg, (medium)],[images/screenshots/att-mobile-site/wireframes/nav/large.jpg, (large-only)],[images/screenshots/att-mobile-site/wireframes/nav/xlarge.jpg, (xlarge-only)]">
-						<noscript><img src="images/screenshots/att-mobile-site/wireframes/nav/default.jpg"></noscript>
+						<noscript><img src="assets/images/screenshots/att-mobile-site/wireframes/nav/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -173,8 +103,5 @@
 		<!-- /.content -->
 	</section>
 	<!-- /.contact -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/unveil/1.3.0/jquery.unveil.min.js"></script>
-	<script src="js/project.min.js"></script>
 </body>
-</html>
+<? include_once('assets/includes/base/footer.php'); ?>

@@ -1,69 +1,10 @@
-<!doctype html>
-<html class="no-js" lang="">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Safeco Insurance Redesign</title>
-<meta name="robots" content="noindex, nofollow">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<!-- Place favicon.ico in the root directory -->
-
-<link rel="stylesheet" href="css/project.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-</head>
+<? include_once('assets/includes/base/header.php'); ?>
 <body class="interior-page safeco-redesign">
-	<div class="view-next-project js-view-next-project">
-		<div class="row">
-			<div class="column medium-4 mobile-link">
-				<a href="index.html#portfolio-section">
-					<i class="icon-th"></i>
-					View Projects
-				</a>
-			</div>
-			<!-- /.column -->
-			<div class="column medium-4 mobile-link">
-				<a href="quotes-hoi-redesign.html">
-					<i class="icon-briefcase"></i>
-					Next Project
-				</a>
-			</div>
-			<!-- /.column -->
-		</div>
-		<!-- /.row -->
-	</div>
-	<!-- /.view-next-project -->
+	<? include('includes/nav/nav-secondary-desktop.php'); ?>
 	<section>
 		<aside class="align-left">
 			<div class="sidebar-copy">
-				<div class="toggle-nav-wrap">
-					<div class="row collapse">
-						<div class="column small-4 medium-3 mobile-link">
-							<a href="index.html#portfolio-section">
-								<i class="icon-th"></i>
-								View Projects
-							</a>
-						</div>
-						<!-- /.column -->
-						<div class="column small-4 medium-3 mobile-link">
-							<a href="quotes-hoi-redesign.html">
-								<i class="icon-briefcase"></i>
-								Next Project
-							</a>
-						</div>
-						<!-- /.column -->
-						<div class="column small-2">
-							<a href="/" class="button-toggle-nav js-toggle-nav">
-								<i class="icon-menu js-toggle-menu"></i>
-								<span class="nav-label">Menu</span>
-							</a>
-							<!-- /.button-toggle-nav -->
-						</div>
-						<!-- /.column -->
-					</div>
-					<!-- /.row -->
-				</div>
-				<!-- /.toggle-nav-wrap -->
+				<? include('includes/nav/nav-secondary-mobile.php') ?>
 
 				<div class="headline"><span>Safeco</span> Insurance</div>
 				
@@ -84,25 +25,11 @@
 			</div>
 			<!-- /.sidebar-copy -->
 
-			<nav class="nav-primary js-nav">
-				<ul>
-					<li><a href="/" class="nav-close js-nav-close"><i class="icon-cancel"></i> Close</a></li>
-					<li><a href="index.html#intro-section">Home</a></li>
-					<li><a href="index.html#portfolio-section">Portfolio</a></li>
-					<li><a href="index.html#about-section">About</a></li>
-					<li><a href="index.html#contact-section">Contact</a></li>
-				</ul>
-				<div class="name-logo">
-					<div class="title">
-						<span class="capital">J</span>ohn Murray
-					</div>
-				</div>
-				<!-- /.description -->
-			</nav>
+			<? include_once('includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
 			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/safeco-redesign/project-headshots/small.jpg, (small)],[images/screenshots/safeco-redesign/project-headshots/medium.jpg, (medium)],[images/screenshots/safeco-redesign/project-headshots/large.jpg, (large-only)],[images/screenshots/safeco-redesign/project-headshots/xlarge.jpg, (xlarge-only)]">
-			<noscript><img src="images/screenshots/safeco-redesign/project-headshots/default.jpg"></noscript>
+			<noscript><img src="assets/images/screenshots/safeco-redesign/project-headshots/default.jpg"></noscript>
 			<div class="body-copy">
 				<div class="row">
 					<div class="column small-12">
@@ -127,7 +54,7 @@
 				<div class="row">
 					<div class="column">
 						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/safeco-redesign/pages/index/small.jpg, (small)],[images/screenshots/safeco-redesign/pages/index/medium.jpg, (medium)],[images/screenshots/safeco-redesign/pages/index/large.jpg, (large-only)],[images/screenshots/safeco-redesign/pages/index/xlarge.jpg, (xlarge-only)]">
-						<noscript><img src="images/screenshots/safeco-redesign/pages/index/default.jpg"></noscript>
+						<noscript><img src="assets/images/screenshots/safeco-redesign/pages/index/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -148,7 +75,7 @@
 						<p>The way I saw it, exsting customers probably wouldn't scroll down below the hero looking for content. It made more sense to me to have a path tot he lead form process within reach as the user read our page content.</p>
 
 						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/safeco-redesign/ui-slides/nav-small.jpg, (small)],[images/screenshots/safeco-redesign/ui-slides/nav-medium.jpg, (medium)],[images/screenshots/safeco-redesign/ui-slides/nav-large.jpg, (large-only)],[images/screenshots/safeco-redesign/ui-slides/nav-xlarge.jpg, (xlarge-only)]">
-						<noscript><img src="images/screenshots/safeco-redesign/ui-slides/nav-default.jpg"></noscript>
+						<noscript><img src="assets/images/screenshots/safeco-redesign/ui-slides/nav-default.jpg"></noscript>
 
 						<h4>Driving the Customer to Read Content Through Notifications</h4>
 						<p>As more and more people become accustomed to mobile devices being a part of their lives, there is more room to integrate mobile-based UI patterns. With this in mind, I thought it might be interesting to attract users' attention to the sticky nav and the long form content by using a notification. In this case, I used CSS3 transitions to slide in the notification tooltip and CSS3 animations to makethe bell ring. This added UI interaction gave subtle, yet powerful attention to the sticky navigation.</p>
@@ -186,8 +113,5 @@
 		<!-- /.content -->
 	</section>
 	<!-- /.contact -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/unveil/1.3.0/jquery.unveil.min.js"></script>
-	<script src="js/project.min.js"></script>
 </body>
-</html>
+<? include_once('assets/includes/base/footer.php'); ?>

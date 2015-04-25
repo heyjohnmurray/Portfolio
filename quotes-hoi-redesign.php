@@ -1,69 +1,10 @@
-<!doctype html>
-<html class="no-js" lang="">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>AT&amp;T U-Verse Mobile Site</title>
-<meta name="robots" content="noindex, nofollow">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<!-- Place favicon.ico in the root directory -->
-
-<link rel="stylesheet" href="css/project.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-</head>
+<? include_once('assets/includes/base/header.php'); ?>
 <body class="interior-page quotes-hoi-redesign">
-	<div class="view-next-project js-view-next-project">
-		<div class="row">
-			<div class="column medium-4 mobile-link">
-				<a href="index.html#portfolio-section">
-					<i class="icon-th"></i>
-					View Projects
-				</a>
-			</div>
-			<!-- /.column -->
-			<div class="column medium-4 mobile-link">
-				<a href="safeco-multi-test.html">
-					<i class="icon-briefcase"></i>
-					Next Project
-				</a>
-			</div>
-			<!-- /.column -->
-		</div>
-		<!-- /.row -->
-	</div>
-	<!-- /.view-next-project -->
+	<? include('includes/nav/nav-secondary-desktop.php'); ?>
 	<section>
 		<aside class="align-left">
 			<div class="sidebar-copy">
-				<div class="toggle-nav-wrap">
-					<div class="row collapse">
-						<div class="column small-4 medium-3 mobile-link">
-							<a href="index.html#portfolio-section">
-								<i class="icon-th"></i>
-								View Projects
-							</a>
-						</div>
-						<!-- /.column -->
-						<div class="column small-4 medium-3 mobile-link">
-							<a href="safeco-multi-test.html">
-								<i class="icon-briefcase"></i>
-								Next Project
-							</a>
-						</div>
-						<!-- /.column -->
-						<div class="column small-2">
-							<a href="/" class="button-toggle-nav js-toggle-nav">
-								<i class="icon-menu js-toggle-menu"></i>
-								<span class="nav-label">Menu</span>
-							</a>
-							<!-- /.button-toggle-nav -->
-						</div>
-						<!-- /.column -->
-					</div>
-					<!-- /.row -->
-				</div>
-				<!-- /.toggle-nav-wrap -->
+				<? include('includes/nav/nav-secondary-mobile.php') ?>
 
 				<div class="headline"><span>Homeowners</span> Insurance.com</div>
 				
@@ -85,25 +26,11 @@
 			</div>
 			<!-- /.sidebar-copy -->
 
-			<nav class="nav-primary js-nav">
-				<ul>
-					<li><a href="/" class="nav-close js-nav-close"><i class="icon-cancel"></i> Close</a></li>
-					<li><a href="index.html#intro-section">Home</a></li>
-					<li><a href="index.html#portfolio-section">Portfolio</a></li>
-					<li><a href="index.html#about-section">About</a></li>
-					<li><a href="index.html#contact-section">Contact</a></li>
-				</ul>
-				<div class="name-logo">
-					<div class="title">
-						<span class="capital">J</span>ohn Murray
-					</div>
-				</div>
-				<!-- /.description -->
-			</nav>
+			<? include_once('includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
 			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/quotes-hoi-redesign/project-headshots/small.jpg, (small)],[images/screenshots/quotes-hoi-redesign/project-headshots/medium.jpg, (medium)],[images/screenshots/quotes-hoi-redesign/project-headshots/large.jpg, (large-only)],[images/screenshots/quotes-hoi-redesign/project-headshots/xlarge.jpg, (xlarge-only)]">
-			<noscript><img src="images/screenshots/quotes-hoi-redesign/project-headshots/default.jpg"></noscript>
+			<noscript><img src="assets/images/screenshots/quotes-hoi-redesign/project-headshots/default.jpg"></noscript>
 			<div class="body-copy">
 				<div class="row">
 					<div class="column small-12">
@@ -126,7 +53,7 @@
 						<p>Once the user got to the lead form page, I kept the form the same but surrounded it with more value propositions. I also found that adding a red urgency banner increased call-in response metrics.</p>
 
 						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/quotes-hoi-redesign/pages/form/small.jpg, (small)],[images/screenshots/quotes-hoi-redesign/pages/form/medium.jpg, (medium)],[images/screenshots/quotes-hoi-redesign/pages/form/large.jpg, (large-only)],[images/screenshots/quotes-hoi-redesign/pages/form/xlarge.jpg, (xlarge-only)]">
-						<noscript><img src="images/screenshots/quotes-hoi-redesign/pages/form/default.jpg"></noscript>
+						<noscript><img src="assets/images/screenshots/quotes-hoi-redesign/pages/form/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -210,11 +137,11 @@
 						<h4>Home Page</h4>
 
 						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/quotes-hoi-redesign/pages/index/responsive-index-small.jpg, (small)]">
-						<noscript><img src="images/screenshots/quotes-hoi-redesign/pages/index/responsive-index-small.jpg"></noscript>
+						<noscript><img src="assets/images/screenshots/quotes-hoi-redesign/pages/index/responsive-index-small.jpg"></noscript>
 
 						<h3>Lead Form</h3>
 						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/quotes-hoi-redesign/pages/index/responsive-form-small.jpg, (small)]">
-						<noscript><img src="images/screenshots/quotes-hoi-redesign/pages/index/responsive-form-small.jpg"></noscript>
+						<noscript><img src="assets/images/screenshots/quotes-hoi-redesign/pages/index/responsive-form-small.jpg"></noscript>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -225,8 +152,5 @@
 		<!-- /.content -->
 	</section>
 	<!-- /.contact -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/unveil/1.3.0/jquery.unveil.min.js"></script>
-	<script src="js/project.min.js"></script>
 </body>
-</html>
+<? include_once('assets/includes/base/footer.php'); ?>

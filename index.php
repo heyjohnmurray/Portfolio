@@ -1,18 +1,4 @@
-<!doctype html>
-<html class="no-js" lang="">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<title></title>
-<meta name="robots" content="noindex, nofollow">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<!-- Place favicon.ico in the root directory -->
-
-<link rel="stylesheet" href="css/project.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-</head>
+<? include_once('assets/includes/base/header.php'); ?>
 <body>
 	<section class="intro js-intro" id="intro-section">
 		<div class="row">
@@ -35,7 +21,7 @@
 		<div class="row">
 			<div class="column small-4 small-offset-4 large-2 large-offset-5">
 				<a href="#portfolio-section">
-					<img src="images/icons/icon-view-portfolio.png" width="" height="" alt="">
+					<img src="assets/images/icons/icon-view-portfolio.png" alt="">
 				</a>
 			</div>
 			<!-- /.column -->
@@ -61,26 +47,12 @@
 			</div>
 			<!-- /.sidebar-copy -->
 
-			<nav class="nav-primary js-nav">
-				<ul>
-					<li><a href="/" class="nav-close js-nav-close"><i class="icon-cancel"></i> Close</a></li>
-					<li><a href="#intro-section">Home</a></li>
-					<li><a href="#portfolio-section">Portfolio</a></li>
-					<li><a href="#about-section">About</a></li>
-					<li><a href="#contact-section">Contact</a></li>
-				</ul>
-				<div class="name-logo">
-					<div class="title">
-						<span class="capital">J</span>ohn Murray
-					</div>
-				</div>
-				<!-- /.description -->
-			</nav>
+			<? include('includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right js-content">
 			<ul class="work-samples js-work-samples">
 				<li>
-					<a href="hi-redesign.html" class="site-hi-redesign">
+					<a href="hi-redesign.php" class="site-hi-redesign">
 						<div class="title">
 							<b>Home</b> 
 							<span>Insurance<small>.com</small></span>
@@ -112,7 +84,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="att-mobile-site.html" class="site-att-mobile-redesign">
+					<a href="att-mobile-site.php" class="site-att-mobile-redesign">
 						<div class="title">
 							<b>AT&amp;T</b> 
 							<span>U-Verse</span>
@@ -143,10 +115,10 @@
 					</a>
 				</li>
 				<li>
-					<a href="safeco-redesign.html" class="site-safeco-redesign">
+					<a href="safeco-redesign.php" class="site-safeco-redesign">
 						<div class="title">
 							<b>Safeco</b>
-							<span>Insurance<small>.com</small></span>
+							<span>Insurance</span>
 							<div class="button margin is-primary hide-for-large-up">Touch for project details</div>
 						</div>
 						<!-- /.title -->
@@ -174,7 +146,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="quotes-hoi-redesign.html" class="site-quotes-hoi-redesign">
+					<a href="quotes-hoi-redesign.php" class="site-quotes-hoi-redesign">
 						<div class="title">
 							<b>Homeowners</b> 
 							<span>Insurance<small>.com</small></span>
@@ -206,10 +178,10 @@
 					</a>
 				</li>
 				<li>
-					<a href="safeco-multi-test.html" class="site-safeco-multi-landing-pages">
+					<a href="safeco-multi-test.php" class="site-safeco-multi-landing-pages">
 						<div class="title">
 							<b>Safeco</b>
-							<span>Insurance<small>.com</small></span>
+							<span>Insurance</span>
 							<div class="button margin is-primary hide-for-large-up">Touch for project details</div>
 						</div>
 						<!-- /.title -->
@@ -236,10 +208,10 @@
 					</a>
 				</li>
 				<li>
-					<a href="metlife-auto-design.html" class="site-metlife-auto">
+					<a href="metlife-auto-design.php" class="site-metlife-auto">
 						<div class="title">
 							<b>Metlife</b>
-							<span>Insurance<small>.com</small></span>
+							<span>Insurance</span>
 							<div class="button margin is-primary hide-for-large-up">Touch for project details</div>
 						</div>
 						<!-- /.title -->
@@ -272,8 +244,8 @@
 	<!-- /.work -->
 
 	<section class="about js-about" id="about-section">
-		<img src="images/headshot-small.jpg" class="show-for-small-only js-headshot" alt="">
-		<img src="images/headshot-medium.jpg" class="show-for-medium-only js-headshot" alt="">
+		<img src="assets/images/headshot-small.jpg" class="show-for-small-only js-headshot" alt="">
+		<img src="assets/images/headshot-medium.jpg" class="show-for-medium-only js-headshot" alt="">
 		<aside class="align-right js-about-aside">
 			<div class="sidebar-copy">
 				<a href="/" class="button-toggle-nav js-toggle-nav">
@@ -303,7 +275,7 @@
 					</tr>
 					<tr>
 						<td valign="top"><strong>Title</strong></td>
-						<td valign="top">Sr. Front End Dev</td>
+						<td valign="top">Sr. Designer <br>Sr. Front End Developer</td>
 					</tr>
 					<tr>
 						<td valign="top"><strong>Brands</strong></td>
@@ -313,24 +285,10 @@
 			</div>
 			<!-- /.sidebar-copy -->
 
-			<nav class="nav-primary js-nav">
-				<ul>
-					<li><a href="/" class="nav-close js-nav-close"><i class="icon-cancel"></i> Close</a></li>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="#portfolio-section">Portfolio</a></li>
-					<li><a href="#about-section">About</a></li>
-					<li><a href="#contact-section">Contact</a></li>
-				</ul>
-				<div class="name-logo">
-					<div class="title">
-						<span class="capital">J</span>ohn Murray
-					</div>
-				</div>
-				<!-- /.description -->
-			</nav>
+			<? include('includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-left">
-			<img src="images/headshot-large.jpg" class="show-for-large-up js-headshot" alt="">
+			<img src="assets/images/headshot-large.jpg" class="show-for-large-up js-headshot" alt="">
 
 			<div class="body-copy js-about-bio">
 				<div class="row">
@@ -347,9 +305,20 @@
 
 						<p>Right now you might be saying to yourself, "But you can't be good at both design and front end code? It just can't be!" Well I'm here to tell you that you're wrong. I do both. Really really well. I'm one of the few people you'll meet who's just as comfortable talking to business leaders and marketing coordinators about design strategy and project launches as I am learning the latest Sass techniques or finding ways to use SVG images in responsive layouts.</p>
 
-						<p>For the last 5 years I've worked at Red Ventures, one of the fast growing companies on the East Coast. I've spent the last two years there working closely with medium to large-scale national insurance brands such as Safeco, The Hartford, Metlife and our company's own in-house insurance team, which runs HomeInsurance.com and HomeOwnersInsurance.com. Most of the work you'll see in my portfolio is from my time on insurance.</p>
+						<p>For the last 5 years I've worked at Red Ventures, one of the fastest-growing companies on the East Coast. I've spent the last two years there working closely with medium to large-scale national insurance brands such as Safeco, The Hartford, Metlife and our company's own in-house insurance team, which runs HomeInsurance.com and HomeOwnersInsurance.com. Most of the work you'll see in my portfolio is from my time on insurance.</p>
 
-						<p>However, these days I work directly with AT&amp;T and Vonage as well as conitnue to mentor and train junior and mid-level talent throughout our creative team. I recently launched a mobile-only <a href="att-mobile-site.html">AT&amp;T U-verse</a> design that I'm especially proud of. With initial analytics reporting that response rate is up 40% over previous mobile experiences we've run, how can I <em>not</em> be excited!</p>
+						<p>However, these days I work directly with AT&amp;T and Vonage as well as conitnue to mentor and train junior and mid-level talent throughout our creative team. I recently launched a mobile-only <a href="att-mobile-site.php">AT&amp;T U-verse</a> design that I'm especially proud of. With initial analytics reporting that response rate is up 40% over previous mobile experiences we've run, how can I <em>not</em> be excited!</p>
+
+						<div class="row">
+							<div class="column small-12">
+								<div class="banner is-primary">
+									<p>Please visit my <a href="https://github.com/heyjohnmurray">GitHub account</a> for more Javascript projects.</p>
+								</div>
+								<!-- /.banner -->
+							</div>
+							<!-- /.column -->
+						</div>
+						<!-- /.row -->
 
 						<div class="row">
 							<div class="column small-12 medium-6">
@@ -409,8 +378,8 @@
 	<!-- /.about -->
 
 	<section class="contact js-contact" id="contact-section">
-		<img src="images/ice-ice-baby-small.jpg" class="show-for-small-only" alt="">
-		<img src="images/ice-ice-baby-medium.jpg" class="show-for-medium-only" alt="">
+		<img src="assets/images/ice-ice-baby-small.jpg" class="show-for-small-only" alt="">
+		<img src="assets/images/ice-ice-baby-medium.jpg" class="show-for-medium-only" alt="">
 		<aside class="align-left js-contact-aside">
 			<div class="sidebar-copy">
 				<a href="/" class="button-toggle-nav js-toggle-nav">
@@ -433,7 +402,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="www.linkedin.com/in/heyohnmurray/en
+						<a href="https://www.linkedin.com/in/heyohnmurray/en
 		">
 							<i class="icon-linkedin-squared"></i>LinkedIn
 						</a>
@@ -452,30 +421,14 @@
 				<!-- /.inline-list -->
 			</div>
 			<!-- /.sidebar-copy -->
-			<nav class="nav-primary js-nav">
-				<ul>
-					<li><a href="/" class="nav-close js-nav-close"><i class="icon-cancel"></i> Close</a></li>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="#portfolio-section">Portfolio</a></li>
-					<li><a href="#about-section">About</a></li>
-					<li><a href="#contact-section">Contact</a></li>
-				</ul>
-				<div class="name-logo">
-					<div class="title">
-						<span class="capital">J</span>ohn Murray
-					</div>
-				</div>
-				<!-- /.description -->
-			</nav>
+
+			<? include('includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
-			<img src="images/ice-ice-baby-large.jpg" alt="" class="show-for-large-up">
+			<img src="assets/images/ice-ice-baby-large.jpg" alt="" class="show-for-large-up">
 		</div>
 		<!-- /.content -->
 	</section>
 	<!-- /.contact -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/unveil/1.3.0/jquery.unveil.min.js"></script>
-	<script src="js/project.min.js"></script>
 </body>
-</html>
+<? include_once('assets/includes/base/footer.php'); ?>
