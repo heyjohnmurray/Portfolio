@@ -8,7 +8,7 @@
 
 				<div class="headline"><span>AT&amp;T</span> U-Verse</div>
 				
-				<p>Developing a winning mobile experience has always been a challenge on our AT&amp;T U-verse&reg; business. At the time, over 60% of our traffic came from mobile users. However, whenever we tested a mobile experience in which users were given a mobile-specific experience they overwhelmingly chose the 'view desktop' option.</p>
+				<p>Developing a winning mobile experience has always been a challenge on our AT&amp;T U-verse<sup>&reg;</sup> business. At the time, over 60% of our traffic came from mobile users. However, whenever we tested a mobile experience in which users were given a mobile-specific experience they overwhelmingly chose the 'view desktop' option.</p>
 
 				<ul class="list inline-list has-row-colors">
 					<li>A/B Testing</li>
