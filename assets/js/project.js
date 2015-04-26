@@ -41,7 +41,6 @@ $(function() {
 		$('body').addClass('has-no-scroll');
 		navMenu.addClass('is-shown');
 		nameLogo.addClass('logo-fade');
-
 		e.preventDefault();
 	});
 
