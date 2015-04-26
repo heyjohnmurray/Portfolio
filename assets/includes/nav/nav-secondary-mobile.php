@@ -1,13 +1,13 @@
 <div class="toggle-nav-wrap">
 	<div class="row collapse">
-		<div class="column small-3 medium-2 mobile-link">
+		<div class="column small-4 medium-2 mobile-link">
 			<a href="index.php#portfolio-section">
 				<i class="icon-th"></i>
 				All Sites
 			</a>
 		</div>
 		<!-- /.column -->
-		<div class="column small-3 medium-2 mobile-link">
+		<div class="column small-4 medium-2 mobile-link">
 		<? if(stristr($_SERVER['REQUEST_URI'], "/hi-redesign.php")) { ?>
 			<a href="att-mobile-site.php">
 		<? } ?>
