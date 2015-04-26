@@ -39,7 +39,7 @@ $(function() {
 	// open menu nav
 	$('.js-toggle-nav').on('click', function(e){
 		$('body').addClass('has-no-scroll');
-		$(this).closest(navMenu).addClass('is-shown');
+		navMenu.addClass('is-shown');
 		nameLogo.addClass('logo-fade');
 
 		e.preventDefault();

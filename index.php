@@ -1,4 +1,4 @@
-<? include_once('assets/includes/base/header.php'); ?>
+<? include('assets/includes/base/header.php'); ?>
 <body>
 	<section class="intro js-intro" id="intro-section">
 		<div class="row">
@@ -47,7 +47,7 @@
 			</div>
 			<!-- /.sidebar-copy -->
 
-			<? include('includes/nav/nav-primary.php') ?>
+			<? include('assets/includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right js-content">
 			<ul class="work-samples js-work-samples">
@@ -285,7 +285,7 @@
 			</div>
 			<!-- /.sidebar-copy -->
 
-			<? include('includes/nav/nav-primary.php') ?>
+			<? include('assets/includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-left">
 			<img src="assets/images/headshot-large.jpg" class="show-for-large-up js-headshot" alt="">
@@ -422,7 +422,7 @@
 			</div>
 			<!-- /.sidebar-copy -->
 
-			<? include('includes/nav/nav-primary.php') ?>
+			<? include('assets/includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
 			<img src="assets/images/ice-ice-baby-large.jpg" alt="" class="show-for-large-up">
@@ -431,4 +431,4 @@
 	</section>
 	<!-- /.contact -->
 </body>
-<? include_once('assets/includes/base/footer.php'); ?>
+<? include('assets/includes/base/footer.php'); ?>

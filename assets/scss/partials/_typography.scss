@@ -50,10 +50,13 @@ p {
 
 p,
 td {
-	font-family: "thin";
+	font-family: "regular";
 	font-size: 18px;
 	line-height: 1.6;
 	
+	@media #{$medium-up} {
+		font-family: "thin";
+	}
 }
 
 b {

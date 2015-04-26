@@ -1,10 +1,10 @@
-<? include_once('assets/includes/base/header.php'); ?>
+<? include('assets/includes/base/header.php'); ?>
 <body class="interior-page safeco-multi-test">
-	<? include('includes/nav/nav-secondary-desktop.php'); ?>
+	<? include('assets/includes/nav/nav-secondary-desktop.php'); ?>
 	<section>
 		<aside class="align-left">
 			<div class="sidebar-copy">
-				<? include('includes/nav/nav-secondary-mobile.php') ?>
+				<? include('assets/includes/nav/nav-secondary-mobile.php') ?>
 
 				<div class="headline"><span>Safeco</span> Insurance</div>
 				
@@ -24,10 +24,10 @@
 			</div>
 			<!-- /.sidebar-copy -->
                                                                                                                                         
-			<? include_once('includes/nav/nav-primary.php') ?>
+			<? include('includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
-			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/safeco-multi/project-headshots/small.jpg, (small)],[images/screenshots/safeco-multi/project-headshots/medium.jpg, (medium)],[images/screenshots/safeco-multi/project-headshots/large.jpg, (large-only)],[images/screenshots/safeco-multi/project-headshots/xlarge.jpg, (xlarge-only)]">
+			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/safeco-multi/project-headshots/small.jpg, (small)],[assets/images/screenshots/safeco-multi/project-headshots/medium.jpg, (medium)],[assets/images/screenshots/safeco-multi/project-headshots/large.jpg, (large-only)],[assets/images/screenshots/safeco-multi/project-headshots/xlarge.jpg, (xlarge-only)]">
 			<noscript><img src="assets/images/screenshots/safeco-multi/project-headshots/default.jpg"></noscript>
 			<div class="body-copy">
 				<div class="row">
@@ -44,23 +44,23 @@
 				<div class="row">
 					<div class="column small-12">
 						<h3>Auto Insurance Customers</h3>
-						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/safeco-multi/pages/auto/small.jpg, (small)],[images/screenshots/safeco-multi/pages/auto/medium.jpg, (medium)],[images/screenshots/safeco-multi/pages/auto/large.jpg, (large-only)],[images/screenshots/safeco-multi/pages/auto/xlarge.jpg, (xlarge-only)]">
+						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/safeco-multi/pages/auto/small.jpg, (small)],[assets/images/screenshots/safeco-multi/pages/auto/medium.jpg, (medium)],[assets/images/screenshots/safeco-multi/pages/auto/large.jpg, (large-only)],[assets/images/screenshots/safeco-multi/pages/auto/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/safeco-multi/pages/auto/default.jpg"></noscript>
 
 						<h3>Home Insurance Customers</h3>
-						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/safeco-multi/pages/home/small.jpg, (small)],[images/screenshots/safeco-multi/pages/home/medium.jpg, (medium)],[images/screenshots/safeco-multi/pages/home/large.jpg, (large-only)],[images/screenshots/safeco-multi/pages/home/xlarge.jpg, (xlarge-only)]">
+						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/safeco-multi/pages/home/small.jpg, (small)],[assets/images/screenshots/safeco-multi/pages/home/medium.jpg, (medium)],[assets/images/screenshots/safeco-multi/pages/home/large.jpg, (large-only)],[assets/images/screenshots/safeco-multi/pages/home/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/safeco-multi/pages/home/default.jpg"></noscript>
 
 						<h3>Renter Insurance Customers</h3>
-						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/safeco-multi/pages/renter/small.jpg, (small)],[images/screenshots/safeco-multi/pages/renter/medium.jpg, (medium)],[images/screenshots/safeco-multi/pages/renter/large.jpg, (large-only)],[images/screenshots/safeco-multi/pages/renter/xlarge.jpg, (xlarge-only)]">
+						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/safeco-multi/pages/renter/small.jpg, (small)],[assets/images/screenshots/safeco-multi/pages/renter/medium.jpg, (medium)],[assets/images/screenshots/safeco-multi/pages/renter/large.jpg, (large-only)],[assets/images/screenshots/safeco-multi/pages/renter/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/safeco-multi/pages/renter/default.jpg"></noscript>
 
 						<h3>Motorcyle Insurance Customers</h3>
-						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/safeco-multi/pages/motorcycle/small.jpg, (small)],[images/screenshots/safeco-multi/pages/motorcycle/medium.jpg, (medium)],[images/screenshots/safeco-multi/pages/motorcycle/large.jpg, (large-only)],[images/screenshots/safeco-multi/pages/motorcycle/xlarge.jpg, (xlarge-only)]">
+						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/safeco-multi/pages/motorcycle/small.jpg, (small)],[assets/images/screenshots/safeco-multi/pages/motorcycle/medium.jpg, (medium)],[assets/images/screenshots/safeco-multi/pages/motorcycle/large.jpg, (large-only)],[assets/images/screenshots/safeco-multi/pages/motorcycle/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/safeco-multi/pages/motorcycle/default.jpg"></noscript>
 
 						<h3>Boat Insurance Customers</h3>
-						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/safeco-multi/pages/boat/small.jpg, (small)],[images/screenshots/safeco-multi/pages/boat/medium.jpg, (medium)],[images/screenshots/safeco-multi/pages/boat/large.jpg, (large-only)],[images/screenshots/safeco-multi/pages/boat/xlarge.jpg, (xlarge-only)]">
+						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/safeco-multi/pages/boat/small.jpg, (small)],[assets/images/screenshots/safeco-multi/pages/boat/medium.jpg, (medium)],[assets/images/screenshots/safeco-multi/pages/boat/large.jpg, (large-only)],[assets/images/screenshots/safeco-multi/pages/boat/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/safeco-multi/pages/boat/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -110,4 +110,4 @@
 	</section>
 	<!-- /.contact -->
 </body>
-<? include_once('assets/includes/base/footer.php'); ?>
+<? include('assets/includes/base/footer.php'); ?>

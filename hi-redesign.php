@@ -1,10 +1,10 @@
-<? include_once('assets/includes/base/header.php'); ?>
+<? include('assets/includes/base/header.php'); ?>
 <body class="interior-page hi-redesign">
-	<? include('includes/nav/nav-secondary-desktop.php'); ?>
+	<? include('assets/includes/nav/nav-secondary-desktop.php'); ?>
 	<section>
 		<aside class="align-left">
 			<div class="sidebar-copy">
-				<? include('includes/nav/nav-secondary-mobile.php') ?>
+				<? include('assets/includes/nav/nav-secondary-mobile.php') ?>
 
 				<div class="headline"><span>Home</span> Insurance</div>
 				
@@ -27,10 +27,10 @@
 			</div>
 			<!-- /.sidebar-copy -->
 
-			<? include_once('includes/nav/nav-primary.php') ?>
+			<? include('includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
-			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/project-headshots/small.jpg, (small)],[images/screenshots/hi-redesign/project-headshots/medium.jpg, (medium)],[images/screenshots/hi-redesign/project-headshots/large.jpg, (large-only)],[images/screenshots/hi-redesign/project-headshots/xlarge.jpg, (xlarge-only)]">
+			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/project-headshots/small.jpg, (small)],[assets/images/screenshots/hi-redesign/project-headshots/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/project-headshots/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/project-headshots/xlarge.jpg, (xlarge-only)]">
 			<noscript><img src="assets/images/screenshots/hi-redesign/project-headshots/default.jpg"></noscript>
 			<div class="body-copy">
 				<div class="row">
@@ -43,7 +43,7 @@
 				<!-- /.row -->
 				<div class="row">
 					<div class="column small-12 medium-10 medium-offset-1">
-						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/assets/redesigned-logo-small.png, (small)],[images/screenshots/hi-redesign/assets/redesigned-logo-default.png, (medium)]">
+						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/assets/redesigned-logo-small.png, (small)],[assets/images/screenshots/hi-redesign/assets/redesigned-logo-default.png, (medium)]">
 						<noscript><img class="hi-logo" src="assets/images/screenshots/hi-redesign/assets/redesigned-logo-default.png"></noscript>
 					</div>
 					<!-- /.column -->
@@ -122,7 +122,7 @@
 
 						<p>As a team, we felt that the key to connecting with consumers was to choose imagery that felt natural and relatable. We wanted people to see themselves or people they know in the imagery we chose.</p>
 
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/pages/index/small.jpg, (small)],[images/screenshots/hi-redesign/pages/index/medium.jpg, (medium)],[images/screenshots/hi-redesign/pages/index/large.jpg, (large-only)],[images/screenshots/hi-redesign/pages/index/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/pages/index/small.jpg, (small)],[assets/images/screenshots/hi-redesign/pages/index/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/pages/index/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/pages/index/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/hi-redesign/pages/index/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -139,19 +139,19 @@
 
 						<p>From a coding perspective, I invisioned each slide taking up the full width of the user's browser. Each slide was absolutely positioned and prevented the page from scrolling and maintained full browser width. When the user got to the end of the slides the site became relatively positioned so that the user could scroll as they're used to.</p>
 
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/hero-slides/intro/small.jpg, (small)],[images/screenshots/hi-redesign/hero-slides/intro/medium.jpg, (medium)],[images/screenshots/hi-redesign/hero-slides/intro/large.jpg, (large-only)],[images/screenshots/hi-redesign/hero-slides/intro/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/hero-slides/intro/small.jpg, (small)],[assets/images/screenshots/hi-redesign/hero-slides/intro/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/hero-slides/intro/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/hero-slides/intro/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/hi-redesign/hero-slides/intro/default.jpg"></noscript>
 
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/hero-slides/home-insurance/small.jpg, (small)],[images/screenshots/hi-redesign/hero-slides/home-insurance/medium.jpg, (medium)],[images/screenshots/hi-redesign/hero-slides/home-insurance/large.jpg, (large-only)],[images/screenshots/hi-redesign/hero-slides/home-insurance/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/hero-slides/home-insurance/small.jpg, (small)],[assets/images/screenshots/hi-redesign/hero-slides/home-insurance/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/hero-slides/home-insurance/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/hero-slides/home-insurance/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/hi-redesign/hero-slides/home-insurance/default.jpg"></noscript>
 
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/hero-slides/auto-insurance/small.jpg, (small)],[images/screenshots/hi-redesign/hero-slides/auto-insurance/medium.jpg, (medium)],[images/screenshots/hi-redesign/hero-slides/auto-insurance/large.jpg, (large-only)],[images/screenshots/hi-redesign/hero-slides/auto-insurance/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/hero-slides/auto-insurance/small.jpg, (small)],[assets/images/screenshots/hi-redesign/hero-slides/auto-insurance/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/hero-slides/auto-insurance/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/hero-slides/auto-insurance/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/hi-redesign/hero-slides/auto-insurance/default.jpg"></noscript>
 
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/hero-slides/savings/small.jpg, (small)],[images/screenshots/hi-redesign/hero-slides/savings/medium.jpg, (medium)],[images/screenshots/hi-redesign/hero-slides/savings/large.jpg, (large-only)],[images/screenshots/hi-redesign/hero-slides/savings/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/hero-slides/savings/small.jpg, (small)],[assets/images/screenshots/hi-redesign/hero-slides/savings/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/hero-slides/savings/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/hero-slides/savings/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/hi-redesign/hero-slides/savings/default.jpg"></noscript>
 
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/hero-slides/lead-form/small.jpg, (small)],[images/screenshots/hi-redesign/hero-slides/lead-form/medium.jpg, (medium)],[images/screenshots/hi-redesign/hero-slides/lead-form/large.jpg, (large-only)],[images/screenshots/hi-redesign/hero-slides/lead-form/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/hero-slides/lead-form/small.jpg, (small)],[assets/images/screenshots/hi-redesign/hero-slides/lead-form/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/hero-slides/lead-form/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/hero-slides/lead-form/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/hi-redesign/hero-slides/lead-form/default.jpg"></noscript>
 						
 					</div>
@@ -180,7 +180,7 @@
 					<div class="column small-12">
 						<h3>Calculator Page</h3>
 
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/pages/calculator/small.jpg, (small)],[images/screenshots/hi-redesign/pages/calculator/medium.jpg, (medium)],[images/screenshots/hi-redesign/pages/calculator/large.jpg, (large-only)],[images/screenshots/hi-redesign/pages/calculator/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/pages/calculator/small.jpg, (small)],[assets/images/screenshots/hi-redesign/pages/calculator/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/pages/calculator/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/pages/calculator/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/hi-redesign/pages/calculator/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -194,7 +194,7 @@
 					<div class="column small-12">
 						<h3>Discounts Page</h3>
 
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/pages/discounts/small.jpg, (small)],[images/screenshots/hi-redesign/pages/discounts/medium.jpg, (medium)],[images/screenshots/hi-redesign/pages/discounts/large.jpg, (large-only)],[images/screenshots/hi-redesign/pages/discounts/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/pages/discounts/small.jpg, (small)],[assets/images/screenshots/hi-redesign/pages/discounts/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/pages/discounts/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/pages/discounts/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/hi-redesign/pages/discounts/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -208,7 +208,7 @@
 					<div class="column small-12">
 						<h3>Quotes Page</h3>
 
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/pages/quotes/small.jpg, (small)],[images/screenshots/hi-redesign/pages/quotes/medium.jpg, (medium)],[images/screenshots/hi-redesign/pages/quotes/large.jpg, (large-only)],[images/screenshots/hi-redesign/pages/quotes/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/pages/quotes/small.jpg, (small)],[assets/images/screenshots/hi-redesign/pages/quotes/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/pages/quotes/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/pages/quotes/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/hi-redesign/pages/quotes/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -225,7 +225,7 @@
 
 						<p>Oftentimes, users would come directly to this page, so I didn't feel the need to give this page the same interior page layout as all the other pages.</p>
 
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/pages/rates/small.jpg, (small)],[images/screenshots/hi-redesign/pages/rates/medium.jpg, (medium)],[images/screenshots/hi-redesign/pages/rates/large.jpg, (large-only)],[images/screenshots/hi-redesign/pages/rates/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/pages/rates/small.jpg, (small)],[assets/images/screenshots/hi-redesign/pages/rates/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/pages/rates/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/pages/rates/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/hi-redesign/pages/rates/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -239,7 +239,7 @@
 						<h3>Responsive Layout</h3>
 						<p>This is a screenshot of the home page just to give you a feel for what the site looked like on mobile.</p>
 						
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/hi-redesign/pages/index/responsive.jpg, (small)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/pages/index/responsive.jpg, (small)]">
 						<noscript><img src="assets/images/screenshots/hi-redesign/pages/index/responsive.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -252,4 +252,4 @@
 	</section>
 	<!-- /.contact -->
 </body>
-<? include_once('assets/includes/base/footer.php'); ?>
+<? include('assets/includes/base/footer.php'); ?>

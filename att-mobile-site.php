@@ -1,10 +1,10 @@
-<? include_once('assets/includes/base/header.php'); ?>
+<? include('assets/includes/base/header.php'); ?>
 <body class="interior-page att-site">
-	<? include('includes/nav/nav-secondary-desktop.php'); ?>
+	<? include('assets/includes/nav/nav-secondary-desktop.php'); ?>
 	<section>
 		<aside class="align-left">
 			<div class="sidebar-copy">
-				<? include('includes/nav/nav-secondary-mobile.php') ?>
+				<? include('assets/includes/nav/nav-secondary-mobile.php') ?>
 
 				<div class="headline"><span>AT&amp;T</span> U-Verse</div>
 				
@@ -25,10 +25,10 @@
 			</div>
 			<!-- /.sidebar-copy -->
 
-			<? include_once('includes/nav/nav-primary.php') ?>
+			<? include('assets/includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
-			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/att-mobile-site/project-headshots/small.jpg, (small)],[images/screenshots/att-mobile-site/project-headshots/medium.jpg, (medium)],[images/screenshots/att-mobile-site/project-headshots/large.jpg, (large-only)],[images/screenshots/att-mobile-site/project-headshots/xlarge.jpg, (xlarge-only)]">
+			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/att-mobile-site/project-headshots/small.jpg, (small)],[assets/images/screenshots/att-mobile-site/project-headshots/medium.jpg, (medium)],[assets/images/screenshots/att-mobile-site/project-headshots/large.jpg, (large-only)],[assets/images/screenshots/att-mobile-site/project-headshots/xlarge.jpg, (xlarge-only)]">
 			<noscript><img src="assets/images/screenshots/att-mobile-site/project-headshots/default.jpg"></noscript>
 			<div class="body-copy">
 				<div class="row">
@@ -49,7 +49,7 @@
 				<div class="row">
 					<div class="column small-12">
 						<h3>Home Page</h3>
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/att-mobile-site/wireframes/home/small.jpg, (small)],[images/screenshots/att-mobile-site/wireframes/home/medium.jpg, (medium)],[images/screenshots/att-mobile-site/wireframes/home/large.jpg, (large-only)],[images/screenshots/att-mobile-site/wireframes/home/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/att-mobile-site/wireframes/home/small.jpg, (small)],[assets/images/screenshots/att-mobile-site/wireframes/home/medium.jpg, (medium)],[assets/images/screenshots/att-mobile-site/wireframes/home/large.jpg, (large-only)],[assets/images/screenshots/att-mobile-site/wireframes/home/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/att-mobile-site/wireframes/home/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -58,7 +58,7 @@
 				<div class="row">
 					<div class="column">
 						<h3>Plans Page</h3>
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/att-mobile-site/wireframes/plans/small.jpg, (small)],[images/screenshots/att-mobile-site/wireframes/plans/medium.jpg, (medium)],[images/screenshots/att-mobile-site/wireframes/plans/large.jpg, (large-only)],[images/screenshots/att-mobile-site/wireframes/plans/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/att-mobile-site/wireframes/plans/small.jpg, (small)],[assets/images/screenshots/att-mobile-site/wireframes/plans/medium.jpg, (medium)],[assets/images/screenshots/att-mobile-site/wireframes/plans/large.jpg, (large-only)],[assets/images/screenshots/att-mobile-site/wireframes/plans/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/att-mobile-site/wireframes/plans/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -67,7 +67,7 @@
 				<div class="row">
 					<div class="column">
 						<h3>Card Flip on Plans Page</h3>
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/att-mobile-site/wireframes/card-flip/small.jpg, (small)],[images/screenshots/att-mobile-site/wireframes/card-flip/medium.jpg, (medium)],[images/screenshots/att-mobile-site/wireframes/card-flip/large.jpg, (large-only)],[images/screenshots/att-mobile-site/wireframes/card-flip/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/att-mobile-site/wireframes/card-flip/small.jpg, (small)],[assets/images/screenshots/att-mobile-site/wireframes/card-flip/medium.jpg, (medium)],[assets/images/screenshots/att-mobile-site/wireframes/card-flip/large.jpg, (large-only)],[assets/images/screenshots/att-mobile-site/wireframes/card-flip/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/att-mobile-site/wireframes/card-flip/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -76,7 +76,7 @@
 				<div class="row">
 					<div class="column small-12">
 						<h3>Site Navigation</h3>
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/att-mobile-site/wireframes/nav/small.jpg, (small)],[images/screenshots/att-mobile-site/wireframes/nav/medium.jpg, (medium)],[images/screenshots/att-mobile-site/wireframes/nav/large.jpg, (large-only)],[images/screenshots/att-mobile-site/wireframes/nav/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/att-mobile-site/wireframes/nav/small.jpg, (small)],[assets/images/screenshots/att-mobile-site/wireframes/nav/medium.jpg, (medium)],[assets/images/screenshots/att-mobile-site/wireframes/nav/large.jpg, (large-only)],[assets/images/screenshots/att-mobile-site/wireframes/nav/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/att-mobile-site/wireframes/nav/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -104,4 +104,4 @@
 	</section>
 	<!-- /.contact -->
 </body>
-<? include_once('assets/includes/base/footer.php'); ?>
+<? include('assets/includes/base/footer.php'); ?>

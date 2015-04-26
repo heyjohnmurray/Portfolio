@@ -1,10 +1,10 @@
-<? include_once('assets/includes/base/header.php'); ?>
+<? include('assets/includes/base/header.php'); ?>
 <body class="interior-page safeco-redesign">
-	<? include('includes/nav/nav-secondary-desktop.php'); ?>
+	<? include('assets/includes/nav/nav-secondary-desktop.php'); ?>
 	<section>
 		<aside class="align-left">
 			<div class="sidebar-copy">
-				<? include('includes/nav/nav-secondary-mobile.php') ?>
+				<? include('assets/includes/nav/nav-secondary-mobile.php') ?>
 
 				<div class="headline"><span>Safeco</span> Insurance</div>
 				
@@ -25,10 +25,10 @@
 			</div>
 			<!-- /.sidebar-copy -->
 
-			<? include_once('includes/nav/nav-primary.php') ?>
+			<? include('includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
-			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/safeco-redesign/project-headshots/small.jpg, (small)],[images/screenshots/safeco-redesign/project-headshots/medium.jpg, (medium)],[images/screenshots/safeco-redesign/project-headshots/large.jpg, (large-only)],[images/screenshots/safeco-redesign/project-headshots/xlarge.jpg, (xlarge-only)]">
+			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/safeco-redesign/project-headshots/small.jpg, (small)],[assets/images/screenshots/safeco-redesign/project-headshots/medium.jpg, (medium)],[assets/images/screenshots/safeco-redesign/project-headshots/large.jpg, (large-only)],[assets/images/screenshots/safeco-redesign/project-headshots/xlarge.jpg, (xlarge-only)]">
 			<noscript><img src="assets/images/screenshots/safeco-redesign/project-headshots/default.jpg"></noscript>
 			<div class="body-copy">
 				<div class="row">
@@ -53,7 +53,7 @@
 			<div class="body-copy">
 				<div class="row">
 					<div class="column">
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/safeco-redesign/pages/index/small.jpg, (small)],[images/screenshots/safeco-redesign/pages/index/medium.jpg, (medium)],[images/screenshots/safeco-redesign/pages/index/large.jpg, (large-only)],[images/screenshots/safeco-redesign/pages/index/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/safeco-redesign/pages/index/small.jpg, (small)],[assets/images/screenshots/safeco-redesign/pages/index/medium.jpg, (medium)],[assets/images/screenshots/safeco-redesign/pages/index/large.jpg, (large-only)],[assets/images/screenshots/safeco-redesign/pages/index/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/safeco-redesign/pages/index/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -74,7 +74,7 @@
 
 						<p>The way I saw it, exsting customers probably wouldn't scroll down below the hero looking for content. It made more sense to me to have a path tot he lead form process within reach as the user read our page content.</p>
 
-						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/safeco-redesign/ui-slides/nav-small.jpg, (small)],[images/screenshots/safeco-redesign/ui-slides/nav-medium.jpg, (medium)],[images/screenshots/safeco-redesign/ui-slides/nav-large.jpg, (large-only)],[images/screenshots/safeco-redesign/ui-slides/nav-xlarge.jpg, (xlarge-only)]">
+						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/safeco-redesign/ui-slides/nav-small.jpg, (small)],[assets/images/screenshots/safeco-redesign/ui-slides/nav-medium.jpg, (medium)],[assets/images/screenshots/safeco-redesign/ui-slides/nav-large.jpg, (large-only)],[assets/images/screenshots/safeco-redesign/ui-slides/nav-xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/safeco-redesign/ui-slides/nav-default.jpg"></noscript>
 
 						<h4>Driving the Customer to Read Content Through Notifications</h4>
@@ -114,4 +114,4 @@
 	</section>
 	<!-- /.contact -->
 </body>
-<? include_once('assets/includes/base/footer.php'); ?>
+<? include('assets/includes/base/footer.php'); ?>

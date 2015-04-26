@@ -1,10 +1,10 @@
-<? include_once('assets/includes/base/header.php'); ?>
+<? include('assets/includes/base/header.php'); ?>
 <body class="interior-page quotes-hoi-redesign">
-	<? include('includes/nav/nav-secondary-desktop.php'); ?>
+	<? include('assets/includes/nav/nav-secondary-desktop.php'); ?>
 	<section>
 		<aside class="align-left">
 			<div class="sidebar-copy">
-				<? include('includes/nav/nav-secondary-mobile.php') ?>
+				<? include('assets/includes/nav/nav-secondary-mobile.php') ?>
 
 				<div class="headline"><span>Homeowners</span> Insurance.com</div>
 				
@@ -26,10 +26,10 @@
 			</div>
 			<!-- /.sidebar-copy -->
 
-			<? include_once('includes/nav/nav-primary.php') ?>
+			<? include('includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
-			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/quotes-hoi-redesign/project-headshots/small.jpg, (small)],[images/screenshots/quotes-hoi-redesign/project-headshots/medium.jpg, (medium)],[images/screenshots/quotes-hoi-redesign/project-headshots/large.jpg, (large-only)],[images/screenshots/quotes-hoi-redesign/project-headshots/xlarge.jpg, (xlarge-only)]">
+			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/quotes-hoi-redesign/project-headshots/small.jpg, (small)],[assets/images/screenshots/quotes-hoi-redesign/project-headshots/medium.jpg, (medium)],[assets/images/screenshots/quotes-hoi-redesign/project-headshots/large.jpg, (large-only)],[assets/images/screenshots/quotes-hoi-redesign/project-headshots/xlarge.jpg, (xlarge-only)]">
 			<noscript><img src="assets/images/screenshots/quotes-hoi-redesign/project-headshots/default.jpg"></noscript>
 			<div class="body-copy">
 				<div class="row">
@@ -52,7 +52,7 @@
 						<h3>Lead Form Page</h3>
 						<p>Once the user got to the lead form page, I kept the form the same but surrounded it with more value propositions. I also found that adding a red urgency banner increased call-in response metrics.</p>
 
-						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/quotes-hoi-redesign/pages/form/small.jpg, (small)],[images/screenshots/quotes-hoi-redesign/pages/form/medium.jpg, (medium)],[images/screenshots/quotes-hoi-redesign/pages/form/large.jpg, (large-only)],[images/screenshots/quotes-hoi-redesign/pages/form/xlarge.jpg, (xlarge-only)]">
+						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/quotes-hoi-redesign/pages/form/small.jpg, (small)],[assets/images/screenshots/quotes-hoi-redesign/pages/form/medium.jpg, (medium)],[assets/images/screenshots/quotes-hoi-redesign/pages/form/large.jpg, (large-only)],[assets/images/screenshots/quotes-hoi-redesign/pages/form/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/quotes-hoi-redesign/pages/form/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -119,7 +119,7 @@
 						<!-- /.row -->
 						<div class="row">
 							<div class="column">
-								<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/quotes-hoi-redesign/assets/form-background/small.jpg, (small)],[images/screenshots/quotes-hoi-redesign/assets/form-background/medium.jpg, (medium)],[images/screenshots/quotes-hoi-redesign/assets/form-background/large.jpg, (large-only)],[images/screenshots/quotes-hoi-redesign/assets/form-background/xlarge.jpg, (xlarge-only)]">
+								<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/quotes-hoi-redesign/assets/form-background/small.jpg, (small)],[assets/images/screenshots/quotes-hoi-redesign/assets/form-background/medium.jpg, (medium)],[assets/images/screenshots/quotes-hoi-redesign/assets/form-background/large.jpg, (large-only)],[assets/images/screenshots/quotes-hoi-redesign/assets/form-background/xlarge.jpg, (xlarge-only)]">
 							</div>
 							<!-- /.column -->
 						</div>
@@ -136,11 +136,11 @@
 						<h2>Responsive Device Layouts</h2>
 						<h4>Home Page</h4>
 
-						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/quotes-hoi-redesign/pages/index/responsive-index-small.jpg, (small)]">
+						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/quotes-hoi-redesign/pages/index/responsive-index-small.jpg, (small)]">
 						<noscript><img src="assets/images/screenshots/quotes-hoi-redesign/pages/index/responsive-index-small.jpg"></noscript>
 
 						<h3>Lead Form</h3>
-						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/quotes-hoi-redesign/pages/index/responsive-form-small.jpg, (small)]">
+						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/quotes-hoi-redesign/pages/index/responsive-form-small.jpg, (small)]">
 						<noscript><img src="assets/images/screenshots/quotes-hoi-redesign/pages/index/responsive-form-small.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -153,4 +153,4 @@
 	</section>
 	<!-- /.contact -->
 </body>
-<? include_once('assets/includes/base/footer.php'); ?>
+<? include('assets/includes/base/footer.php'); ?>

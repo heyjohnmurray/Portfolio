@@ -1,10 +1,10 @@
-<? include_once('assets/includes/base/header.php'); ?>
+<? include('assets/includes/base/header.php'); ?>
 <body class="interior-page metlife-auto-design">
-	<? include('includes/nav/nav-secondary-desktop.php'); ?>
+	<? include('assets/includes/nav/nav-secondary-desktop.php'); ?>
 	<section>
 		<aside class="align-left">
 			<div class="sidebar-copy">
-				<? include('includes/nav/nav-secondary-mobile.php') ?>
+				<? include('assets/includes/nav/nav-secondary-mobile.php') ?>
 
 				<div class="headline"><span>MetLife</span> Insurance</div>
 				
@@ -24,10 +24,10 @@
 			</div>
 			<!-- /.sidebar-copy -->
                                                                                                                                         
-			<? include_once('includes/nav/nav-primary.php') ?>
+			<? include('includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
-			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/metlife/project-headshots/small.jpg, (small)],[images/screenshots/metlife/project-headshots/medium.jpg, (medium)],[images/screenshots/metlife/project-headshots/large.jpg, (large-only)],[images/screenshots/metlife/project-headshots/xlarge.jpg, (xlarge-only)]">
+			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/metlife/project-headshots/small.jpg, (small)],[assets/images/screenshots/metlife/project-headshots/medium.jpg, (medium)],[assets/images/screenshots/metlife/project-headshots/large.jpg, (large-only)],[assets/images/screenshots/metlife/project-headshots/xlarge.jpg, (xlarge-only)]">
 			<noscript><img src="assets/images/screenshots/metlife/project-headshots/default.jpg"></noscript>
 			<div class="body-copy">
 				<div class="row">
@@ -45,15 +45,15 @@
 					<div class="column small-12">
 						<h2>Responsive Device Layouts</h2>
 						<h4>Mobile View</h4>
-						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/metlife/pages/index/responsive/mobile.jpg, (small)]">
+						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/metlife/pages/index/responsive/mobile.jpg, (small)]">
 						<noscript><img src="assets/images/screenshots/metlife/pages/index/responsive/mobile.jpg"></noscript>
 
 						<h4>Tablet View</h4>
-						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/metlife/pages/index/responsive/tablet-small.jpg, (small)],[images/screenshots/metlife/pages/index/responsive/tablet-medium.jpg, (medium)],[images/screenshots/metlife/pages/index/responsive/tablet-large.jpg, (large-only)],[images/screenshots/metlife/pages/index/responsive/tablet-xlarge.jpg, (xlarge-only)]">
+						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/metlife/pages/index/responsive/tablet-small.jpg, (small)],[assets/images/screenshots/metlife/pages/index/responsive/tablet-medium.jpg, (medium)],[assets/images/screenshots/metlife/pages/index/responsive/tablet-large.jpg, (large-only)],[assets/images/screenshots/metlife/pages/index/responsive/tablet-xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/metlife/pages/index/responsive/tablet-default.jpg"></noscript>
 
 						<h4>Desktop View</h4>
-						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[images/screenshots/metlife/pages/index/small.jpg, (small)],[images/screenshots/metlife/pages/index/medium.jpg, (medium)],[images/screenshots/metlife/pages/index/large.jpg, (large-only)],[images/screenshots/metlife/pages/index/xlarge.jpg, (xlarge-only)]">
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/metlife/pages/index/small.jpg, (small)],[assets/images/screenshots/metlife/pages/index/medium.jpg, (medium)],[assets/images/screenshots/metlife/pages/index/large.jpg, (large-only)],[assets/images/screenshots/metlife/pages/index/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/metlife/pages/index/default.jpg"></noscript>
 					</div>
 					<!-- /.column -->
@@ -66,4 +66,4 @@
 	</section>
 	<!-- /.contact -->
 </body>
-<? include_once('assets/includes/base/footer.php'); ?>
+<? include('assets/includes/base/footer.php'); ?>
