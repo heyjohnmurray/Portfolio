@@ -47,7 +47,7 @@ $(function() {
 	// close nav menu
 	$('.js-nav-close, .js-nav a').on('click', function(){
 		$('body').removeClass('has-no-scroll');
-		navMenu.removeClass('is-shown');
+		// navMenu.removeClass('is-shown');
 		nameLogo.removeClass('logo-fade');
 	});
 
