@@ -39,6 +39,10 @@ body {
 		a {
 			display: block;
 			font-family: "black-italic";
+
+			@media #{$large-up} {
+				display: inline-block;
+			}
 		}
 
 		&.is-primary {
