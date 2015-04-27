@@ -100,7 +100,6 @@ aside {
 	a {
 		@include transition(all .25s ease-in);
 		border-bottom: none;
-		display: block;
 		font-family: "bold";
 		text-decoration: none;
 
