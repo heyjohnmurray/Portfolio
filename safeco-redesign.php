@@ -84,7 +84,7 @@
 
 						<div class="row">
 							<div class="column small-12 medium-10 medium-offset-1">
-								<!-- <img class="margin-bottom" src="http://zippy.gfycat.com/NaiveDistortedCougar.gif" alt=""> -->
+								<img class="margin-bottom" src="http://zippy.gfycat.com/NaiveDistortedCougar.gif" alt="">
 								<img class="margin-bottom" src="http://zippy.gfycat.com/QuarterlyMediumDuiker.gif" alt="">
 							</div>
 							<!-- /.column -->
