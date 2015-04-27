@@ -60,10 +60,12 @@
 		box-shadow: 0 2px 2px 2px rgba(0,0,0,.25);
 		border: 5px solid #fff;
 		color: $color-primary-dark;
+		height: 75px; // fallback
 		height: 15vh;
 		position: relative;
 
 		@media #{$medium-up} {
+			height: 100px; // fallback
 			height: 25vh;
 		}
 	}
