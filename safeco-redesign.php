@@ -84,7 +84,7 @@
 
 						<div class="row">
 							<div class="column small-12 medium-10 medium-offset-1">
-								<img class="margin-bottom" src="http://zippy.gfycat.com/NaiveDistortedCougar.gif" alt="">
+								<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[http://zippy.gfycat.com/QuarterlyMediumDuiker.gif, (small)],[http://zippy.gfycat.com/NaiveDistortedCougar.gif, (medium)]">
 							</div>
 							<!-- /.column -->
 						</div>
