@@ -7,7 +7,7 @@
 			</a>
 		</div>
 		<!-- /.column -->
-		<div class="column small-4 medium-2 mobile-link">
+		<div class="column small-4 mobile-link">
 		<? if(stristr($_SERVER['REQUEST_URI'], "/hi-redesign.php")) { ?>
 			<a href="att-mobile-site.php">
 				<i class="icon-briefcase"></i>
