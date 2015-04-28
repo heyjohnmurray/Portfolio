@@ -24,7 +24,7 @@
 			</div>
 			<!-- /.sidebar-copy -->
                                                                                                                                         
-			<? include('assets/nav/nav-primary.php') ?>
+			<? include('assets/includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
 			<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/safeco-multi/project-headshots/small.jpg, (small)],[assets/images/screenshots/safeco-multi/project-headshots/medium.jpg, (medium)],[assets/images/screenshots/safeco-multi/project-headshots/large.jpg, (large-only)],[assets/images/screenshots/safeco-multi/project-headshots/xlarge.jpg, (xlarge-only)]">
