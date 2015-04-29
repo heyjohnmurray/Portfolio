@@ -297,17 +297,17 @@
 							<span>About</span>
 							John Murray
 						</div>
-						<p>I'm a <b>self-taught</b> web designer and front end developer currently living just outside of Charlotte, NC. I've been designing and coding profesionally for more than seven years &mdash; wow, has it really been that long? In a previous life I was a journalism major who graduated from the University of South Carolina in 2007. After being laid off and realizing that journalism wasn't a good long-term fit for me, I made the switch to web and never looked back.</p>
+						<p>I'm a <b>self-taught</b> web designer and front end developer currently living just outside of Charlotte, NC. I've been designing and coding professionally for more than seven years &mdash; wow, has it really been that long? I graduated from the University of South Carolina in 2007. After being laid off due to budget concerns I realized that journalism wasn't a good long-term fit for me so I made the switch to web and never looked back.</p>
 
 						<p>Starting as a junior web designer and working my way up to being my company's only senior-level hybrid, I'm the only person at my company who has <b>both senior front end dev and senior web designer responsibilities</b>. So what does that mean?</p>
 
-						<p>Well, among other things it means I creative direct junior members on my team, helping them find the right balance between brand guidelines and innovative designs. It means that I regularly do large scale brand and site launches. It means that I understand how to create an effective, performance-driven design in Photoshop and then turn around and code it into an intuitive front end user experience.</p>
+						<p>Well, among other things it means I give creative direction to junior members on my team, helping them find the right balance between brand guidelines and innovative designs. It means that I regularly do large scale brand and site launches. It means that I understand how to create an effective, performance-driven design in Photoshop and then turn around and code it into an intuitive front end user experience.</p>
 
 						<p>Right now you might be saying to yourself, "But you can't be good at both design and front end code? It just can't be!" Well I'm here to tell you that you're wrong. I do both. Really really well. I'm one of the few people you'll meet who's just as comfortable talking to business leaders and marketing coordinators about design strategy and project launches as I am learning the latest Sass techniques or finding ways to use SVG images in responsive layouts.</p>
 
 						<p>For the last 5 years I've worked at Red Ventures, one of the fastest-growing companies on the East Coast. I've spent the last two years there working closely with medium to large-scale national insurance brands such as Safeco, The Hartford, Metlife and our company's own in-house insurance team, which runs HomeInsurance.com and HomeOwnersInsurance.com. Most of the work you'll see in my portfolio is from my time on insurance.</p>
 
-						<p>However, these days I work directly with AT&amp;T and Vonage as well as conitnue to mentor and train junior and mid-level talent throughout our creative team. I recently launched a mobile-only <a href="att-mobile-site.php">AT&amp;T U-verse</a> design that I'm especially proud of. With initial analytics reporting that response rate is up 40% over previous mobile experiences we've run, how can I <em>not</em> be excited!</p>
+						<p>However, these days I work directly with AT&amp;T and Vonage as well as continue to mentor and train junior and mid-level talent throughout our creative team. I recently launched a mobile-only <a href="att-mobile-site.php">AT&amp;T U-verse</a> design of which I'm especially proud. With initial analytics reporting that response rate is up 40% over previous mobile experiences we've run, how can I <em>not</em> be excited!</p>
 
 						<div class="row">
 							<div class="column small-12">

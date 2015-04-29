@@ -38,11 +38,11 @@
 
 						<p>From a customer experience and creative standpoint, the Safeco partnership has always been one of our most successful and profitable relationships.</p>
 
-						<p>When we approached the redesign, we knew it wouldn't be easy to beat the existing control that I deisgned. As the project description said, we needed to beat the control and update the codebase. <b>Not an easy task.</b> However, we believed that our hunch for this test was right.</p>
+						<p>When we approached the redesign, we knew it wouldn't be easy to beat the existing control that I designed. As the project description said, we needed to beat the control and update the codebase. <b>Not an easy task.</b> However, we believed that our hunch for this test was right.</p>
 
 						<p>We believed that we should try a test in which we educate the site visitor and that by doing so we'd empower them with the knowledge to make the right decision. So this test was structured with our typical calls to action &mdash; the "call now" language and prominent phone number. But this time we added various sections of content to explain all of Safeco's value propositions.</p>
 
-						<p>From a user experience point of view, it made sense to me to provide a sticky navigation bar that scrolled the page for the user when they clicked on a link and wanted to learn more. The original design looked much like what you see in the screenshot below but with one small change. The lifestyle image of the couple sitting beside the car was the hero image and the city skyline was the background for the "why safeco" section. Even though I liked the couple as the hero image, the city made more sense becuase it seemed to draw the user's eye to the zip entry form. In the end, directing the user to take this action was more important than maintaining the aesthetic of the site through imagery.</p>
+						<p>From a user experience point of view, it made sense to me to provide a sticky navigation bar that scrolled the page for the user when they clicked on a link and wanted to learn more. The original design looked much like what you see in the screenshot below but with one small change. The lifestyle image of the couple sitting beside the car was the hero image and the city skyline was the background for the "why safeco" section. Even though I liked the couple as the hero image, the city made more sense because it seemed to draw the user's eye to the zip entry form. In the end, directing the user to take this action was more important than maintaining the aesthetic of the site through imagery.</p>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -72,15 +72,15 @@
 
 						<p>With that in mind, I thought it made sense to swap out the existing customer button with a green lead form call to action button once the sticky nav was activated on page scroll.</p>
 
-						<p>The way I saw it, exsting customers probably wouldn't scroll down below the hero looking for content. It made more sense to me to have a path tot he lead form process within reach as the user read our page content.</p>
+						<p>The way I saw it, exsting customers probably wouldn't scroll down below the hero looking for content. It made more sense to me to have a path to the lead form process within reach as the user read our page content.</p>
 
 						<img class="margin-bottom js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/safeco-redesign/ui-slides/nav-small.jpg, (small)],[assets/images/screenshots/safeco-redesign/ui-slides/nav-medium.jpg, (medium)],[assets/images/screenshots/safeco-redesign/ui-slides/nav-large.jpg, (large-only)],[assets/images/screenshots/safeco-redesign/ui-slides/nav-xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/safeco-redesign/ui-slides/nav-default.jpg"></noscript>
 
 						<h4>Driving the Customer to Read Content Through Notifications</h4>
-						<p>As more and more people become accustomed to mobile devices being a part of their lives, there is more room to integrate mobile-based UI patterns. With this in mind, I thought it might be interesting to attract users' attention to the sticky nav and the long form content by using a notification. In this case, I used CSS3 transitions to slide in the notification tooltip and CSS3 animations to makethe bell ring. This added UI interaction gave subtle, yet powerful attention to the sticky navigation.</p>
+						<p>As more and more people become accustomed to mobile devices being a part of their lives, there is more room to integrate mobile-based UI patterns. With this in mind, I thought it might be interesting to attract users' attention to the sticky nav and the long form content by using a notification. In this case, I used CSS3 transitions to slide in the notification tooltip and CSS3 animations to make the bell ring. This added UI interaction gave subtle, yet powerful attention to the sticky navigation.</p>
 
-						<p>Here's a small screenshot of that interaction in case you're interested:</p>
+						<p>Here's a small screenshot of that interaction:</p>
 
 						<div class="row">
 							<div class="column small-12 medium-10 medium-offset-1">

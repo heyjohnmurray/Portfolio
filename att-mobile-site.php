@@ -38,7 +38,7 @@
 
 						<p>Our team took a more holistic approach to solving the problem. We identified key characteristcs that we wanted our mobile experience to have. First, it was critical to have a sticky header that kept the click to call button within reach at all times. Second, we wanted to have links to the plans page on the home page. Offering an easy way to get to the transactional part of the site was a must. Third, the site had to feel like it was created by mobile users for mobile users instead of feeling like a desktop experience shoe-horned into a mobile layout. Fourth, the pricing grid on the plans page needed to allow users to compare plans side-by-side.</p>
 
-						<p>What you see below is a result of the design team's brainstorm sessions. I helped lead the discussion during those sessions and helped drive the overall strategy of the project. I sketched these wireframes as well, and yes, I know I have bad penmanship. Sorry. </p>
+						<p>What you see below is a result of the design team's brainstorm sessions. I helped lead the discussion during those sessions and helped drive the overall strategy of the project. I sketched these wireframes as well. </p>
 					</div>
 					<!-- /.column -->
 				</div>

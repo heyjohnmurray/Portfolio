@@ -65,9 +65,9 @@
 					<div class="column small-12">
 						<h2>Design Considerations</h2>
 						<h4>Choosing the right colors</h4>
-						<p>With this redesign, one of my design goals was to give the whole site a much warmer and more initmate feel. I chose a palette with rich purples and a warm, soothing yellow.</p>
+						<p>With this redesign, one of my design goals was to give the whole site a much warmer and more intimate feel. I chose a palette with rich purples and a warm, soothing yellow.</p>
 
-						<p>I also continued to choose very family-friendly imagery. That continued to re-enforce the warm, inviting aesthetic that I was going for with this design. I wanted users to be at ease and to feel like they weren't just buying insurance. I wanted to re-assure them that they were doing something to protect their family.</p>
+						<p>I also continued to choose very family-friendly imagery. That continued to re-enforce the warm, inviting aesthetic that I was going for with this design. I wanted users to be at ease and to feel like they weren't just buying insurance. I wanted to reassure them that they were doing something to protect their family.</p>
 
 						<div class="row">
 							<div class="color-palette quotes-hoi-redesign">

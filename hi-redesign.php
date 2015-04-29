@@ -10,7 +10,7 @@
 				
 				<p>The most ambitious project of my career. That's how I'd describe this site. The goal was to take our existing HomeInsurance.com site and increase its impact in the SEO landscape.</p>
 
-				<p>This site is about one hundred pages long including geo pages and blog posts so I'm just gonna hit the high spots.</p>
+				<p>This site is about one hundred pages long including geo pages and blog posts so I'm just going to hit the high spots.</p>
 
 				<ul class="list inline-list has-row-colors">
 					<li>Branding</li>
@@ -137,7 +137,7 @@
 						<h2>Home Page Hero Imagery</h2>
 						<p>One of our biggest focuses was the home page hero. We felt that we could really set the tone and re-enforce our mission by having a multi-slide hero. Having multiple slides would allow us to tell a story.</p>
 
-						<p>From a coding perspective, I invisioned each slide taking up the full width of the user's browser. Each slide was absolutely positioned and prevented the page from scrolling and maintained full browser width. When the user got to the end of the slides the site became relatively positioned so that the user could scroll as they're used to.</p>
+						<p>From a coding perspective, I envisioned each slide taking up the full width of the user's browser. Each slide was absolutely positioned and prevented the page from scrolling and maintained full browser width. When the user got to the end of the slides the site became relatively positioned so that the user could scroll as they're used to.</p>
 
 						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/hero-slides/intro/small.jpg, (small)],[assets/images/screenshots/hi-redesign/hero-slides/intro/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/hero-slides/intro/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/hero-slides/intro/xlarge.jpg, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/hi-redesign/hero-slides/intro/default.jpg"></noscript>
@@ -165,7 +165,7 @@
 				<div class="row">
 					<div class="column small-12">
 						<h2>Interior Page Layouts</h2>
-						<p>Because this was an SEO site, content was king. In a perfect world, designers can have the content molded to fit the layout they're going for. In this case, the reality of the matter was that I needed to have my content match keyword density and other copy requirements. I was able to work with the copywriters to tailor the copy to my design a bit, but I encouraged them to lead and I'd do my best to mold the design to the copy.</p>
+						<p>Because this was an SEO site, content was king. In a perfect world, designers can have the content molded to fit the their desired layout. In this case, the reality of the matter was that I needed to have my content match keyword density and other copy requirements. I was able to work with the copywriters to tailor the copy to my design a bit, but I encouraged them to lead and I'd do my best to mold the design to the copy.</p>
 
 						<p>In order to break up the long blocks of copy I relied on eye-catching lifestyle imagery on each hero page. I also used the green "subhero" content section in a two-column layout to add some variety. I felt that adding two columns in that section broke up the monotony of all the copy. I didn't want people's eyes to gloss over. Adding the green and lifestyle imagery added variety, prominence and a sense of style to the content as well.</p>
 					</div>

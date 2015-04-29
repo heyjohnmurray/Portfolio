@@ -8,7 +8,7 @@
 
 				<div class="headline"><span>Safeco</span> Insurance</div>
 				
-				<p>Safeco Insurance sells policies to all types of customers. However, Red Ventures only makes money selling policies to people looking for home and auto insurance. Oftentimes we are able to sell on unserviceable customers' information to a third party. This test was an attempt to weed out unserviceable customers but still gather information about them that we can sell to a third party.</p>
+				<p>Safeco Insurance sells policies to all types of customers. However, Red Ventures only makes money selling policies to people looking for home and auto insurance. Oftentimes we are able to sell unserviceable customers' information to a third party. This test was an attempt to weed out unserviceable customers but still gather information about them that we can sell to a third party.</p>
 
 				<ul class="list inline-list has-row-colors">
 					<li>A/B Testing</li>
@@ -73,7 +73,7 @@
 					<div class="column small-12">
 						<h2>Coding Considerations</h2>
 
-						<p>From a coding perspective I wanted to make the experience seemless. Since I was just giving the user a lead form it seemed logical to keep them on the same page (the home page) the whole time. The problem, however, is that providing unique hero backgrounds and header content based on the user's drop down menu selection could look messy.</p>
+						<p>From a coding perspective I wanted to make the experience seamless. Since I was just giving the user a lead form it seemed logical to keep them on the same page (the home page) the whole time. The problem, however, is that providing unique hero backgrounds and header content based on the user's drop down menu selection could look messy.</p>
 
 						<h4>The Solution</h4>
 
