@@ -1,5 +1,3 @@
-
-
 <? include('assets/includes/base/header.php'); ?>
 <body class="interior-page metlife-auto-design">
 	<? include('assets/includes/nav/nav-secondary-desktop.php'); ?>

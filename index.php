@@ -45,7 +45,7 @@
 				<p>Every site shown includes a list of the skills and technologies I used during development.</p>
 				
 				<div class="banner is-primary">
-					<p><a href="process.html"><span class="show-for-small-only">Tap to</span> <span class="show-for-medium-up">Click to</span> learn more about my UX design process</a></p>
+					<p><a href="process.php"><span class="show-for-small-only">Tap to</span> <span class="show-for-medium-up">Click to</span> learn more about my UX design process</a></p>
 				</div>
 				<!-- /.banner -->
 			</div>
@@ -305,7 +305,7 @@
 						<div class="row">
 							<div class="column small-12">
 								<div class="banner is-primary">
-									<p><a href="process.html"><span class="show-for-small-only">Tap to</span> <span class="show-for-medium-up">Click to</span> learn more about my UX design process</a></p>
+									<p><a href="process.php"><span class="show-for-small-only">Tap to</span> <span class="show-for-medium-up">Click to</span> learn more about my UX design process</a></p>
 								</div>
 								<!-- /.banner -->
 							</div>
