@@ -48,7 +48,7 @@ body {
 			}
 
 			&:hover {
-				color: $color-primary-dark;
+				color: darken($banner-background-color-primary, 10%);
 			}
 		}
 

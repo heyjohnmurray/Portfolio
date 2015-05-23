@@ -107,6 +107,14 @@ aside {
 			border-bottom: 3px solid $color-primary-light;
 		}
 	}
+
+	.banner {
+		a {
+			&:hover {
+				border: none;
+			}
+		}
+	}
 }
 
 .headline,

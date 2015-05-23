@@ -13,14 +13,16 @@
 				<ul class="list inline-list has-row-colors">
 					<li>A/B Testing</li>
 					<li>CSS3</li>
-					<li>Design</li>
 					<li>Development</li>
 					<li>HTML5</li>
 					<li>Javascript</li>
 					<li>Mobile</li>
+					<li>Prototyping</li>
 					<li>Responsive Design</li>
 					<li>Sass</li>
-					<li>UX</li>
+					<li>UX Design</li>
+					<li>Visual Design</li>
+					<li>Wireframing</li>
 				</ul>
 				<!-- /.list -->
 			</div>

@@ -1634,7 +1634,7 @@ body {
         display: inline-block; } }
     .content .banner a:hover,
     .work .banner a:hover {
-      color: #434343; }
+      color: #1e8696; }
   .content .banner.is-primary,
   .work .banner.is-primary {
     background-color: #27acc0;
@@ -1868,6 +1868,8 @@ aside {
   text-decoration: none; }
   .body-copy a:hover {
     border-bottom: 3px solid #f6c80f; }
+.body-copy .banner a:hover {
+  border: none; }
 
 .headline,
 .subheadline {
