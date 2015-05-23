@@ -297,6 +297,18 @@
 							<span>About</span>
 							John Murray
 						</div>
+						
+						<div class="row">
+							<div class="column small-12">
+								<div class="banner is-primary">
+									<p><a href="process.html"><span class="show-for-small-only">Tap to</span> <span class="show-for-medium-up">Click to</span> learn more about my UX design process</a></p>
+								</div>
+								<!-- /.banner -->
+							</div>
+							<!-- /.column -->
+						</div>
+						<!-- /.row -->
+
 						<p>I'm a <b>self-taught</b> web designer and front end developer currently living just outside of Charlotte, NC. I've been designing and coding professionally for more than seven years &mdash; wow, has it really been that long? I graduated from the University of South Carolina in 2007. After being laid off due to budget concerns I realized that journalism wasn't a good long-term fit for me so I made the switch to web and never looked back.</p>
 
 						<p>Starting as a junior web designer and working my way up to being my company's only senior-level hybrid, I'm the only person at my company who has <b>both senior front end dev and senior web designer responsibilities</b>. So what does that mean?</p>
@@ -309,16 +321,6 @@
 
 						<p>However, these days I work directly with AT&amp;T and Vonage as well as continue to mentor and train junior and mid-level talent throughout our creative team. I recently launched a mobile-only <a href="att-mobile-site.php">AT&amp;T U-verse</a> design of which I'm especially proud. With initial analytics reporting that response rate is up 40% over previous mobile experiences we've run, how can I <em>not</em> be excited!</p>
 
-						<div class="row">
-							<div class="column small-12">
-								<div class="banner is-primary">
-									<p><a href="process.html"><span class="show-for-small-only">Tap to</span> <span class="show-for-medium-up">Click to</span> learn more about my UX design process</a></p>
-								</div>
-								<!-- /.banner -->
-							</div>
-							<!-- /.column -->
-						</div>
-						<!-- /.row -->
 
 						<div class="row">
 							<div class="column small-12 medium-6">
