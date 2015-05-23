@@ -43,7 +43,11 @@
 
 				<p>I led the strategy, design and front end development of all of these sites. From sketches and wireframes, to prototypes in Axure or on moqups.com, on through the Photoshop mockups, I designed each of these projects with the end user in mind. From there I developed the front end code in Sublime Text.</p>
 				<p>Every site shown includes a list of the skills and technologies I used during development.</p>
-				<p><a href="process.html">Click to learn more about my design process.</a></p>
+				
+				<div class="banner is-primary">
+					<p><a href="process.html"><span class="show-for-small-only">Tap to</span> <span class="show-for-medium-up">Click to</span> learn more about my UX design process</a></p>
+				</div>
+				<!-- /.banner -->
 			</div>
 			<!-- /.sidebar-copy -->
 
@@ -315,7 +319,7 @@
 
 						<p>Well, among other things it means I give creative direction to junior members on my team, helping them find the right balance between brand guidelines and innovative designs. It means that I regularly do large scale brand and site launches. It means that I understand how to create an effective, performance-driven design in Photoshop and then turn around and code it into an intuitive front end user experience.</p>
 
-						<p>Right now you might be saying to yourself, "But you can't be good at both design and front end code? It just can't be!" Well I'm here to tell you that you're wrong. I do both. Really really well. I'm one of the few people you'll meet who's just as comfortable talking to business leaders and marketing coordinators about design strategy and project launches as I am learning the latest Sass techniques or finding ways to use SVG images in responsive layouts.</p>
+						<p>Right now you might be saying to yourself, "But you can't be good at both design and front end code? It just can't be!" Well I'm here to tell you that you're wrong. I do both. Really really well. I'm one of the few people you'll meet who's just as comfortable talking to business leaders and marketing coordinators about UX design strategy and project launches as I am learning the latest Sass techniques or finding ways to use SVG images in responsive layouts.</p>
 
 						<p>For the last 5 years I've worked at Red Ventures, one of the fastest-growing companies on the East Coast. I've spent the last two years there working closely with medium to large-scale national insurance brands such as Safeco, The Hartford, Metlife and our company's own in-house insurance team, which runs HomeInsurance.com and HomeOwnersInsurance.com. Most of the work you'll see in my portfolio is from my time on insurance.</p>
 

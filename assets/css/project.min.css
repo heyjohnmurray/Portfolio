@@ -1608,23 +1608,29 @@ body {
     background-color: #27acc0;
     color: #f6f6f6; }
 
-.content .banner {
+.content .banner,
+.work .banner {
   margin-bottom: 20px;
   padding: 20px; }
-  .content .banner p {
+  .content .banner p,
+  .work .banner p {
     color: #f6f6f6;
     font-family: "black-italic";
     font-size: 23px;
     margin-bottom: 0;
     text-align: center;
     text-transform: uppercase; }
-  .content .banner a {
+  .content .banner a,
+  .work .banner a {
     color: #f6f6f6;
-    font-family: "black-italic"; }
+    font-family: "black-italic";
+    text-decoration: none; }
     @media only screen and (min-width: 40.0625em) {
-      .content .banner a {
+      .content .banner a,
+      .work .banner a {
         display: inline-block; } }
-  .content .banner.is-primary {
+  .content .banner.is-primary,
+  .work .banner.is-primary {
     background-color: #27acc0;
     color: #f6f6f6; }
 
