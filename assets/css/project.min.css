@@ -1622,6 +1622,9 @@ body {
     text-transform: uppercase; }
   .content .banner a,
   .work .banner a {
+    -webkit-transition: color 0.5s;
+    -moz-transition: color 0.5s;
+    transition: color 0.5s;
     color: #f6f6f6;
     font-family: "black-italic";
     text-decoration: none; }
@@ -1629,6 +1632,9 @@ body {
       .content .banner a,
       .work .banner a {
         display: inline-block; } }
+    .content .banner a:hover,
+    .work .banner a:hover {
+      color: #434343; }
   .content .banner.is-primary,
   .work .banner.is-primary {
     background-color: #27acc0;

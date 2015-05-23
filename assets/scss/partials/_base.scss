@@ -38,12 +38,17 @@ body {
 		}
 
 		a {
+			@include transition(color .5s);
 			color: $color-secondary-light;
 			font-family: "black-italic";
 			text-decoration: none;
 
 			@media #{$medium-up} {
 				display: inline-block;
+			}
+
+			&:hover {
+				color: $color-primary-dark;
 			}
 		}
 
