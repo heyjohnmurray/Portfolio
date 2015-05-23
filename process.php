@@ -8,7 +8,16 @@
 
 				<div class="headline"><span>About My</span> UX Design Process</div>
 				
-				<p>description</p>
+				<p>With few exceptions, my design consistently follows the same steps:</p>
+
+				<ol class="list has-row-colors">
+					<li>Initial planning</li>
+					<li>Wireframes</li>
+					<li>Prototypes</li>
+					<li>Initial mockups</li>
+					<li>Detailed mockups</li>
+				</ol>
+				<!-- /.list -->
 
 			</div>
 			<!-- /.sidebar-copy -->

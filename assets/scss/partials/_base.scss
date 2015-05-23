@@ -69,12 +69,21 @@ body {
 }
 
 ul {
-	margin: 0;
-	padding: 0;
-
 	li {
 		list-style-type: none;
 	}
+}
+
+ol {
+	li {
+		list-style-position: inside;
+	}
+}
+
+ul,
+ol {
+	margin: 0;
+	padding: 0;
 
 	&.list {
 		margin-bottom: 20px;

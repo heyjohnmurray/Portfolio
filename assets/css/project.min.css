@@ -1646,24 +1646,36 @@ body {
 .margin-bottom {
   margin: 0 0 40px 0; }
 
-ul {
+ul li {
+  list-style-type: none; }
+
+ol li {
+  list-style-position: inside; }
+
+ul,
+ol {
   margin: 0;
   padding: 0; }
-  ul li {
-    list-style-type: none; }
-  ul.list {
+  ul.list,
+  ol.list {
     margin-bottom: 20px; }
-    ul.list li {
+    ul.list li,
+    ol.list li {
       margin: 0 3px 5px 0;
       padding: 10px 15px; }
-  ul.inline-list {
+  ul.inline-list,
+  ol.inline-list {
     margin-bottom: 20px; }
-    ul.inline-list li {
+    ul.inline-list li,
+    ol.inline-list li {
       display: inline-block; }
   ul.block-list li,
-  ul.block-list a {
+  ul.block-list a,
+  ol.block-list li,
+  ol.block-list a {
     display: block; }
-  ul.has-row-colors li {
+  ul.has-row-colors li,
+  ol.has-row-colors li {
     background-color: #363636;
     color: #f6f6f6; }
 
