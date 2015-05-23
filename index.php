@@ -41,9 +41,9 @@
 
 				<div class="headline"><span>About</span> My Portfolio</div>
 
-				<p>I led the strategy, design and front end development of all of these sites.</p>
-				<p>Each one has been put through its paces and performed well along key metrics including response rate and visit conversion. With every site I hope to provide a quality design that provides an effective user experience using the cleanest, most cross-browser compatible CSS, HTML and Javascript possible.</p>
-				<p>Every site shown includes a list of the skills and technologies I used during development. <b>Enjoy!</b></p>
+				<p>I led the strategy, design and front end development of all of these sites. From sketches and wireframes, to prototypes in Axure or on moqups.com, on through the Photoshop mockups, I designed each of these projects with the end user in mind. From there I developed the front end code in Sublime Text.</p>
+				<p>Every site shown includes a list of the skills and technologies I used during development.</p>
+				<p><a href="process.html">Click to learn more about my design process.</a></p>
 			</div>
 			<!-- /.sidebar-copy -->
 
@@ -312,7 +312,7 @@
 						<div class="row">
 							<div class="column small-12">
 								<div class="banner is-primary">
-									<p>Please visit my <a href="https://github.com/heyjohnmurray">GitHub account</a> for more Javascript projects.</p>
+									<p><a href="process.html"><span class="show-for-small-only">Tap to</span> <span class="show-for-medium-up">Click to</span> learn more about my UX design process</a></p>
 								</div>
 								<!-- /.banner -->
 							</div>
@@ -326,17 +326,19 @@
 								<ul class="list inline-list has-row-colors">
 									<li>Branding</li>
 									<li>CSS3</li>
-									<li>Design</li>
 									<li>HTML5</li>
 									<li>Javascript</li>
 									<li>Leadership</li>
 									<li>Logo Design</li>
 									<li>Mentorship</li>
 									<li>PHP</li>
+									<li>Prototyping</li>
 									<li>Responsive Design</li>
 									<li>Talent Development</li>
 									<li>UX Design</li>
+									<li>Visual Design</li>
 									<li>Version Control</li>
+									<li>Wireframing</li>
 									<li>WordPress</li>
 								</ul>
 								<!-- /.skills -->

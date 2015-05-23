@@ -1619,7 +1619,7 @@ body {
     text-align: center;
     text-transform: uppercase; }
   .content .banner a {
-    color: #f6f6f6;
+    display: block;
     font-family: "black-italic"; }
     @media only screen and (min-width: 40.0625em) {
       .content .banner a {
@@ -1627,6 +1627,8 @@ body {
   .content .banner.is-primary {
     background-color: #27acc0;
     color: #f6f6f6; }
+    .content .banner.is-primary a {
+      color: #f6f6f6; }
 
 .margin {
   margin: 20px 0; }
@@ -2558,5 +2560,3 @@ table {
     @media only screen and (min-width: 40.0625em) {
       .color-palette span {
         font-size: 14px; } }
-
-/*# sourceMappingURL=project.min.css.map */

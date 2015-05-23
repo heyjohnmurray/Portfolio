@@ -37,7 +37,7 @@ body {
 		}
 
 		a {
-			display: block;
+			color: $color-secondary-light;
 			font-family: "black-italic";
 
 			@media #{$medium-up} {
