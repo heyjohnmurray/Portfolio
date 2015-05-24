@@ -10,11 +10,11 @@
 				<p>Like most UX designers, my process is as follows:</p>
 
 				<ol class="list has-row-colors">
-					<li><a href="#planning">Initial planning</a></li>
-					<li><a href="#wireframes">Wireframes</a></li>
-					<li><a href="#prototypes">Prototypes</a></li>
-					<li><a href="#initial-mockups">Initial mockups</a></li>
-					<li><a href="#detailed-mockups">Detailed mockups</a></li>
+					<li>Initial planning</li>
+					<li>Wireframes</li>
+					<li>Prototypes</li>
+					<li>Initial mockups</li>
+					<li>Detailed mockups</li>
 				</ol>
 				<!-- /.list -->
 
@@ -36,7 +36,7 @@
 			</div>
 			<!-- /.body-copy -->
 
-			<div class="body-copy" id="planning">
+			<div class="body-copy">
 				<div class="row">
 					<div class="column">
 						<h2>Step One: Initial Planning</h2>
@@ -63,7 +63,7 @@
 			</div>
 			<!-- /.body-copy -->
 
-			<div class="body-copy" id="wireframes">
+			<div class="body-copy">
 				<div class="row">
 					<div class="column">
 						<h2>Step Two: Wireframes</h2>
@@ -81,7 +81,7 @@
 			</div>
 			<!-- /.body-copy -->
 
-			<div class="body-copy" id="prototypes">
+			<div class="body-copy">
 				<div class="row">
 					<div class="column">
 						<h2>Step Three: Prototypes</h2>
@@ -93,7 +93,7 @@
 			</div>
 			<!-- /.body-copy -->
 
-			<div class="body-copy" id="initial-mockups">
+			<div class="body-copy">
 				<div class="row">
 					<div class="column">
 						<h2>Step Four: Initial Mockups</h2>
@@ -105,7 +105,7 @@
 			</div>
 			<!-- /.body-copy -->
 
-			<div class="body-copy" id="detailed-mockups">
+			<div class="body-copy">
 				<div class="row">
 					<div class="column">
 						<h2>Step Five: Detailed Mockups</h2>
