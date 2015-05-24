@@ -70,7 +70,7 @@
 						<h3>Initial sketches</h3>
 						<p>After I undestand the objective and have some insight about the end user, I move on to sketching. This is one of my favorite parts because when the project is done I can look back at sketches and see where I came up with UI elements or user actions that were really great. Also, I can look back at rabbit holes I may have gone down that ended up being unproductive. Both are helpful to me as I try to become a better designer.</p>
 
-						<p>I never obsess over the sketching process too much. It's very much a brainstorming session so I just try to capture any and every idea I have. Then as I move through the process I whittle away at the original ideas.</p>
+						<p>I never obsess over the sketching process too much. It's very much a brainstorming session so I just try to capture any and every idea I have. Then as I move through the process I whittle away at the original ideas. As part of the whittling process, I make sure I map out the core user flows and page structure. My user statements are a guide to make sure that I'm creating functionality that supports the user statements.</p>
 
 						<h3>Project map</h3>
 						<p>"One thing I picked up over recent years that it's very tempting to try and sell your ideas to stakeholders by making the material look good. It should be clear, but it should be easily criticised and invite comments. Adding too much polish at this stage can start to win people over rather than inviting them to look-under-the-hood and and judge the concept rather than the execution."</p>

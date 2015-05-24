@@ -10,10 +10,6 @@ section {
 		}
 	}
 
-	.interior-page & {
-		overflow: visible;
-	}
-
 	&.intro {
 		@include transition(background-color .5s linear);
 		color: $color-secondary-light;

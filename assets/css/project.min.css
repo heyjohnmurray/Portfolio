@@ -2200,8 +2200,6 @@ section {
       position: fixed;
       top: 0;
       z-index: 9999; } }
-  .interior-page section {
-    overflow: visible; }
   section.intro {
     -webkit-transition: background-color 0.5s linear;
     -moz-transition: background-color 0.5s linear;
