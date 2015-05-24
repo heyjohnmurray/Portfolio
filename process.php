@@ -42,19 +42,17 @@
 						<h2>Step One: Initial Planning</h2>
 						<h3>Define the problem</h3>
 						<p>Every good application has a clear goal. Whether I'm redesigning a web site, designing a mobile app or designing a software application I always ask the same question: "What's the point?".</p>
-						<p>In this case I decided to create an application that lets users track what food they have in their pantry. I do a lot of the shopping and meal planning in my family, and I feel like every time I go to the store I buy something I already had at home because I can't remember already purchasing it. This application was the brainchild born of that frustrating experience.</p>
+						<p>In this case I decided to create an application that lets users track what food they have in their pantry. I do a lot of the shopping and meal planning in my family, and I feel like every time I go to the store I buy something I already had at home because I can't remember already purchasing it. This application, called PickUp, is the brainchild born of that frustrating experience.</p>
 
 						<h3>Describe the ideal user</h3>
 						<p>Once I define the problem I try develop a user profile. I don't always go as far as to develop user stories, but I start to think about the user's motives.</p>
 						<p>In the end I have a series of statements about the user. These statements guide my decision-making through the design process.</p>
 
 						<ul class="list check-list">
-							<li>quick item creation</li>
-							<li>easily see what you're adding</li>
-							<li>easily see what you've <em>already</em> added</li>
-							<li>easy access to existing item list</li>
-							<li>must be mobile and viewable across devices</li>
-							<li>interface should be simple and intuititve</li>
+							<li>Users need the ability to quickly add items </li>
+							<li>User need to easily access what they've already added</li>
+							<li>This app needs to be used on the go, so users must be able to access it across devices.</li>
+							<li>The interface should be simple and intuititve. I don't want to fat finger while I'm adding, editing or viewing my list.</li>
 						</ul>
 					</div>
 					<!-- /.column -->
@@ -73,7 +71,13 @@
 						<p>I never obsess over the sketching process too much. It's very much a brainstorming session so I just try to capture any and every idea I have. Then as I move through the process I whittle away at the original ideas. As part of the whittling process, I make sure I map out the core user flows and page structure. My user statements are a guide to make sure that I'm creating functionality that supports the user statements.</p>
 
 						<h3>Project map</h3>
+
+						[[paraphrase this quote]]
+
 						<p>"One thing I picked up over recent years that it's very tempting to try and sell your ideas to stakeholders by making the material look good. It should be clear, but it should be easily criticised and invite comments. Adding too much polish at this stage can start to win people over rather than inviting them to look-under-the-hood and and judge the concept rather than the execution."</p>
+
+						<h3>Share with stakeholders</h3>
+						[[discuss feedback]]
 					</div>
 					<!-- /.column -->
 				</div>
