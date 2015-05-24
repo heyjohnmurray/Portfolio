@@ -1,6 +1,5 @@
 <? include('assets/includes/base/header.php'); ?>
-<body class="interior-page att-site">
-	<? include('assets/includes/nav/nav-secondary-desktop.php'); ?>
+<body class="interior-page">
 	<section>
 		<aside class="align-left">
 			<div class="sidebar-copy">
@@ -11,11 +10,11 @@
 				<p>Like most UX designers, my process is as follows:</p>
 
 				<ol class="list has-row-colors">
-					<li>Initial planning</li>
-					<li>Wireframes</li>
-					<li>Prototypes</li>
-					<li>Initial mockups</li>
-					<li>Detailed mockups</li>
+					<li><a href="#planning">Initial planning</a></li>
+					<li><a href="#wireframes">Wireframes</a></li>
+					<li><a href="#prototypes">Prototypes</a></li>
+					<li><a href="#initial-mockups">Initial mockups</a></li>
+					<li><a href="#detailed-mockups">Detailed mockups</a></li>
 				</ol>
 				<!-- /.list -->
 
@@ -37,13 +36,17 @@
 			</div>
 			<!-- /.body-copy -->
 
-			<div class="body-copy">
+			<div class="body-copy" id="planning">
 				<div class="row">
 					<div class="column">
 						<h2>Step One: Initial Planning</h2>
 						<h3>Define the problem</h3>
+						<p>Every good application has a clear goal. Whether I'm redesigning a web site, designing a mobile app or designing a software application I always ask the same question: "What's the point?".</p>
+						<p>In this case I decided to create an application that lets users track what food they have in their pantry. I do a lot of the shopping and meal planning in my family, and I feel like every time I go to the store I buy something I already had at home because I can't remember already purchasing it. This application was the brainchild born of that frustrating experience.</p>
+
 						<h3>Describe the ideal user</h3>
-						<p></p>
+						<p>Once I define the problem I try develop a user profile. I don't always go as far as to develop user stories, but I start to think about the user's motives.</p>
+						<p>In the end I have 8 to 10 statements about the users. </p>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -51,7 +54,7 @@
 			</div>
 			<!-- /.body-copy -->
 
-			<div class="body-copy">
+			<div class="body-copy" id="wireframes">
 				<div class="row">
 					<div class="column">
 						<h2>Step Two: Wireframes</h2>
@@ -66,7 +69,7 @@
 			</div>
 			<!-- /.body-copy -->
 
-			<div class="body-copy">
+			<div class="body-copy" id="prototypes">
 				<div class="row">
 					<div class="column">
 						<h2>Step Three: Prototypes</h2>
@@ -78,7 +81,7 @@
 			</div>
 			<!-- /.body-copy -->
 
-			<div class="body-copy">
+			<div class="body-copy" id="initial-mockups">
 				<div class="row">
 					<div class="column">
 						<h2>Step Four: Initial Mockups</h2>
@@ -90,7 +93,7 @@
 			</div>
 			<!-- /.body-copy -->
 
-			<div class="body-copy">
+			<div class="body-copy" id="detailed-mockups">
 				<div class="row">
 					<div class="column">
 						<h2>Step Five: Detailed Mockups</h2>

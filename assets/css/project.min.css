@@ -2188,7 +2188,6 @@ a.button-toggle-nav {
       left: 10px; }
 
 section {
-  overflow: hidden;
   position: relative; }
   @media only screen and (min-width: 64.0625em) {
     section .is-sticky {
