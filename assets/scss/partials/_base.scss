@@ -109,6 +109,15 @@ ol {
 		}
 	}
 
+	&.check-list {
+		li {
+			&:before {
+				content: "✔";
+				margin-right: 10px;
+			}
+		}
+	}
+
 	&.has-row-colors {
 		li {
 			background-color: darken($color-primary-dark, 5%);

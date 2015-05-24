@@ -1,3 +1,4 @@
+@charset "UTF-8";
 meta.foundation-version {
   font-family: "/{{VERSION}}/"; }
 
@@ -1674,6 +1675,10 @@ ol {
   ol.block-list li,
   ol.block-list a {
     display: block; }
+  ul.check-list li:before,
+  ol.check-list li:before {
+    content: "✔";
+    margin-right: 10px; }
   ul.has-row-colors li,
   ol.has-row-colors li {
     background-color: #363636;
@@ -2188,12 +2193,15 @@ a.button-toggle-nav {
       left: 10px; }
 
 section {
+  overflow: hidden;
   position: relative; }
   @media only screen and (min-width: 64.0625em) {
     section .is-sticky {
       position: fixed;
       top: 0;
       z-index: 9999; } }
+  .interior-page section {
+    overflow: visible; }
   section.intro {
     -webkit-transition: background-color 0.5s linear;
     -moz-transition: background-color 0.5s linear;

@@ -1,4 +1,5 @@
 section {
+	overflow: hidden;
 	position: relative;
 	
 	@media #{$large-up} {
@@ -7,6 +8,10 @@ section {
 			top: 0;
 			z-index: 9999;
 		}
+	}
+
+	.interior-page & {
+		overflow: visible;
 	}
 
 	&.intro {
