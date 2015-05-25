@@ -2302,9 +2302,13 @@ aside {
     .body-copy,
     .callout {
       padding: 70px; } }
-  .body-copy:nth-child(odd),
-  .callout:nth-child(odd) {
-    background-color: #f6f6f6; }
+  .body-copy.has-border,
+  .callout.has-border {
+    border-left: 5px solid #f6c80f; }
+
+.body-copy:nth-child(odd),
+.callout:nth-child(odd) {
+  background-color: #f6f6f6; }
 
 .content {
   background-color: #fff;

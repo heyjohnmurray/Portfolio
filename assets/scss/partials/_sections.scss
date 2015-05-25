@@ -147,6 +147,13 @@ aside {
 		padding: 70px;
 	}
 
+	&.has-border {
+		border-left: 5px solid $color-primary-light;
+	}
+}
+
+.body-copy,
+.callout {
 	&:nth-child(odd) {
 		background-color: $color-secondary-light;
 	}

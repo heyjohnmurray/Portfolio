@@ -28,7 +28,7 @@
 				<div class="row">
 					<div class="column small-12">
 						<h1>Before we begin ...</h1>
-						<p>I'm going to describe my process using a web app that I'm currently building with EmberJS. Although, I'm proud of this project, it doesn't show up in my portfolio because it's not complete. If you're interested in seeing the front end code for it, then <a href="https://github.com/heyjohnmurray/EmberApp">check it out on my github.</a></p>
+						<p>I'm going to describe my process using a web app called <b>PickUp</b> that I'm currently building with EmberJS. Although, I'm proud of this project, it doesn't show up in my portfolio because it's not complete. If you're interested in seeing the front end code for it, then <a href="https://github.com/heyjohnmurray/EmberApp">check it out on my github.</a></p>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -42,18 +42,24 @@
 						<h2>Step One: Initial Planning</h2>
 						<h3>Define the problem</h3>
 						<p>Every good application has a clear goal. Whether I'm redesigning a web site, designing a mobile app or designing a software application I always ask the same question: "What's the point?".</p>
-						<p>In this case I decided to create an application that lets users track what food they have in their pantry. I do a lot of the shopping and meal planning in my family, and I feel like every time I go to the store I buy something I already had at home because I can't remember already purchasing it. This application, called PickUp, is the brainchild born of that frustrating experience.</p>
+						<p>In this case I decided to create an application that lets users track what food they have in their pantry.</p>
 
-						<h3>Describe the ideal user</h3>
-						<p>Once I define the problem I try develop a user profile. I don't always go as far as to develop user stories, but I start to think about the user's motives.</p>
-						<p>In the end I have a series of statements about the user. These statements guide my decision-making through the design process.</p>
+						<h3>Describe the target user</h3>
+						<p>Once I define the problem I try develop a user profile. In this case I did the following:</p>
 
-						<ul class="list check-list">
-							<li>Users need the ability to quickly add items </li>
-							<li>User need to easily access what they've already added</li>
-							<li>This app needs to be used on the go, so users must be able to access it across devices.</li>
-							<li>The interface should be simple and intuititve. I don't want to fat finger while I'm adding, editing or viewing my list.</li>
-						</ul>
+						<div class="callout has-border">
+							<h3>PickUp: The Pantry Tracker</h3>
+
+							<h4>What is this app?</h4>
+							<p>PickUp keeps track of what a user has in their pantry at home.</p>
+
+							<h4>How does it work?</h4>
+							<p>Pickup lets you add entries to your "library" of items. Add an entry for every item you have in your cupboard at home. Then while you're at the grocery store, open the app and look at the library and see if you already have this item. What's the brand name? Package or container size? Serving size? Pickup has got you covered.</p>
+
+							<h4>User story</h4>
+							<p>I do a lot of the shopping and meal planning in my family, and I feel like every time I go to the store I buy something I already had at home because I can't remember already purchasing it. I need something to let me track what I have in my pantry.</p>
+						</div>
+						
 					</div>
 					<!-- /.column -->
 				</div>
@@ -70,11 +76,14 @@
 
 						<p>I never obsess over the sketching process too much. It's very much a brainstorming session so I just try to capture any and every idea I have. Then as I move through the process I whittle away at the original ideas. As part of the whittling process, I make sure I map out the core user flows and page structure. My user statements are a guide to make sure that I'm creating functionality that supports the user statements.</p>
 
+						[[show sketches of the home page and product details pages]]
+
 						<h3>Project map</h3>
+						[[add project map]]
 
-						[[paraphrase this quote]]
+						<p>Once I finish sketching I move on to map out what pages I need to my application. If this is an existing app, then I'll note whether the pages are new or an iteration on an existing one.</p>
 
-						<p>"One thing I picked up over recent years that it's very tempting to try and sell your ideas to stakeholders by making the material look good. It should be clear, but it should be easily criticised and invite comments. Adding too much polish at this stage can start to win people over rather than inviting them to look-under-the-hood and and judge the concept rather than the execution."</p>
+						<p>Over time I've learned not to add too much detail at this stage. Adding too much polish can distract people from critically looking at what I'm doing. By giving people a rough look under the hood, they get the chance to offer constructive feedback.</p>
 
 						<h3>Share with stakeholders</h3>
 						[[discuss feedback]]
