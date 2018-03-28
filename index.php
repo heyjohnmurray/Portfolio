@@ -41,7 +41,7 @@
 
 				<div class="headline"><span>About</span> My Portfolio</div>
 
-				<p>I led the strategy, design and front end development of all of these sites.</p>
+				<p>I led the design and product strategy for all of these sites, and I did the front end development of all of the non-IBM ones as well.</p>
 				<p>Each one has been put through its paces and performed well along key metrics including response rate and visit conversion. With every site I hope to provide a quality design that provides an effective user experience using the cleanest, most cross-browser compatible CSS, HTML and Javascript possible.</p>
 				<p>Every site shown includes a list of the skills and technologies I used during development. <b>Enjoy!</b></p>
 			</div>
@@ -52,9 +52,99 @@
 		<div class="content align-right js-content">
 			<ul class="work-samples js-work-samples">
 				<li>
+					<a href="microclimate.php" class="microclimate">
+						<div class="title">
+							<b>IBM</b>
+							<span>Microclimate</span>
+
+							<div class="button margin is-primary hide-for-large-up">Touch for project details</div>
+						</div>
+						<!-- /.title -->
+						<div class="cover">
+							<b>Click for project details</b>
+							<div class="row">
+								<div class="column medium-10 medium-offset-1">
+									<ul class="skills">
+										<li>Design Leadership</li>
+										<li>UX Strategy</li>
+										<li>Design Thinking</li>
+										<li>Design Ops</li>
+										<li>Collaborative Product Strategy</li>
+										<li>Release Planning</li>
+									</ul>
+								</div>
+								<!-- /.column -->
+							</div>
+							<!-- /.row -->
+						</div>
+						<!-- /.cover -->
+					</a>
+				</li>
+				<li>
+					<a href="vmware.php" class="vmware">
+						<div class="title">
+							<b>IBM</b>
+							<span>VMware</span>
+
+							<div class="button margin is-primary hide-for-large-up">Touch for project details</div>
+						</div>
+						<!-- /.title -->
+						<div class="cover">
+							<b>Click for project details</b>
+							<div class="row">
+								<div class="column medium-10 medium-offset-1">
+									<ul class="skills">
+										<li>Design Leadership</li>
+										<li>UX Strategy</li>
+										<li>Design Ops</li>
+										<li>Collaborative Product Strategy</li>
+										<li>Release Planning</li>
+										<li>Prototyping</li>
+										<li>User Testing</li>
+									</ul>
+								</div>
+								<!-- /.column -->
+							</div>
+							<!-- /.row -->
+						</div>
+						<!-- /.cover -->
+					</a>
+				</li>
+				<li>
+					<a href="swift.php" class="swift">
+						<div class="title">
+							<b>IBM</b>
+							<span>Swift</span>
+
+							<div class="button margin is-primary hide-for-large-up">Touch for project details</div>
+						</div>
+						<!-- /.title -->
+						<div class="cover">
+							<b>Click for project details</b>
+							<div class="row">
+								<div class="column medium-10 medium-offset-1">
+									<ul class="skills">
+										<li>Design Leadership</li>
+										<li>UX Strategy</li>
+										<li>Design Ops</li>
+										<li>Design Thinking</li>
+										<li>Collaborative Product Strategy</li>
+										<li>Release Planning</li>
+										<li>Prototyping</li>
+										<li>User Testing</li>
+									</ul>
+								</div>
+								<!-- /.column -->
+							</div>
+							<!-- /.row -->
+						</div>
+						<!-- /.cover -->
+					</a>
+				</li>
+				<li>
 					<a href="hi-redesign.php" class="site-hi-redesign">
 						<div class="title">
-							<b>Home</b> 
+							<b>Home</b>
 							<span>Insurance<small>.com</small></span>
 
 							<div class="button margin is-primary hide-for-large-up">Touch for project details</div>
@@ -65,15 +155,15 @@
 							<div class="row">
 								<div class="column medium-10 medium-offset-1">
 									<ul class="skills">
+										<li>UX Design</li>
+										<li>Collaborative Product Strategy</li>
 										<li>Branding</li>
 										<li>CSS3</li>
-										<li>Design</li>
 										<li>Development</li>
 										<li>HTML5</li>
 										<li>Javascript</li>
 										<li>Responsive Design</li>
 										<li>Sass</li>
-										<li>UX</li>
 									</ul>
 								</div>
 								<!-- /.column -->
@@ -86,7 +176,7 @@
 				<li>
 					<a href="att-mobile-site.php" class="site-att-mobile-redesign">
 						<div class="title">
-							<b>AT&amp;T</b> 
+							<b>AT&amp;T</b>
 							<span>U-Verse</span>
 							<div class="button margin is-primary hide-for-large-up">Touch for project details</div>
 						</div>
@@ -148,7 +238,7 @@
 				<li>
 					<a href="quotes-hoi-redesign.php" class="site-quotes-hoi-redesign">
 						<div class="title">
-							<b>Homeowners</b> 
+							<b>Homeowners</b>
 							<span>Insurance<small>.com</small></span>
 							<div class="button margin is-primary hide-for-large-up">Touch for project details</div>
 						</div>
@@ -165,66 +255,6 @@
 										<li>HTML5</li>
 										<li>Javascript</li>
 										<li>Mobile</li>
-										<li>Responsive Design</li>
-										<li>Sass</li>
-										<li>UX</li>
-									</ul>
-								</div>
-								<!-- /.column -->
-							</div>
-							<!-- /.row -->
-						</div>
-						<!-- /.cover -->
-					</a>
-				</li>
-				<li>
-					<a href="safeco-multi-test.php" class="site-safeco-multi-landing-pages">
-						<div class="title">
-							<b>Safeco</b>
-							<span>Insurance</span>
-							<div class="button margin is-primary hide-for-large-up">Touch for project details</div>
-						</div>
-						<!-- /.title -->
-						<div class="cover">
-							<b>Click for project details</b>
-							<div class="row">
-								<div class="column medium-10 medium-offset-1">
-									<ul class="skills">
-										<li>A/B Testing</li>
-										<li>CSS3</li>
-										<li>Design</li>
-										<li>Development</li>
-										<li>HTML5</li>
-										<li>Javascript</li>
-										<li>Sass</li>
-										<li>UX</li>
-									</ul>
-								</div>
-								<!-- /.column -->
-							</div>
-							<!-- /.row -->
-						</div>
-						<!-- /.cover -->
-					</a>
-				</li>
-				<li>
-					<a href="metlife-auto-design.php" class="site-metlife-auto">
-						<div class="title">
-							<b>Metlife</b>
-							<span>Insurance</span>
-							<div class="button margin is-primary hide-for-large-up">Touch for project details</div>
-						</div>
-						<!-- /.title -->
-						<div class="cover">
-							<b>Click for project details</b>
-							<div class="row">
-								<div class="column medium-10 medium-offset-1">
-									<ul class="skills">
-										<li>A/B Testing</li>
-										<li>CSS3</li>
-										<li>Design</li>
-										<li>Development</li>
-										<li>HTML5</li>
 										<li>Responsive Design</li>
 										<li>Sass</li>
 										<li>UX</li>
@@ -396,7 +426,7 @@
 							<i class="icon-paper-plane"></i>Email
 						</a>
 					</li>
-					<li>				
+					<li>
 						<a href="https://github.com/heyjohnmurray">
 							<i class="icon-github-circled"></i>GitHub
 						</a>
