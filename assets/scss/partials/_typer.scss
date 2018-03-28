@@ -1,5 +1,7 @@
 .typed-cursor{
-	@include animation(blink 0.7s infinite);
+	-webkit-animation:blink 0.7s infinite;
+    -moz-animation:blink 0.7s infinite;
+    animation:blink 0.7s infinite;
 	font-size: 20px; // fallback
 	font-size: 10vw;
 	opacity: 1;

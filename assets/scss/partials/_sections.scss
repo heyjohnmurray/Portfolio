@@ -11,7 +11,9 @@ section {
 	}
 
 	&.intro {
-		@include transition(background-color .5s linear);
+		-webkit-transition:background-color 0.5s linear;
+		-moz-transition:background-color 0.5s linear;
+		transition:background-color 0.5s linear;
 		color: $color-secondary-light;
 		padding: 30px 0; // fallback
 		padding: 10vh 0;
@@ -46,7 +48,9 @@ section {
 		} // a
 
 		img {
-			@include animation(slowBounce 3s infinite);
+			-webkit-animation:slowBounce 3s infinite;
+			-moz-animation:slowBounce 3s infinite;
+			animation:slowBounce 3s infinite;		
 			position: relative;
 			top: 0;
 		}
@@ -96,7 +100,9 @@ aside {
 	// <ul> style on asides :: see contact section
 	.list {
 		a {
-			@include transition(color .5s, left .5s);
+			-webkit-transition:color 0.5s,left 0.5s;
+			-moz-transition:color 0.5s,left 0.5s;
+			transition:color 0.5s,left 0.5s;
 			color: $color-secondary-light;
 			left: 0;
 			position: relative;
@@ -113,7 +119,9 @@ aside {
 		.headline,
 		p,
 		table {
-			@include transition(opacity 2s);
+			-webkit-transition:opacity 2s;
+			-moz-transition:opacity 2s;
+			transition:opacity 2s;
 			opacity: .3;
 		} // aside content element transitions
 
@@ -174,4 +182,4 @@ aside {
 			left: 32%;
 		}
 	} // align right
-} // content
+} // content 

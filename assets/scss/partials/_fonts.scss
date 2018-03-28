@@ -1,18 +1,101 @@
 // Mission Gothic
-@include font-face("black", "../fonts/mission-gothic/mission-gothic-black-webfont", $file-formats: eot woff2 woff svg ttf);
-@include font-face("black-italic", "../fonts/mission-gothic/mission-gothic-black-italic-webfont", $file-formats: eot woff2 woff svg ttf);
-@include font-face("bold", "../fonts/mission-gothic/mission-gothic-bold-webfont", $file-formats: eot woff2 woff svg ttf);
-@include font-face("bold-italic", "../fonts/mission-gothic/mission-gothic-bold-italic-webfont", $file-formats: eot woff2 woff svg ttf);
-@include font-face("regular", "../fonts/mission-gothic/mission-gothic-regular-webfont", $file-formats: eot woff2 woff svg ttf);
-@include font-face("regular-italic", "../fonts/mission-gothic/mission-gothic-regular-italic-webfont", $file-formats: eot woff2 woff svg ttf);
-@include font-face("light", "../fonts/mission-gothic/mission-gothic-light-webfont", $file-formats: eot woff2 woff svg ttf);
-@include font-face("light-italic", "../fonts/mission-gothic/mission-gothic-light-italic-webfont", $file-formats: eot woff2 woff svg ttf);
-@include font-face("thin", "../fonts/mission-gothic/mission-gothic-thin-webfont", $file-formats: eot woff2 woff svg ttf);
-@include font-face("thin-italic", "../fonts/mission-gothic/mission-gothic-thin-italic-webfont", $file-formats: eot woff2 woff svg ttf);
+@font-face{
+    font-family:"black";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/mission-gothic/mission-gothic-black-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/mission-gothic/mission-gothic-black-webfont.woff2") format("woff2"),url("../fonts/mission-gothic/mission-gothic-black-webfont.woff") format("woff"),url("../fonts/mission-gothic/mission-gothic-black-webfont.ttf") format("truetype"),url("../fonts/mission-gothic/mission-gothic-black-webfont.svg#black") format("svg")
+}
+@font-face{
+    font-family:"black-italic";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/mission-gothic/mission-gothic-black-italic-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/mission-gothic/mission-gothic-black-italic-webfont.woff2") format("woff2"),url("../fonts/mission-gothic/mission-gothic-black-italic-webfont.woff") format("woff"),url("../fonts/mission-gothic/mission-gothic-black-italic-webfont.ttf") format("truetype"),url("../fonts/mission-gothic/mission-gothic-black-italic-webfont.svg#black-italic") format("svg")
+}
+@font-face{
+    font-family:"bold";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/mission-gothic/mission-gothic-bold-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/mission-gothic/mission-gothic-bold-webfont.woff2") format("woff2"),url("../fonts/mission-gothic/mission-gothic-bold-webfont.woff") format("woff"),url("../fonts/mission-gothic/mission-gothic-bold-webfont.ttf") format("truetype"),url("../fonts/mission-gothic/mission-gothic-bold-webfont.svg#bold") format("svg")
+}
+@font-face{
+    font-family:"bold-italic";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/mission-gothic/mission-gothic-bold-italic-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/mission-gothic/mission-gothic-bold-italic-webfont.woff2") format("woff2"),url("../fonts/mission-gothic/mission-gothic-bold-italic-webfont.woff") format("woff"),url("../fonts/mission-gothic/mission-gothic-bold-italic-webfont.ttf") format("truetype"),url("../fonts/mission-gothic/mission-gothic-bold-italic-webfont.svg#bold-italic") format("svg")
+}
+@font-face{
+    font-family:"regular";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/mission-gothic/mission-gothic-regular-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/mission-gothic/mission-gothic-regular-webfont.woff2") format("woff2"),url("../fonts/mission-gothic/mission-gothic-regular-webfont.woff") format("woff"),url("../fonts/mission-gothic/mission-gothic-regular-webfont.ttf") format("truetype"),url("../fonts/mission-gothic/mission-gothic-regular-webfont.svg#regular") format("svg")
+}
+@font-face{
+    font-family:"regular-italic";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/mission-gothic/mission-gothic-regular-italic-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/mission-gothic/mission-gothic-regular-italic-webfont.woff2") format("woff2"),url("../fonts/mission-gothic/mission-gothic-regular-italic-webfont.woff") format("woff"),url("../fonts/mission-gothic/mission-gothic-regular-italic-webfont.ttf") format("truetype"),url("../fonts/mission-gothic/mission-gothic-regular-italic-webfont.svg#regular-italic") format("svg")
+}
+@font-face{
+    font-family:"light";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/mission-gothic/mission-gothic-light-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/mission-gothic/mission-gothic-light-webfont.woff2") format("woff2"),url("../fonts/mission-gothic/mission-gothic-light-webfont.woff") format("woff"),url("../fonts/mission-gothic/mission-gothic-light-webfont.ttf") format("truetype"),url("../fonts/mission-gothic/mission-gothic-light-webfont.svg#light") format("svg")
+}
+@font-face{
+    font-family:"light-italic";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/mission-gothic/mission-gothic-light-italic-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/mission-gothic/mission-gothic-light-italic-webfont.woff2") format("woff2"),url("../fonts/mission-gothic/mission-gothic-light-italic-webfont.woff") format("woff"),url("../fonts/mission-gothic/mission-gothic-light-italic-webfont.ttf") format("truetype"),url("../fonts/mission-gothic/mission-gothic-light-italic-webfont.svg#light-italic") format("svg")
+}
+@font-face{
+    font-family:"thin";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/mission-gothic/mission-gothic-thin-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/mission-gothic/mission-gothic-thin-webfont.woff2") format("woff2"),url("../fonts/mission-gothic/mission-gothic-thin-webfont.woff") format("woff"),url("../fonts/mission-gothic/mission-gothic-thin-webfont.ttf") format("truetype"),url("../fonts/mission-gothic/mission-gothic-thin-webfont.svg#thin") format("svg")
+}
+@font-face{
+    font-family:"thin-italic";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/mission-gothic/mission-gothic-thin-italic-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/mission-gothic/mission-gothic-thin-italic-webfont.woff2") format("woff2"),url("../fonts/mission-gothic/mission-gothic-thin-italic-webfont.woff") format("woff"),url("../fonts/mission-gothic/mission-gothic-thin-italic-webfont.ttf") format("truetype"),url("../fonts/mission-gothic/mission-gothic-thin-italic-webfont.svg#thin-italic") format("svg")
+}
+@font-face{
+    font-family:"olympic";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/olympic/olympic-branding-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/olympic/olympic-branding-webfont.woff2") format("woff2"),url("../fonts/olympic/olympic-branding-webfont.woff") format("woff"),url("../fonts/olympic/olympic-branding-webfont.ttf") format("truetype"),url("../fonts/olympic/olympic-branding-webfont.svg#olympic") format("svg")
+}
+@font-face{
+    font-family:"script";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/script/script-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/script/script-webfont.woff2") format("woff2"),url("../fonts/script/script-webfont.woff") format("woff"),url("../fonts/script/script-webfont.ttf") format("truetype"),url("../fonts/script/script-webfont.svg#script") format("svg")
+}
+@font-face{
+    font-family:"portfolio-icons";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/icons/portfolio-icons.eot?#iefix") format("embedded-opentype"),url("../fonts/icons/portfolio-icons.woff") format("woff"),url("../fonts/icons/portfolio-icons.ttf") format("truetype"),url("../fonts/icons/portfolio-icons.svg#portfolio-icons") format("svg")
+}
 
 // Olympic
-@include font-face("olympic", "../fonts/olympic/olympic-branding-webfont", $file-formats: eot woff2 woff svg ttf);
-@include font-face("script", "../fonts/script/script-webfont", $file-formats: eot woff2 woff svg ttf);
+@font-face{
+    font-family:"olympic";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/olympic/olympic-branding-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/olympic/olympic-branding-webfont.woff2") format("woff2"),url("../fonts/olympic/olympic-branding-webfont.woff") format("woff"),url("../fonts/olympic/olympic-branding-webfont.ttf") format("truetype"),url("../fonts/olympic/olympic-branding-webfont.svg#olympic") format("svg")
+}
+@font-face{
+    font-family:"script";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/script/script-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/script/script-webfont.woff2") format("woff2"),url("../fonts/script/script-webfont.woff") format("woff"),url("../fonts/script/script-webfont.ttf") format("truetype"),url("../fonts/script/script-webfont.svg#script") format("svg")
+}
 
 // Icon font
-@include font-face("portfolio-icons", "../fonts/icons/portfolio-icons", $file-formats: eot svg ttf woff);
+@font-face{
+    font-family:"portfolio-icons";
+    font-style:normal;
+    font-weight:normal;
+    src:url("../fonts/icons/portfolio-icons.eot?#iefix") format("embedded-opentype"),url("../fonts/icons/portfolio-icons.woff") format("woff"),url("../fonts/icons/portfolio-icons.ttf") format("truetype"),url("../fonts/icons/portfolio-icons.svg#portfolio-icons") format("svg")
+}

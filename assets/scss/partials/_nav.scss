@@ -1,5 +1,7 @@
 nav {
-	@include transition(all .5s);
+	-webkit-transition:all 0.5s;
+    -moz-transition:all 0.5s;
+    transition:all 0.5s;
 	background-color: $color-primary-light;
 	opacity: 0;
 	left: 0;
@@ -47,9 +49,17 @@ nav {
 	}
 
 	.name-logo {
-		@include transform(rotate(-25deg));
-		@include transition(opacity 1s linear);
-		@include transition-delay(1s);
+		-webkit-transform:rotate(-25deg);
+		-moz-transform:rotate(-25deg);
+		-ms-transform:rotate(-25deg);
+		-o-transform:rotate(-25deg);
+		transform:rotate(-25deg);
+		-webkit-transition:opacity 1s linear;
+		-moz-transition:opacity 1s linear;
+		transition:opacity 1s linear;
+		-webkit-transition-delay:1s;
+		-moz-transition-delay:1s;
+		transition-delay:1s;
 		left: 0;
 		opacity: 0;
 		position: relative;
@@ -161,7 +171,9 @@ a.button-toggle-nav {
 	display: none;
 
 	@media #{$large-up} {
-		@include transition(opacity .5s);
+		-webkit-transition:opacity 0.5s;
+        -moz-transition:opacity 0.5s;
+        transition:opacity 0.5s;
 		background-color: $color-primary-light;
 		bottom: 0;
 		color: $color-primary-dark;
@@ -183,7 +195,9 @@ a.button-toggle-nav {
 	}
 
 	a {
-		@include transition(color .5s, left .5s);
+		-webkit-transition:color 0.5s,left 0.5s;
+		-moz-transition:color 0.5s,left 0.5s;
+		transition:color 0.5s,left 0.5s;
 		color: $color-primary-dark;
 		font-family: "bold";
 		left: 0;

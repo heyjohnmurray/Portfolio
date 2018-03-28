@@ -1,35 +1,96 @@
 // used by the typing plugin to create blinking cursor effect
-@include keyframes(blink) {
-    0% {
-    	opacity:1;
+@-webkit-keyframes blink{
+    0%{
+        opacity:1
     }
-    50% {
-    	opacity:0;
+    50%{
+        opacity:0
     }
-    100% {
-    	opacity:1;
+    100%{
+        opacity:1
+    }
+}
+@-moz-keyframes blink{
+    0%{
+        opacity:1
+    }
+    50%{
+        opacity:0
+    }
+    100%{
+        opacity:1
+    }
+}
+@keyframes blink{
+    0%{
+        opacity:1
+    }
+    50%{
+        opacity:0
+    }
+    100%{
+        opacity:1
     }
 }
 
-// aniamted arrow on the home page
-@include keyframes(slowBounce) {
-	0% {
-		top: 10px;
-	}
-	50% {
-		top: -20px;
-	}
-	100% {
-		top: 10px;
-	}
+// animated arrow on the home page
+@-webkit-keyframes slowBounce{
+    0%{
+        top:10px
+    }
+    50%{
+        top:-20px
+    }
+    100%{
+        top:10px
+    }
 }
+@-moz-keyframes slowBounce{
+    0%{
+        top:10px
+    }
+    50%{
+        top:-20px
+    }
+    100%{
+        top:10px
+    }
+}
+@keyframes slowBounce{
+    0%{
+        top:10px
+    }
+    50%{
+        top:-20px
+    }
+    100%{
+        top:10px
+    }
+}
+
 
 // used to auto fade in div.headline in interior page <aside> tags
-@include keyframes(fadeIn) {
-	0% {
-		opacity: 0;
-	}
-	100%{
-		opacity: 1;
-	}
+@-webkit-keyframes fadeIn{
+    0%{
+        opacity:0
+    }
+    100%{
+        opacity:1
+    }
+}
+@-moz-keyframes fadeIn{
+    0%{
+        opacity:0
+    }
+    100%{
+        opacity:1
+    }
+}
+@keyframes fadeIn{
+    0%{
+        opacity:0
+    }
+    100%{
+        opacity:1
+    }
 }
