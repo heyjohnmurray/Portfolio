@@ -52,7 +52,7 @@
 		<div class="content align-right js-content">
 			<ul class="work-samples js-work-samples">
 				<li>
-					<a href="microclimate.php" class="microclimate">
+					<a href="microclimate.php" class="product-microclimate">
 						<div class="title">
 							<b>IBM</b>
 							<span>Microclimate</span>
@@ -81,7 +81,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="vmware.php" class="vmware">
+					<a href="vmware.php" class="product-vmware">
 						<div class="title">
 							<b>IBM</b>
 							<span>VMware</span>
@@ -111,7 +111,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="swift.php" class="swift">
+					<a href="swift.php" class="product-swift">
 						<div class="title">
 							<b>IBM</b>
 							<span>Swift</span>
@@ -293,15 +293,15 @@
 					</tr>
 					<tr>
 						<td valign="top"><strong>Lives</strong></td>
-						<td valign="top">Charlotte, NC</td>
+						<td valign="top">Austin, TX</td>
 					</tr>
 					<tr>
 						<td valign="top"><strong>Experience</strong></td>
-						<td valign="top">7 years</td>
+						<td valign="top">10 years</td>
 					</tr>
 					<tr>
 						<td valign="top"><strong>Employer</strong></td>
-						<td valign="top">Red Ventures</td>
+						<td valign="top">IBM</td>
 					</tr>
 					<tr>
 						<td valign="top"><strong>Title</strong></td>
@@ -432,8 +432,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="https://www.linkedin.com/in/heyohnmurray/en
-		">
+						<a href="https://www.linkedin.com/in/heyohnmurray/en">
 							<i class="icon-linkedin-squared"></i>LinkedIn
 						</a>
 					</li>

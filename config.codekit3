@@ -730,6 +730,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/background-microclimate.jpg": {
+		"ft": 16384,
+		"iS": 81287,
+		"oA": 0,
+		"oAP": "\/assets\/images\/background-microclimate.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/assets\/images\/background-quotes-hoi-redesign.jpg": {
 		"ft": 16384,
 		"iS": 37724,
@@ -758,6 +768,26 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/background-swift.jpg": {
+		"ft": 16384,
+		"iS": 865629,
+		"oA": 0,
+		"oAP": "\/assets\/images\/background-swift.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/images\/background-vmware.jpg": {
+		"ft": 16384,
+		"iS": 266810,
+		"oA": 0,
+		"oAP": "\/assets\/images\/background-vmware.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/images\/headshot-large.jpg": {
