@@ -20,8 +20,7 @@
 			<div class="body-copy">
 				<div class="row">
 					<div class="column small-12">
-						<h1>HEADER</h1>
-						<p>CONTENT</p>
+						<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who&#39;d have ever thought when I started out as a young designer that I&#39;d get to mentor young designers in Brazil? <a href="https://t.co/H8v9SI2gXX">pic.twitter.com/H8v9SI2gXX</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/876239169617612800?ref_src=twsrc%5Etfw">June 18, 2017</a></blockquote>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -58,4 +57,5 @@
 	</section>
 	<!-- /.contact -->
 </body>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <? include('assets/includes/base/footer.php'); ?>
