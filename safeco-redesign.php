@@ -11,15 +11,16 @@
 				<p>This project was a two-pronged effort. First, we wanted to beat our existing control by testing a long-form content design. We also used the redesign as a chance to update the site's codebase.</p>
 
 				<ul class="list inline-list has-row-colors">
+					<li>Product Strategy</li>
+					<li>UX Design</li>
+					<li>Visual Design</li>
+					<li>Responsive Design</li>
 					<li>A/B Testing</li>
 					<li>CSS3</li>
-					<li>Design</li>
 					<li>Development</li>
 					<li>HTML5</li>
 					<li>Javascript</li>
-					<li>Responsive Design</li>
 					<li>Sass</li>
-					<li>UX</li>
 				</ul>
 				<!-- /.list -->
 			</div>

@@ -7,7 +7,7 @@
 				<? include('assets/includes/nav/nav-secondary-mobile.php') ?>
 
 				<div class="headline"><span>IBM</span> VMware</div>
-				
+
 				<p>XXXX</p>
 			</div>
 			<!-- /.sidebar-copy -->
@@ -22,24 +22,6 @@
 					<div class="column small-12">
 						<h1>HEADER</h1>
 						<p>CONTENT</p>
-					</div>
-					<!-- /.column -->
-				</div>
-				<!-- /.row -->
-
-				<div class="row">
-					<div class="column small-12">
-						<h2>HEADER</h2>
-
-						<div class="row">
-							ROW
-						</div>
-						<!-- /.row -->
-
-						<div class="row">
-							ROW
-						</div>
-						<!-- /.row -->
 					</div>
 					<!-- /.column -->
 				</div>
@@ -70,7 +52,7 @@
 				</div>
 				<!-- /.row -->
 			</div>
-			<!-- /.body-copy -->
+			<!-- /.body-copy -->			
 		</div>
 		<!-- /.content -->
 	</section>

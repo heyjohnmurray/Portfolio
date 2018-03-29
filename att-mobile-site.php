@@ -11,15 +11,15 @@
 				<p>Developing a winning mobile experience has always been a challenge on our AT&amp;T U-verse<sup>&reg;</sup> business. At the time, over 60% of our traffic came from mobile users. However, whenever we tested a mobile experience in which users were given a mobile-specific experience they overwhelmingly chose the 'view desktop' option.</p>
 
 				<ul class="list inline-list has-row-colors">
+					<li>UX Design</li>
+					<li>InVision Prototyping</li>
 					<li>A/B Testing</li>
-					<li>CSS3</li>
-					<li>Design</li>
 					<li>Development</li>
+					<li>CSS3</li>
 					<li>HTML5</li>
 					<li>Javascript</li>
 					<li>Mobile</li>
 					<li>Sass</li>
-					<li>UX</li>
 				</ul>
 				<!-- /.list -->
 			</div>

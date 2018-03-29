@@ -11,16 +11,16 @@
 				<p>This redesign was for one of our subdomains, quotes.homeownersinsurance.com. We inherited the existing design when we took over the business a few years ago. Despite our best efforts we struggled to find an experience that could beat the control's dual entry layout.</p>
 
 				<ul class="list inline-list has-row-colors">
+					<li>Product Strategy</li>
+					<li>UX Design</li>
+					<li>Visual Design</li>
+					<li>Responsive Design</li>
 					<li>A/B Testing</li>
 					<li>CSS3</li>
-					<li>Design</li>
 					<li>Development</li>
 					<li>HTML5</li>
 					<li>Javascript</li>
-					<li>Mobile</li>
-					<li>Responsive Design</li>
 					<li>Sass</li>
-					<li>UX</li>
 				</ul>
 				<!-- /.list -->
 			</div>

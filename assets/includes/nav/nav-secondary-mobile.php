@@ -1,6 +1,7 @@
+<!-- this needs work in the tablet-sized breakpoint -->
 <div class="toggle-nav-wrap">
 	<div class="row collapse">
-		<div class="column small-4 medium-2 mobile-link">
+		<div class="column small-4 medium-3 mobile-link">
 			<a href="index.php#portfolio-section">
 				<i class="icon-th"></i>
 				All Projects
@@ -11,31 +12,31 @@
 		<? if(stristr($_SERVER['REQUEST_URI'], "/hi-redesign.php")) { ?>
 			<a href="att-mobile-site.php">
 				<i class="icon-briefcase"></i>
-				Next Site
+				Next Project
 			</a>
 		<? } ?>
 		<? if(stristr($_SERVER['REQUEST_URI'], "/att-mobile-site.php")) { ?>
 			<a href="safeco-redesign.php">
+				Next Project
 				<i class="icon-briefcase"></i>
-				Next Site
 			</a>
 		<? } ?>
 		<? if(stristr($_SERVER['REQUEST_URI'], "/safeco-redesign.php")) { ?>
 			<a href="quotes-hoi-redesign.php">
 				<i class="icon-briefcase"></i>
-				Next Site
+				Next Project
 			</a>
 		<? } ?>
 		<? if(stristr($_SERVER['REQUEST_URI'], "/quotes-hoi-redesign.php")) { ?>
 			<a href="safeco-multi-test.php">
 				<i class="icon-briefcase"></i>
-				Next Site
+				Next Project
 			</a>
 		<? } ?>
 		<? if(stristr($_SERVER['REQUEST_URI'], "/safeco-multi-test.php")) { ?>
 			<a href="metlife-auto-design.php">
 				<i class="icon-briefcase"></i>
-				Next Site
+				Next Project
 			</a>
 		<? } ?>
 		</div>

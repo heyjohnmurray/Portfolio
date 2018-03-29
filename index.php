@@ -441,7 +441,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="mailto:heyjohnmurray@gmail.com">
+						<a href="mailto:hirejohnmurray@gmail.com">
 							<i class="icon-email"></i> Email
 						</a>
 					</li>

@@ -26,24 +26,6 @@
 					<!-- /.column -->
 				</div>
 				<!-- /.row -->
-
-				<div class="row">
-					<div class="column small-12">
-						<h2>HEADER</h2>
-
-						<div class="row">
-							ROW
-						</div>
-						<!-- /.row -->
-
-						<div class="row">
-							ROW
-						</div>
-						<!-- /.row -->
-					</div>
-					<!-- /.column -->
-				</div>
-				<!-- /.row -->
 			</div>
 			<!-- /.body-copy -->
 
