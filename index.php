@@ -51,7 +51,7 @@
 		<div class="content align-right js-content">
 			<ul class="work-samples js-work-samples">
 				<li>
-					<a href="microclimate.php" class="product-microclimate">
+					<a href="ibm-microclimate.php" class="product-microclimate">
 						<div class="title">
 							<b>IBM</b>
 							<span>Microclimate</span>
@@ -80,7 +80,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="vmware.php" class="product-vmware">
+					<a href="ibm-vmware.php" class="product-vmware">
 						<div class="title">
 							<b>IBM</b>
 							<span>VMware</span>
@@ -110,7 +110,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="swift.php" class="product-swift">
+					<a href="ibm-swift.php" class="product-swift">
 						<div class="title">
 							<b>IBM</b>
 							<span>Swift</span>
@@ -304,11 +304,11 @@
 					</tr>
 					<tr>
 						<td valign="top"><strong>Title</strong></td>
-						<td valign="top">Sr. Designer <br>Sr. Front End Developer</td>
+						<td valign="top">Design Lead, IBM Hybrid Cloud Developer Experience</td>
 					</tr>
 					<tr>
 						<td valign="top"><strong>Brands</strong></td>
-						<td valign="top">AT&amp;T / Vonage/ Boost Mobile / Safeco / Hartford </td>
+						<td valign="top">IBM / AT&amp;T / Vonage / Safeco / Boost Mobile / Hartford </td>
 					</tr>
 				</table>
 			</div>
@@ -421,12 +421,7 @@
 				<p>Like my work and want to collaborate on something? Or do you just need someone to listen while you talk about your brand new invention? That's cool. Whatever the case, feel free to hit me up!</p>
 				<ul class="list block-list has-row-colors">
 					<li>
-						<a href="mailto:heyjohnmurray@gmail.com">
-							<i class="icon-email"></i> Email
-						</a>
-					</li>
-					<li>
-						<a href="mailto:heyjohnmurray@gmail.com">
+						<a href="https://medium.com/@heyjohnmurray">
 							<i class="icon-medium"></i> Medium
 						</a>
 					</li>
@@ -436,13 +431,18 @@
 						</a>
 					</li>
 					<li>
+						<a href="https://twitter.com/heyjohnmurray">
+							<i class="icon-twitter"></i> Twitter
+						</a>
+					</li>
+					<li>
 						<a href="https://www.github.com/heyjohnmurray/">
 							<i class="icon-github-circled"></i> GitHub
 						</a>
 					</li>
 					<li>
-						<a href="https://twitter.com/heyjohnmurray">
-							<i class="icon-twitter"></i> Twitter
+						<a href="mailto:heyjohnmurray@gmail.com">
+							<i class="icon-email"></i> Email
 						</a>
 					</li>
 				</ul>

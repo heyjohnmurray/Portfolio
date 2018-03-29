@@ -3,7 +3,7 @@
 		<div class="column small-4 medium-2 mobile-link">
 			<a href="index.php#portfolio-section">
 				<i class="icon-th"></i>
-				All Sites
+				All Projects
 			</a>
 		</div>
 		<!-- /.column -->

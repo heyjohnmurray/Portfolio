@@ -3411,6 +3411,27 @@
 		"oAP": "\/hi-redesign.php",
 		"oF": 0
 		},
+	"\/ibm-microclimate.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/ibm-microclimate.php",
+		"oF": 0
+		},
+	"\/ibm-swift.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/ibm-swift.php",
+		"oF": 0
+		},
+	"\/ibm-vmware.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/ibm-vmware.php",
+		"oF": 0
+		},
 	"\/index.php": {
 		"cB": 0,
 		"ft": 8192,

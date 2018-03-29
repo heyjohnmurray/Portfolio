@@ -100,7 +100,7 @@
 				<div class="row">
 					<div class="column">
 						<h2>In The End ...</h2>
-						<p>We were successful on both accounts. There was a lift in response rate and conversion across the board. Admittedly, it was a narrow victory but a victory nonetheless. This redesign became the new default experience for our site and allowed us to use a streamlined and better coded site structure to create further tests in the months that followed.</p>
+						<p>We were successful on both accounts. There was a lift in response rate and conversion across the board. This redesign became the new default experience for our site and allowed us to use a streamlined and better coded site structure to create further tests in the months that followed.</p>
 
 						<p>This was actually one of the last things I did on the Red Ventures Insurance business before being promoted to work on the AT&amp;T and Vonage businesses. I'm happy to know that I left that team with a solid code and design foundation on which to grow.</p>
 					</div>
