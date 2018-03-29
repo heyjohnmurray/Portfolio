@@ -41,7 +41,7 @@
 
 				<div class="headline"><span>About</span> My Portfolio</div>
 
-				<p>I led the design and product strategy for all of these sites, and I did the front end development of all of the non-IBM ones as well.</p>
+				<p>I led the design and product strategy for all of these projects, often working directly with a team of project managers, content writers and business development experts. On the non-IBM ones as well, I did the front end development and visual design as well.</p>
 				<p>Every portfolio project site shown includes a list of the skills and technologies I used during development. <b>Enjoy!</b></p>
 			</div>
 			<!-- /.sidebar-copy -->
