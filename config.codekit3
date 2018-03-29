@@ -251,6 +251,13 @@
 		"oAP": "\/assets\/fonts\/icons\/portfolio-icons.woff",
 		"oF": 0
 		},
+	"\/assets\/fonts\/icons\/portfolio-icons.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/icons\/portfolio-icons.woff2",
+		"oF": 0
+		},
 	"\/assets\/fonts\/mission-gothic\/mission-gothic-black-italic-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
@@ -3334,6 +3341,27 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/att-mobile-site.php",
+		"oF": 0
+		},
+	"\/design-leadership.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-leadership.php",
+		"oF": 0
+		},
+	"\/design-mentorship.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-mentorship.php",
+		"oF": 0
+		},
+	"\/design-thinking.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-thinking.php",
 		"oF": 0
 		},
 	"\/favicon-16x16.png": {

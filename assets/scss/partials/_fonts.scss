@@ -93,9 +93,14 @@
 }
 
 // Icon font
-@font-face{
-    font-family:"portfolio-icons";
-    font-style:normal;
-    font-weight:normal;
-    src:url("../fonts/icons/portfolio-icons.eot?#iefix") format("embedded-opentype"),url("../fonts/icons/portfolio-icons.woff") format("woff"),url("../fonts/icons/portfolio-icons.ttf") format("truetype"),url("../fonts/icons/portfolio-icons.svg#portfolio-icons") format("svg")
-}
+@font-face {
+    font-family: 'portfolio-icons';
+    src: url('../fonts/icons/portfolio-icons.eot?30497917');
+    src: url('../fonts/icons/portfolio-icons.eot?30497917#iefix') format('embedded-opentype'),
+         url('../fonts/icons/portfolio-icons.woff2?30497917') format('woff2'),
+         url('../fonts/icons/portfolio-icons.woff?30497917') format('woff'),
+         url('../fonts/icons/portfolio-icons.ttf?30497917') format('truetype'),
+         url('../fonts/icons/portfolio-icons.svg?30497917#portfolio-icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }

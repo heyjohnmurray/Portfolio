@@ -42,8 +42,7 @@
 				<div class="headline"><span>About</span> My Portfolio</div>
 
 				<p>I led the design and product strategy for all of these sites, and I did the front end development of all of the non-IBM ones as well.</p>
-				<p>Each one has been put through its paces and performed well along key metrics including response rate and visit conversion. With every site I hope to provide a quality design that provides an effective user experience using the cleanest, most cross-browser compatible CSS, HTML and Javascript possible.</p>
-				<p>Every site shown includes a list of the skills and technologies I used during development. <b>Enjoy!</b></p>
+				<p>Every portfolio project site shown includes a list of the skills and technologies I used during development. <b>Enjoy!</b></p>
 			</div>
 			<!-- /.sidebar-copy -->
 
@@ -327,7 +326,7 @@
 							<span>About</span>
 							John Murray
 						</div>
-						<p>I'm a <b>self-taught</b> web designer and front end developer currently living just outside of Charlotte, NC. I've been designing and coding professionally for more than seven years &mdash; wow, has it really been that long? I graduated from the University of South Carolina in 2007. After being laid off due to budget concerns I realized that journalism wasn't a good long-term fit for me so I made the switch to web and never looked back.</p>
+						<!-- <p>I'm a <b>self-taught</b> web designer and front end developer currently living just outside of Charlotte, NC. I've been designing and coding professionally for more than seven years &mdash; wow, has it really been that long? I graduated from the University of South Carolina in 2007. After being laid off due to budget concerns I realized that journalism wasn't a good long-term fit for me so I made the switch to web and never looked back.</p>
 
 						<p>Starting as a junior web designer and working my way up to being my company's only senior-level hybrid, I'm the only person at my company who has <b>both senior front end dev and senior web designer responsibilities</b>. So what does that mean?</p>
 
@@ -337,7 +336,7 @@
 
 						<p>For the last 5 years I've worked at Red Ventures, one of the fastest-growing companies on the East Coast. I've spent the last two years there working closely with medium to large-scale national insurance brands such as Safeco, The Hartford, Metlife and our company's own in-house insurance team, which runs HomeInsurance.com and HomeOwnersInsurance.com. Most of the work you'll see in my portfolio is from my time on insurance.</p>
 
-						<p>However, these days I work directly with AT&amp;T and Vonage as well as continue to mentor and train junior and mid-level talent throughout our creative team. I recently launched a mobile-only <a href="att-mobile-site.php">AT&amp;T U-verse</a> design of which I'm especially proud. With initial analytics reporting that response rate is up 40% over previous mobile experiences we've run, how can I <em>not</em> be excited!</p>
+						<p>However, these days I work directly with AT&amp;T and Vonage as well as continue to mentor and train junior and mid-level talent throughout our creative team. I recently launched a mobile-only <a href="att-mobile-site.php">AT&amp;T U-verse</a> design of which I'm especially proud. With initial analytics reporting that response rate is up 40% over previous mobile experiences we've run, how can I <em>not</em> be excited!</p> -->
 
 						<div class="row">
 							<div class="column small-12">
@@ -423,27 +422,27 @@
 				<ul class="list block-list has-row-colors">
 					<li>
 						<a href="mailto:heyjohnmurray@gmail.com">
-							<i class="icon-paper-plane"></i>Email
+							<i class="icon-email"></i> Email
 						</a>
 					</li>
 					<li>
-						<a href="https://github.com/heyjohnmurray">
-							<i class="icon-github-circled"></i>GitHub
+						<a href="mailto:heyjohnmurray@gmail.com">
+							<i class="icon-medium"></i> Medium
 						</a>
 					</li>
 					<li>
-						<a href="https://www.linkedin.com/in/heyohnmurray/en">
-							<i class="icon-linkedin-squared"></i>LinkedIn
+						<a href="https://www.linkedin.com/in/heyjohnmurray/">
+							<i class="icon-linkedin-squared"></i> LinkedIn
 						</a>
 					</li>
 					<li>
-						<a href="https://www.facebook.com/theonlyjohnmurray">
-							<i class="icon-facebook"></i>Facebook
+						<a href="https://www.github.com/heyjohnmurray/">
+							<i class="icon-github-circled"></i> GitHub
 						</a>
 					</li>
 					<li>
-						<a href="https://instagram.com/heyjohnmurray/">
-							<i class="icon-instagramm"></i>Instagram
+						<a href="https://twitter.com/heyjohnmurray">
+							<i class="icon-twitter"></i> Twitter
 						</a>
 					</li>
 				</ul>
