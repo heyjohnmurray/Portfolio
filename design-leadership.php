@@ -83,25 +83,34 @@
 						<h1>Writing</h1>
 						<p>As a former journalist and a life-long writer, I thought my writing days were behind me when I got into the design industry. Thankfully, I've been able to put marry my two loves into a consisten writing practice. I write about <a href="https://medium.com/design-ibm/build-experiences-not-features-part-2-of-2-8d1c7ac523db">design thinking process</a>, <a href="https://medium.com/series/67cce9e056f3">design leadership</a>, <a href="https://www.slideshare.net/JohnMurray184/ux-design-summit-guarding-against-an-us-vs-them-mentality">growing and fostering design culture</a>, and <a href="https://medium.com/aiga-austin/how-do-you-shine-in-a-room-full-of-bright-minds-495d31f56581">career advancement</a>.
 						<p>I'm constantly inspired and working on mutliple ideas at the same time. Here's are a few of the titles and topics I have in the pipeline as we speak.</p>
-						<ol>
+						<ul class="list">
 							<li>Life after the design sprint: Fostering a collaborative UX process with remote stakeholders</li>
 							<li>How to create a design thinking facilitation guild</li>
 							<li>Diverse experiences make robust design leaders</li>
 							<li>Extroverts as allies for introverts</li>
 							<li>Career growth comes from finding comfort in the uncomfortable</li>
 							<li>Stealing the playbook: What can creatives learn from embracing an athlete’s mentality?</li>
-						</ol>
-						<div class="column small-12 medium-4">
-							<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you to <a href="https://twitter.com/aigaaustin?ref_src=twsrc%5Etfw">@aigaaustin</a> for publishing my recent article on how to set yourself apart from your colleagues. You can read it on their Medium page starting today. <a href="https://t.co/4h3RmJ4Wxj">pic.twitter.com/4h3RmJ4Wxj</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/956652679643762688?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
-						</div>
-						<div class="column small-12 medium-4">
-							<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Preview of a Medium article I&#39;m working on right now. This will give me an interesting opportunity to use their &quot;series&quot; format, which should be neat. <a href="https://twitter.com/hashtag/designleadership?src=hash&amp;ref_src=twsrc%5Etfw">#designleadership</a> <a href="https://twitter.com/hashtag/designthinking?src=hash&amp;ref_src=twsrc%5Etfw">#designthinking</a> <a href="https://t.co/IoXi7mIvkP">pic.twitter.com/IoXi7mIvkP</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/935759544902438912?ref_src=twsrc%5Etfw">November 29, 2017</a></blockquote>
-						</div>
-						<!-- /.row -->
+						</ul>
+					</div>
+				</div>
+				<div class="row">
+					<div class="subheadline">Published articles</div>
+					<div class="column small-12 medium-6">
+						<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I just published “Build Experiences not Features, part 2 of 2” <a href="https://t.co/RiOZC5BZDr">https://t.co/RiOZC5BZDr</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/927635657702469632?ref_src=twsrc%5Etfw">November 6, 2017</a></blockquote>
+						<p>Published by IBM Design<br /> <small>4.7k views</small></p>
+					</div>
+					<div class="column small-12 medium-6">
+						<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you to <a href="https://twitter.com/aigaaustin?ref_src=twsrc%5Etfw">@aigaaustin</a> for publishing my recent article on how to set yourself apart from your colleagues. You can read it on their Medium page starting today. <a href="https://t.co/4h3RmJ4Wxj">pic.twitter.com/4h3RmJ4Wxj</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/956652679643762688?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
+						<p>Published by AIGA Austin<br /> <small>234 views</small></p>	
+					</div>
+				</div>
+				<!-- /.row -->
+				<div class="row">
+					<div class="column small-12 medium-6">
+						<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Preview of a Medium article I&#39;m working on right now. This will give me an interesting opportunity to use their &quot;series&quot; format, which should be neat. <a href="https://twitter.com/hashtag/designleadership?src=hash&amp;ref_src=twsrc%5Etfw">#designleadership</a> <a href="https://twitter.com/hashtag/designthinking?src=hash&amp;ref_src=twsrc%5Etfw">#designthinking</a> <a href="https://t.co/IoXi7mIvkP">pic.twitter.com/IoXi7mIvkP</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/935759544902438912?ref_src=twsrc%5Etfw">November 29, 2017</a></blockquote>
 					</div>
 					<!-- /.column -->
 				</div>
-				<!-- /.row -->
 			</div>
 			<!-- /.callout -->
 

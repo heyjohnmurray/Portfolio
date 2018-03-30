@@ -8,7 +8,16 @@
 
 				<div class="headline"><span>IBM</span> Microclimate</div>
 				
-				<p>XXXX</p>
+				<p>Microclimate is an end to end development environment that lets you rapidly create, edit, and deploy applications. Applications are run in containers from day one and can be delivered into production on Kubernetes through an automated DevOps pipeline using Jenkins. Microclimate can be installed locally or on IBM Cloud Private.</p>
+
+				<ul class="list inline-list has-row-colors">
+					<li>Design Leadership</li>
+					<li>Product Strategy</li>
+					<li>UX Strategy</li>
+					<li>Design Thinking</li>
+					<li>Design Ops</li>
+					<li>Release Planning</li>
+				</ul>
 			</div>
 			<!-- /.sidebar-copy -->
 

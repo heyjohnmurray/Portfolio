@@ -14,7 +14,7 @@
 
 				<ul class="list inline-list has-row-colors">
 					<li>UX Design</li>
-					<li>Collaborative Product Strategy</li>
+					<li>Product Strategy</li>
 					<li>Branding</li>
 					<li>CSS3</li>
 					<li>Development</li>

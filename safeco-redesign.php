@@ -19,8 +19,8 @@
 					<li>CSS3</li>
 					<li>Development</li>
 					<li>HTML5</li>
-					<li>Javascript</li>
 					<li>Sass</li>
+					<li>Javascript</li>
 				</ul>
 				<!-- /.list -->
 			</div>

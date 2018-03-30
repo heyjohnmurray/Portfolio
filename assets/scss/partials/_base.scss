@@ -80,6 +80,7 @@ ul {
 	}
 
 	&.inline-list {
+		margin-left: 0;
 		margin-bottom: 20px;
 
 		li {
@@ -88,6 +89,8 @@ ul {
 	}
 
 	&.block-list {
+		margin-left: 0;
+
 		li,
 		a {
 			display: block;

@@ -12,6 +12,7 @@
 
 				<ul class="list inline-list has-row-colors">
 					<li>UX Design</li>
+					<li>Collaborative Product Strategy</li>
 					<li>InVision Prototyping</li>
 					<li>A/B Testing</li>
 					<li>Development</li>
@@ -20,6 +21,7 @@
 					<li>Javascript</li>
 					<li>Mobile</li>
 					<li>Sass</li>
+					<li>Mobile Design</li>
 				</ul>
 				<!-- /.list -->
 			</div>

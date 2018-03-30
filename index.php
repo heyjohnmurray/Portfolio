@@ -64,10 +64,10 @@
 								<div class="column medium-10 medium-offset-1">
 									<ul class="skills">
 										<li>Design Leadership</li>
+										<li>Product Strategy</li>
 										<li>UX Strategy</li>
 										<li>Design Thinking</li>
 										<li>Design Ops</li>
-										<li>Collaborative Product Strategy</li>
 										<li>Release Planning</li>
 									</ul>
 								</div>
@@ -154,7 +154,7 @@
 								<div class="column medium-10 medium-offset-1">
 									<ul class="skills">
 										<li>UX Design</li>
-										<li>Collaborative Product Strategy</li>
+										<li>Product Strategy</li>
 										<li>Branding</li>
 										<li>CSS3</li>
 										<li>Development</li>
@@ -184,15 +184,16 @@
 							<div class="row">
 								<div class="column medium-10 medium-offset-1">
 									<ul class="skills">
-										<li>A/B Testing</li>
-										<li>CSS3</li>
-										<li>Design</li>
-										<li>Development</li>
-										<li>HTML5</li>
-										<li>Javascript</li>
-										<li>Mobile</li>
-										<li>Sass</li>
-										<li>UX</li>
+									<li>UX Design</li>
+									<li>Product Strategy</li>
+									<li>InVision Prototyping</li>
+									<li>A/B Testing</li>
+									<li>Development</li>
+									<li>CSS3</li>
+									<li>HTML5</li>
+									<li>Javascript</li>
+									<li>Sass</li>
+									<li>Mobile Design</li>
 									</ul>
 								</div>
 								<!-- /.column -->
@@ -215,15 +216,16 @@
 							<div class="row">
 								<div class="column medium-10 medium-offset-1">
 									<ul class="skills">
+										<li>Product Strategy</li>
+										<li>UX Design</li>
+										<li>Visual Design</li>
+										<li>Responsive Design</li>
 										<li>A/B Testing</li>
 										<li>CSS3</li>
-										<li>Design</li>
 										<li>Development</li>
 										<li>HTML5</li>
-										<li>Javascript</li>
-										<li>Responsive Design</li>
 										<li>Sass</li>
-										<li>UX</li>
+										<li>Javascript</li>
 									</ul>
 								</div>
 								<!-- /.column -->
@@ -246,16 +248,17 @@
 							<div class="row">
 								<div class="column medium-10 medium-offset-1">
 									<ul class="skills">
+										<li>Product Strategy</li>
+										<li>UX Design</li>
+										<li>Visual Design</li>
 										<li>A/B Testing</li>
 										<li>CSS3</li>
 										<li>Design</li>
 										<li>Development</li>
 										<li>HTML5</li>
 										<li>Javascript</li>
-										<li>Mobile</li>
-										<li>Responsive Design</li>
 										<li>Sass</li>
-										<li>UX</li>
+										<li>Responsive Design</li>
 									</ul>
 								</div>
 								<!-- /.column -->

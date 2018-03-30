@@ -14,13 +14,14 @@
 					<li>Product Strategy</li>
 					<li>UX Design</li>
 					<li>Visual Design</li>
-					<li>Responsive Design</li>
 					<li>A/B Testing</li>
 					<li>CSS3</li>
+					<li>Design</li>
 					<li>Development</li>
 					<li>HTML5</li>
 					<li>Javascript</li>
 					<li>Sass</li>
+					<li>Responsive Design</li>
 				</ul>
 				<!-- /.list -->
 			</div>
