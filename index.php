@@ -160,8 +160,8 @@
 										<li>Development</li>
 										<li>HTML5</li>
 										<li>Javascript</li>
-										<li>Responsive Design</li>
 										<li>Sass</li>
+										<li>Responsive Design</li>
 									</ul>
 								</div>
 								<!-- /.column -->
@@ -325,24 +325,137 @@
 							<span>About</span>
 							John Murray
 						</div>
-						<p>I've been in the industry since 2007 and taught myself design and front end development back before code camps and Google Chrome were a thing &mdash; back when we all had the title “web designer”. Being in design leadership puts me right where I want to be. I’m at the intersection of product design, product strategy, and product management, and I get the opportunity to mentor folks along the way. When I’m not leading my product team, I’m leading design thinking workshops either through IBM or my local AIGA chapter.</p>
-						
-
-						<!-- <div class="row">
-							<div class="column small-12">
-								<div class="banner is-primary">
-									<p>Please visit my <a href="https://github.com/heyjohnmurray">GitHub account</a> for more Javascript projects.</p>
-								</div>
-							</div>
-						</div> -->
-
 						<div class="row">
-							<div class="column small-12 medium-6">
-								<div class="subheadline">Skills</div>
-								
+							<div class="column small-12">
+								<p>I've been in the industry since 2007 and taught myself design and front end development back before code camps and Google Chrome were a thing &mdash; back when we all had the title “web designer”. You can tell by my resume below that I've worked my way up through the ranks over the years. Nowadays, I spend my time leading and mentoring designers of all ages and abilities.</p>
+								<p>In my design leadership role I working directly with product managers, development managers, executives to create product roadmaps and strategy while also coaching and directing my design team and communicating the vision need to guide them deliver excellent user experiences that our customers and our VP of design expect.</p>
+								<p>Being in design leadership puts me right where I want to be. I’m at the intersection of product design, product strategy, and product management, and I get the opportunity to mentor folks along the way.</p> 
+								<p>When I’m not leading my product team, I’m leading design thinking workshops either through IBM or my local AIGA chapter. I've led workshops of all types and sizes, from Intro to Design Thinking through remote product team sessions with folks spread all around the world.</p>
 							</div>
 						</div>
 						<!-- /.row -->
+						<div class="row">
+							<div class="column small-12">
+								<div class="subheadline">Day-to-day Responsibilities</div>
+								<ul class="list has-style-type">
+									<li>Work with product management, development, and business executives to formulate product strategy and translate that into actionable design deliverables.</li>
+									<li>Build and maintain relationships between design, product management, and development in order to demonstrate the value of design through proper UX process and design thinking.</li>
+									<li>Ensure design and brand consistency through regular design critiques with my team and our design leadership, including design managers and our VP of design.</li>
+									<li>Coach and mentor the members of my team to create and deliver innovative user experiences that meet pre-determined release schedules.</li>
+									<li>Coach my team to use design thinking and other collaborative design methods to ideate and explore new ideas alongside our product managers and product team developers. </li>
+									<li>Take an active interest in the career development and ambitions of designers across our broader design organization, not just my team.</li>
+									<li>Outisde of my product team, I identify broader design organization needs and look for solutions (coach teams on design ops and the integration of design thinking and agile, promote and educate aspiring design leaders on the fundamentals of design leadership, create a design thinking facilitation guild).</li>
+								</ul>
+							</div>
+							<!-- /.column -->
+						</div>
+						<!-- /.row -->
+						<div class="row">
+							<div class="column small-12">
+								<div class="subheadline">Work Experience</div>
+								<div class="row">
+									<div class="column small-12 large-5">
+										<h4>Design Lead</h4>
+										<p>Hybrid Cloud Developer Experience <br/>Aug 2017 – Present</p>
+									</div>
+									<div class="column small-12 large-7">
+										<p>The Developer Experience team has a number of missions, including demonstrating the value of IBM's products to existing customer's developers. Explore and capture new developer market segments and drive them to adopt IBM runtimes.</p>
+										<p>Our current product is Microclimate, and end-to-end developer experience tool for creating microservice-based applications that can be deployed in both on-premise and cloud environments, including the IBM Cloud Platform.</p>
+									</div>
+								</div>
+								<hr />
+								<div class="row">
+									<div class="column small-12 large-5">
+										<h4>Design Lead</h4>
+										<p>IBM VMware <br/>Nov 2016 - April 2017</p>
+									</div>
+									<div class="column small-12 large-7">
+										<p>IBM has a strong partnership with VMware. My team redesigned and improved the UX for the VMware runtime inside of IBM's PaaS offering, Bluemix.</p>
+										<p>I used my development experience to provide technical guidance to our Beijing developers as they sought to move from an outdated Dojo Javascript framework to the more modern React framework.</p>
+									</div>
+								</div>
+								<hr />
+								<div class="row">
+									<div class="column small-12 large-5">
+										<h4>Design Lead</h4>
+										<p>IBM Swift<br/> May 2016 - Nov 2016</p>
+									</div>
+									<div class="column small-12 large-7">
+										<p>I worked on IBM's partnership with Apple to promote the adoption of server side Swift development, called Swift@IBM. The offering was a runtime which ran inside of Bluemix. But there was a package catalog, a browser-based IDE&mdash;Swift sandbox, and server-side framework&mdash;Kitura. My team oversaw the all of these assets and was tasked with creating a consisten user journey from one part of the ecosystem to the next.</p>
+									</div>
+								</div>
+								<hr />
+								<div class="row">
+									<div class="column small-12 large-5">
+										<h4>Advisory Front End Developer</h4>
+										<p>IBM Swift<br/> August 2015 - April 2016</p>
+									</div>
+									<div class="column small-12 large-7">
+										<p>As a front end developer at IBM I got the chance to help develop the UI for Bluemix. I also worked on creating a unified UX for elements of Bluemix's product catalog, and I was an early member of the Carbon Design System team.
+									</div>
+								</div>
+								<hr />
+								<div class="row">
+									<div class="column small-12 large-5">
+										<h4>Design Lead</h4>
+										<p>Red Ventures Telco Vertical<br /> Feb 2014 - July 2015</p>
+									</div>
+									<div class="column small-12 large-7">
+										<p>I ran the customer experience design team that worked on AT&amp;T marketing and direct response assets. In this role, I guided the team to deliver work in bi-weekly sprints; design, developed and delivered projects of my own; and managed the career development of all the designers on my team and was responsible for mentoring them and helping them move up in the organization to become senior-level designers. I worked directly with our customer experience analysts to define the strategic initiatives that would ensure success for the clients we had.</p>
+									</div>
+								</div>
+								<hr />
+								<div class="row">
+									<div class="column small-12 large-5">
+										<h4>Senior UX Designer &amp; Design Lead</h4>
+										<p>Red Ventures Insurance Vertical<br /> Oct 2013 - Jan 2014</p>
+									</div>
+									<div class="column small-12 large-7">
+										<p>As both a senior UX designer and a design lead I managed all the designers and front end developers that worked in my companys' insurance vertical. With client relationships like Safeco, The Hartford, Travelers, and Liberty Mutual, it was my job to ensure that designers were not only staying on-brand but were creating direct response webistes and landing pages that got measurable results during A/B testing.</p>
+									</div>
+								</div>
+								<hr />
+								<div class="row">
+									<div class="column small-12 large-5">
+										<h4>Mid-level UX Designer</h4>
+										<p>Red Ventures Insurance Vertical<br /> April 2012 - Sep 2013</p>
+									</div>
+									<div class="column small-12 large-7">
+										<p>As a UX designer working on the insurance vertical I created direct response websites that met specific KPIs. Through a sprint-based design and development schedule, I consistently delivered engaging, high-quality work with little direction from my design lead. I worked directly with our customer experience analysts to define and iterate a direct response marking strategy.</p>
+									</div>
+								</div>
+								<hr />
+								<div class="row">
+									<div class="column small-12 large-5">
+										<h4>Junior UX Designer</h4>
+										<p>Red Ventures Insurance vertical <br /> Jan 2012 - Mar 2012</p>
+									</div>
+									<div class="column small-12 large-7">
+										<p>I was one of the first designers to work on this business unit. As a result, I was able to build out a number of websites for our early insurance vertical customers.</p>
+									</div>
+								</div>
+								<hr />
+								<div class="row">
+									<div class="column small-12 large-5">
+										<h4>Junior UX Designer</h4>
+										<p>Red Ventures Telco vertical<br /> Aug 2010 - Dec 2011</p>
+									</div>
+									<div class="column small-12 large-7">
+										<p>As a junior designer I created designed and developed direct response websites and landing pages for some of our biggest clients, including DIRECTV. </p>
+									</div>
+								</div>
+								<hr />
+								<div class="row">
+									<div class="column small-12 large-5">
+										<h4>Web Designer</h4>
+										<p>Mojoe.net<br /> Oct 2008 - Aug 2010</p>
+									</div>
+									<div class="column small-12 large-7">
+										<p>At this small startup-like shop, I had the autonomy to propose and design the online and print experiences that I felt would bring success to the small business customers we had. Not only did I deliver the bulk of the creative deliverables, but I sat in client meetings and worked with customers to meet their needs.</p>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 					<!-- /.column -->
 				</div>

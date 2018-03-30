@@ -21,7 +21,7 @@
 				<div class="row">
 					<div class="column small-12">
 						<h1>Public Speaking</h1>
-						<div class="subheadline">UXPA Puerto Rico 2018 - <small><i>(Coming Soon!)</i></small></div>
+						<div class="subheadline">UXPA Puerto Rico 2018</div>
 						<div class="row">
 							<div class="column small-12 medium-6">
 								<p>How well do you think your product team takes what they learn from their users and puts it into the next iteration of the product? How well does your team come to a common understanding of what the next iteration of the product will look like and then build a product that reflects that common understanding?</p>
@@ -36,6 +36,11 @@
 						</div>
 						<hr />
 						<div class="subheadline">UX Design Summit 2018</div>
+						<div class="row">
+							<div class="column small-12">
+								<p>“They have no idea how to work with a real design team.” We’ve all heard or said something like that about people on our product teams, especially developers. While that’s a natural response to a breakdown in communication or a road bump during implementation, over time it can create an “Us vs. Them” mentality that does more harm than good. So how do we avoid scratching the itch. How do we keep avoiding giving in to the cynicism? As a design leader, how do you balance your team’s frustrations and continue to motivate them to deliver quality user experiences?</p>
+							</div>
+						</div>
 						<div class="row">
 							<div class="column small-12 medium-4">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Good things sometimes come at the last minute. I&#39;ll be speaking at UX Design Summit tomorrow in San Francisco. I&#39;m really excited to be sharing my expertise, but I&#39;m also looking forward to learning from the other speakers in attendance. <a href="https://t.co/NhA9oblaet">pic.twitter.com/NhA9oblaet</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/968943964320620547?ref_src=twsrc%5Etfw">February 28, 2018</a></blockquote>

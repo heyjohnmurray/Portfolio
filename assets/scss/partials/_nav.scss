@@ -28,6 +28,10 @@ nav {
 		z-index: 99; // place below nav
 	}
 
+	li {
+		list-style-type: none;
+	}
+
 	a {
 		color: $color-primary-dark;
 		display: block;

@@ -13,15 +13,15 @@
 				<p>This site is about one hundred pages long including geo pages and blog posts so I'm just going to hit the high spots.</p>
 
 				<ul class="list inline-list has-row-colors">
+					<li>UX Design</li>
+					<li>Collaborative Product Strategy</li>
 					<li>Branding</li>
 					<li>CSS3</li>
-					<li>Design</li>
 					<li>Development</li>
 					<li>HTML5</li>
 					<li>Javascript</li>
-					<li>Responsive Design</li>
 					<li>Sass</li>
-					<li>UX</li>
+					<li>Responsive Design</li>
 				</ul>
 				<!-- /.list -->
 			</div>

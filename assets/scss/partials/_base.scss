@@ -67,12 +67,11 @@ ul {
 	margin: 0;
 	padding: 0;
 
-	li {
-		list-style-type: none;
-	}
-
 	&.list {
+		margin-left: 20px;
 		margin-bottom: 20px;
+		list-style-type: disc;
+		
 
 		li {
 			margin: 0 3px 5px 0;
