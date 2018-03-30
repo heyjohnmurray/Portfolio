@@ -8,7 +8,15 @@
 
 				<div class="headline"><span>Design</span> Thinking</div>
 				
-				<p>XXXX</p>
+				<p>Design Thinking is popular these days, but reading about it and putting it into practice are two different things. Scaling it at one of the largest companies in the world is a complete beast altogether. Nevertheless, I've played an active role in scaling the design thinking discipline across IBM's design culture. But I'm most proud of the impact I've had on our product management and development organizations as well.</p>
+				<br />
+				<p>Click one of the categories below to learn more.</p>
+				<ul class="list inline-list has-row-colors">
+					<li><a href="#user-story-mapping">User Story Mapping</a></li>
+					<li><a href="#design-thinking-at-ibm">Design Thinking at IBM</a></li>
+					<li><a href="#design-thinking-at-aiga">Design Thinking at AIGA</a></li>
+				</ul>
+				<!-- /.list -->
 			</div>
 			<!-- /.sidebar-copy -->
 

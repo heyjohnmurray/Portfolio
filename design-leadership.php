@@ -8,7 +8,15 @@
 
 				<div class="headline"><span>Design</span> Leadership</div>
 				
-				<p>I'm passionate about design leadership so I'm constantly <a href="https://twitter.com/heyjohnmurray">tweeting</a>, <a href="#writing">writing</a>, and <a href="#public-speaking">speaking</a> about it. Whether I'm giving a talk <a href="#in-the-studio">in the studio</a> or <a href="https://medium.com/@heyjohnmurray">writing an article on Medium</a>, I'm contstanly looking to share my experiences and my wisdom with others.</p>
+				<p>I'm passionate about design leadership so I'm constantly <a href="https://twitter.com/heyjohnmurray">tweeting</a>, <a href="https://medium.com/@heyjohnmurray/">writing</a>, and <a href="https://www.youtube.com/watch?v=L2ZEp2wuH_o&list=PLM0xAf-XM16Od-zh1CHvK6yIqT5hYLqd0">speaking</a> about it. Whether I'm giving a talk <a href="#in-the-studio">in the studio</a> or <a href="https://medium.com/@heyjohnmurray">writing an article on Medium</a>, I'm contstanly looking to share my experiences and my wisdom with others.</p>
+				<br />
+				<p>Click one of the categories below to learn more.</p>
+				<ul class="list inline-list has-row-colors">
+					<li><a href="#public-speaking">Public Speaking</a></li>
+					<li><a href="#writing">Writing</a></li>
+					<li><a href="#in-the-studio">In the Studio</a></li>
+				</ul>
+				<!-- /.list -->
 			</div>
 			<!-- /.sidebar-copy -->
 
@@ -59,7 +67,7 @@
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Don&#39;t leave user insights in the workshop. See how <a href="https://twitter.com/IBM?ref_src=twsrc%5Etfw">@IBM</a>&#39;s <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> &amp; <a href="https://twitter.com/heyjohnmurray?ref_src=twsrc%5Etfw">@heyjohnmurray</a> bridge <a href="https://twitter.com/hashtag/designthinking?src=hash&amp;ref_src=twsrc%5Etfw">#designthinking</a> with <a href="https://twitter.com/hashtag/agile?src=hash&amp;ref_src=twsrc%5Etfw">#agile</a> development: <a href="https://t.co/9pdpbqinTx">https://t.co/9pdpbqinTx</a></p>&mdash; MURAL (@MURAL) <a href="https://twitter.com/MURAL/status/931643882454093824?ref_src=twsrc%5Etfw">November 17, 2017</a></blockquote>
 							</div>
 							<div class="column small-12 medium-6">
-								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Putting the finishing touches on tomorrow&#39;s presentation. I hope you&#39;re as excited as <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> and I are. There&#39;s still time to sign up.<a href="https://t.co/Lm0pprlpVV">https://t.co/Lm0pprlpVV</a> <a href="https://t.co/OOFebufGGd">pic.twitter.com/OOFebufGGd</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/936047083764711424?ref_src=twsrc%5Etfw">November 30, 2017</a></blockquote>
+							<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In case you missed it <a href="https://twitter.com/MURAL?ref_src=twsrc%5Etfw">@MURAL</a> wrote a summary of the <a href="https://twitter.com/hashtag/userstorymapping?src=hash&amp;ref_src=twsrc%5Etfw">#userstorymapping</a> webinar <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> and I ran last week. Check out the link and replay or download the whole session if you were unable to attend. <a href="https://t.co/bKGFZFUds6">https://t.co/bKGFZFUds6</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/937918119653400576?ref_src=twsrc%5Etfw">December 5, 2017</a></blockquote>
 							</div>
 						</div>
 						<div class="row">
@@ -67,7 +75,7 @@
 							<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A lot of you have been asking for the slides to our &quot;Build Experience Not Features&quot; webinar last week with <a href="https://twitter.com/JimKalbach?ref_src=twsrc%5Etfw">@JimKalbach</a> and <a href="https://twitter.com/MURAL?ref_src=twsrc%5Etfw">@MURAL</a>. <a href="https://t.co/lOXmzBo4tb">https://t.co/lOXmzBo4tb</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/938437130652667904?ref_src=twsrc%5Etfw">December 6, 2017</a></blockquote>
 							</div>
 							<div class="column small-12 medium-6">
-								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In case you missed it <a href="https://twitter.com/MURAL?ref_src=twsrc%5Etfw">@MURAL</a> wrote a summary of the <a href="https://twitter.com/hashtag/userstorymapping?src=hash&amp;ref_src=twsrc%5Etfw">#userstorymapping</a> webinar <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> and I ran last week. Check out the link and replay or download the whole session if you were unable to attend. <a href="https://t.co/bKGFZFUds6">https://t.co/bKGFZFUds6</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/937918119653400576?ref_src=twsrc%5Etfw">December 5, 2017</a></blockquote>
+							<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Putting the finishing touches on tomorrow&#39;s presentation. I hope you&#39;re as excited as <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> and I are. There&#39;s still time to sign up.<a href="https://t.co/Lm0pprlpVV">https://t.co/Lm0pprlpVV</a> <a href="https://t.co/OOFebufGGd">pic.twitter.com/OOFebufGGd</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/936047083764711424?ref_src=twsrc%5Etfw">November 30, 2017</a></blockquote>
 							</div>
 						</div>
 					</div>
@@ -82,7 +90,7 @@
 					<div class="column small-12">
 						<h1>Writing</h1>
 						<p>As a former journalist and a life-long writer, I thought my writing days were behind me when I got into the design industry. Thankfully, I've been able to put marry my two loves into a consisten writing practice. I write about <a href="https://medium.com/design-ibm/build-experiences-not-features-part-2-of-2-8d1c7ac523db">design thinking process</a>, <a href="https://medium.com/series/67cce9e056f3">design leadership</a>, <a href="https://www.slideshare.net/JohnMurray184/ux-design-summit-guarding-against-an-us-vs-them-mentality">growing and fostering design culture</a>, and <a href="https://medium.com/aiga-austin/how-do-you-shine-in-a-room-full-of-bright-minds-495d31f56581">career advancement</a>.
-						<p>I'm constantly inspired and working on mutliple ideas at the same time. Here's are a few of the titles and topics I have in the pipeline as we speak.</p>
+						<p>I'm constantly inspired and working on mutliple ideas at the same time. Here are a few of the titles and topics I have in the pipeline as we speak.</p>
 						<ul class="list">
 							<li>Life after the design sprint: Fostering a collaborative UX process with remote stakeholders</li>
 							<li>How to create a design thinking facilitation guild</li>
