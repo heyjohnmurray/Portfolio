@@ -326,62 +326,21 @@
 							John Murray
 						</div>
 						<p>I've been in the industry since 2007 and taught myself design and front end development back before code camps and Google Chrome were a thing &mdash; back when we all had the title “web designer”. Being in design leadership puts me right where I want to be. I’m at the intersection of product design, product strategy, and product management, and I get the opportunity to mentor folks along the way. When I’m not leading my product team, I’m leading design thinking workshops either through IBM or my local AIGA chapter.</p>
+						
 
-						<div class="row">
+						<!-- <div class="row">
 							<div class="column small-12">
 								<div class="banner is-primary">
 									<p>Please visit my <a href="https://github.com/heyjohnmurray">GitHub account</a> for more Javascript projects.</p>
 								</div>
-								<!-- /.banner -->
 							</div>
-							<!-- /.column -->
-						</div>
-						<!-- /.row -->
+						</div> -->
 
 						<div class="row">
 							<div class="column small-12 medium-6">
 								<div class="subheadline">Skills</div>
-								<ul class="list inline-list has-row-colors">
-									<li>Branding</li>
-									<li>CSS3</li>
-									<li>Design</li>
-									<li>HTML5</li>
-									<li>Javascript</li>
-									<li>Leadership</li>
-									<li>Logo Design</li>
-									<li>Mentorship</li>
-									<li>PHP</li>
-									<li>Responsive Design</li>
-									<li>Talent Development</li>
-									<li>UX Design</li>
-									<li>Version Control</li>
-									<li>WordPress</li>
-								</ul>
-								<!-- /.skills -->
+								
 							</div>
-							<!-- /.column -->
-							<div class="column small-12 medium-6">
-								<div class="subheadline">Technologies</div>
-								<ul class="list inline-list has-row-colors">
-									<li>Bootstrap</li>
-									<li>Bourbon</li>
-									<li>Codekit</li>
-									<li>EmberJS</li>
-									<li>Emmet</li>
-									<li>Foundation</li>
-									<li>Git</li>
-									<li>Grunt</li>
-									<li>Gulp</li>
-									<li>Illustrator</li>
-									<li>jQuery</li>
-									<li>Neat</li>
-									<li>Object Oriented Programming</li>
-									<li>Photoshop</li>
-									<li>Sublime Text</li>
-								</ul>
-								<!-- /.inline-list -->
-							</div>
-							<!-- /.column -->
 						</div>
 						<!-- /.row -->
 					</div>
@@ -436,6 +395,7 @@
 					</li>
 				</ul>
 				<!-- /.inline-list -->
+				<p><small>Like the site? Check out <a href="https://github.com/heyjohnmurray/portfolio">the code</a>.</smal></p>
 			</div>
 			<!-- /.sidebar-copy -->
 

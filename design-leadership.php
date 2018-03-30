@@ -21,7 +21,7 @@
 				<div class="row">
 					<div class="column small-12">
 						<h1>Public Speaking</h1>
-						<h5>UXPA Puerto Rico 2018 - <small><b>(Coming Soon!)</b></small></h5>
+						<div class="subheadline">UXPA Puerto Rico 2018 - <small><i>(Coming Soon!)</i></small></div>
 						<div class="row">
 							<div class="column small-12 medium-6">
 								<p>How well do you think your product team takes what they learn from their users and puts it into the next iteration of the product? How well does your team come to a common understanding of what the next iteration of the product will look like and then build a product that reflects that common understanding?</p>
@@ -35,7 +35,7 @@
 							</div>
 						</div>
 						<hr />
-						<h3>UX Design Summit 2018</h3>
+						<div class="subheadline">UX Design Summit 2018</div>
 						<div class="row">
 							<div class="column small-12 medium-4">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Good things sometimes come at the last minute. I&#39;ll be speaking at UX Design Summit tomorrow in San Francisco. I&#39;m really excited to be sharing my expertise, but I&#39;m also looking forward to learning from the other speakers in attendance. <a href="https://t.co/NhA9oblaet">pic.twitter.com/NhA9oblaet</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/968943964320620547?ref_src=twsrc%5Etfw">February 28, 2018</a></blockquote>
@@ -48,7 +48,7 @@
 							</div>
 						</div>
 						<hr />
-						<h3>User Story Mapping Webinar by Mural</h3>
+						<div class="subheadline">User Story Mapping Webinar by Mural</div>
 						<div class="row">
 							<div class="column small-12 medium-6">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Don&#39;t leave user insights in the workshop. See how <a href="https://twitter.com/IBM?ref_src=twsrc%5Etfw">@IBM</a>&#39;s <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> &amp; <a href="https://twitter.com/heyjohnmurray?ref_src=twsrc%5Etfw">@heyjohnmurray</a> bridge <a href="https://twitter.com/hashtag/designthinking?src=hash&amp;ref_src=twsrc%5Etfw">#designthinking</a> with <a href="https://twitter.com/hashtag/agile?src=hash&amp;ref_src=twsrc%5Etfw">#agile</a> development: <a href="https://t.co/9pdpbqinTx">https://t.co/9pdpbqinTx</a></p>&mdash; MURAL (@MURAL) <a href="https://twitter.com/MURAL/status/931643882454093824?ref_src=twsrc%5Etfw">November 17, 2017</a></blockquote>
