@@ -44,6 +44,15 @@ h4 {
 	}
 }
 
+h5 {
+	font-size: 20px;
+	font-family:"bold-italic";
+
+	@media #{$medium-up} {
+		font-size: 30px;
+	}
+}
+
 p {
 	@include margin(0 0 20px 0);
 }
@@ -53,10 +62,6 @@ td {
 	font-family: "regular";
 	font-size: 18px;
 	line-height: 1.6;
-	
-	@media #{$medium-up} {
-		font-family: "thin";
-	}
 
 	aside & {
 		font-family: "thin";
@@ -144,4 +149,8 @@ aside {
 	margin-bottom: 10px;
 	padding: 10px;
 	text-transform: uppercase;
+}
+
+hr {
+	margin: 3rem 0;
 }

@@ -8,7 +8,7 @@
 
 				<div class="headline"><span>Design</span> Leadership</div>
 				
-				<p>XXXX</p>
+				<p>I'm passionate about design leadership so I'm constantly <a href="https://twitter.com/heyjohnmurray">tweeting</a>, <a href="#writing">writing</a>, and <a href="#public-speaking">speaking</a> about it. Whether I'm giving a talk <a href="#in-the-studio">in the studio</a> or <a href="https://medium.com/@heyjohnmurray">writing an article on Medium</a>, I'm contstanly looking to share my experiences and my wisdom with others.</p>
 			</div>
 			<!-- /.sidebar-copy -->
 
@@ -17,16 +17,24 @@
 		<div class="content align-right">
 			<!-- <img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/project-headshots/small.jpg, (small)],[assets/images/screenshots/hi-redesign/project-headshots/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/project-headshots/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/project-headshots/xlarge.jpg, (xlarge-only)]">
 			<noscript><img src="assets/images/screenshots/hi-redesign/project-headshots/default.jpg"></noscript> -->
-			<div class="body-copy">
+			<div class="body-copy" id="public-speaking">
 				<div class="row">
 					<div class="column small-12">
 						<h1>Public Speaking</h1>
-						<h3>UXPA Puerto Rico 2018 - <small><b>(Coming Soon!)</b></small></h3>
+						<h5>UXPA Puerto Rico 2018 - <small><b>(Coming Soon!)</b></small></h5>
 						<div class="row">
 							<div class="column small-12 medium-6">
-							<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Excited to announce that our slot at UXPA International has been confirmed. I&#39;m really looking forward to going to Puerto Rico this June and sharing how user story mapping has helped us at IBM. I&#39;m excited to meet and learn from other UX professionals. Should be awesome! <a href="https://t.co/ZRii2XrHYk">pic.twitter.com/ZRii2XrHYk</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/979234334208032768?ref_src=twsrc%5Etfw">March 29, 2018</a></blockquote>
+								<p>How well do you think your product team takes what they learn from their users and puts it into the next iteration of the product? How well does your team come to a common understanding of what the next iteration of the product will look like and then build a product that reflects that common understanding?</p>
+								<p>These two problems &mdash; improving your product with user research and effective team collaboration — can both be solved with a design tool called User Story Mapping.</p>
+								<p>In this session, attendees will hear how to apply User Story Mapping to connect user research to user stories for Design Thinking and Agile Development and the experience our teams have with the method.</p> 
+								<p>Attendees will get a taste of going through running a simple user story mapping workshop so that they will feel comfortable taking the process back to their business.</p>
+							</div>
+							<div class="column small-12 medium-6">
+								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Excited to announce that our slot at UXPA International has been confirmed. I&#39;m really looking forward to going to Puerto Rico this June and sharing how user story mapping has helped us at IBM. I&#39;m excited to meet and learn from other UX professionals. Should be awesome! <a href="https://t.co/ZRii2XrHYk">pic.twitter.com/ZRii2XrHYk</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/979234334208032768?ref_src=twsrc%5Etfw">March 29, 2018</a></blockquote>
+								<!-- <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Excited to announce that our slot at UXPA International has been confirmed. I&#39;m really looking forward to going to Puerto Rico this June and sharing how user story mapping has helped us at IBM. I&#39;m excited to meet and learn from other UX professionals. Should be awesome! <a href="https://t.co/ZRii2XrHYk">pic.twitter.com/ZRii2XrHYk</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/979234334208032768?ref_src=twsrc%5Etfw">March 29, 2018</a></blockquote> -->
 							</div>
 						</div>
+						<hr />
 						<h3>UX Design Summit 2018</h3>
 						<div class="row">
 							<div class="column small-12 medium-4">
@@ -39,6 +47,7 @@
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Listening to <a href="https://twitter.com/heyjohnmurray?ref_src=twsrc%5Etfw">@heyjohnmurray</a> at the <a href="https://twitter.com/hashtag/uxdesignsummit?src=hash&amp;ref_src=twsrc%5Etfw">#uxdesignsummit</a> in <a href="https://twitter.com/hashtag/Sanfrancisco?src=hash&amp;ref_src=twsrc%5Etfw">#Sanfrancisco</a> and this concluding slide! Nailed it!👏🏼👏🏼<a href="https://twitter.com/hashtag/ux?src=hash&amp;ref_src=twsrc%5Etfw">#ux</a> <a href="https://twitter.com/hashtag/design?src=hash&amp;ref_src=twsrc%5Etfw">#design</a> <a href="https://t.co/ZWs7ARl4qU">pic.twitter.com/ZWs7ARl4qU</a></p>&mdash; Ashish SHendure (@ashish_shendure) <a href="https://twitter.com/ashish_shendure/status/969333719491272704?ref_src=twsrc%5Etfw">March 1, 2018</a></blockquote>
 							</div>
 						</div>
+						<hr />
 						<h3>User Story Mapping Webinar by Mural</h3>
 						<div class="row">
 							<div class="column small-12 medium-6">
@@ -63,10 +72,20 @@
 			</div>
 			<!-- /.body-copy -->
 
-			<div class="callout">
+			<div class="callout" id="writing">
 				<div class="row">
 					<div class="column small-12">
 						<h1>Writing</h1>
+						<p>As a former journalist and a life-long writer, I thought my writing days were behind me when I got into the design industry. Thankfully, I've been able to put marry my two loves into a consisten writing practice. I write about <a href="https://medium.com/design-ibm/build-experiences-not-features-part-2-of-2-8d1c7ac523db">design thinking process</a>, <a href="https://medium.com/series/67cce9e056f3">design leadership</a>, <a href="https://www.slideshare.net/JohnMurray184/ux-design-summit-guarding-against-an-us-vs-them-mentality">growing and fostering design culture</a>, and <a href="https://medium.com/aiga-austin/how-do-you-shine-in-a-room-full-of-bright-minds-495d31f56581">career advancement</a>.
+						<p>I'm constantly inspired and working on mutliple ideas at the same time. Here's are a few of the titles and topics I have in the pipeline as we speak.</p>
+						<ol>
+							<li>Life after the design sprint: Fostering a collaborative UX process with remote stakeholders</li>
+							<li>How to create a design thinking facilitation guild</li>
+							<li>Diverse experiences make robust design leaders</li>
+							<li>Extroverts as allies for introverts</li>
+							<li>Career growth comes from finding comfort in the uncomfortable</li>
+							<li>Stealing the playbook: What can creatives learn from embracing an athlete’s mentality?</li>
+						</ol>
 						<div class="column small-12 medium-4">
 							<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you to <a href="https://twitter.com/aigaaustin?ref_src=twsrc%5Etfw">@aigaaustin</a> for publishing my recent article on how to set yourself apart from your colleagues. You can read it on their Medium page starting today. <a href="https://t.co/4h3RmJ4Wxj">pic.twitter.com/4h3RmJ4Wxj</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/956652679643762688?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
 						</div>
@@ -81,7 +100,7 @@
 			</div>
 			<!-- /.callout -->
 
-			<div class="body-copy">
+			<div class="body-copy" id="in-the-studio">
 				<div class="row">
 					<div class="column small-12">
 						<h1>In-Studio</h1>
@@ -89,8 +108,7 @@
 							<div class="column small-12 medium-6">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Shared my <a href="https://twitter.com/hashtag/designthinking?src=hash&amp;ref_src=twsrc%5Etfw">#designthinking</a> experience in the <a href="https://twitter.com/hashtag/ibm?src=hash&amp;ref_src=twsrc%5Etfw">#ibm</a> studio during this week&#39;s new design leads workshop. <a href="https://t.co/zCu6KrfFMZ">pic.twitter.com/zCu6KrfFMZ</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/868139844639358976?ref_src=twsrc%5Etfw">May 26, 2017</a></blockquote>
 								<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-							</div>
-							
+							</div>		
 						</div>
 						<!-- /.row -->
 					</div>

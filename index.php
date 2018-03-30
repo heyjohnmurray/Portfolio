@@ -40,9 +40,8 @@
 				<!-- /.button-toggle-nav -->
 
 				<div class="headline"><span>About</span> My Portfolio</div>
-
-				<p>I led the design and product strategy for all of these projects, often working directly with a team of project managers, content writers and business development experts. On the non-IBM ones as well, I did the front end development and visual design as well.</p>
-				<p>Every portfolio project site shown includes a list of the skills and technologies I used during development. <b>Enjoy!</b></p>
+				<p>I led the design and product strategy for all of these projects, often working directly with a team of project managers, content writers and business development experts. On the non-IBM projects, I did the front end development and visual design all while <a href="design-leadership.php">leading</a> and <a href="design-mentorship.php">mentoring</a> a team of designers.</p>
+				<p>Each project in my portfolio lists the skills, technologies, and resonsibilities I brought to that particular initiative. I hope you like what you see. <b>Enjoy!</b></p>
 			</div>
 			<!-- /.sidebar-copy -->
 
@@ -326,17 +325,7 @@
 							<span>About</span>
 							John Murray
 						</div>
-						<!-- <p>I'm a <b>self-taught</b> web designer and front end developer currently living just outside of Charlotte, NC. I've been designing and coding professionally for more than seven years &mdash; wow, has it really been that long? I graduated from the University of South Carolina in 2007. After being laid off due to budget concerns I realized that journalism wasn't a good long-term fit for me so I made the switch to web and never looked back.</p>
-
-						<p>Starting as a junior web designer and working my way up to being my company's only senior-level hybrid, I'm the only person at my company who has <b>both senior front end dev and senior web designer responsibilities</b>. So what does that mean?</p>
-
-						<p>Well, among other things it means I give creative direction to junior members on my team, helping them find the right balance between brand guidelines and innovative designs. It means that I regularly do large scale brand and site launches. It means that I understand how to create an effective, performance-driven design in Photoshop and then turn around and code it into an intuitive front end user experience.</p>
-
-						<p>Right now you might be saying to yourself, "But you can't be good at both design and front end code? It just can't be!" Well I'm here to tell you that you're wrong. I do both. Really really well. I'm one of the few people you'll meet who's just as comfortable talking to business leaders and marketing coordinators about design strategy and project launches as I am learning the latest Sass techniques or finding ways to use SVG images in responsive layouts.</p>
-
-						<p>For the last 5 years I've worked at Red Ventures, one of the fastest-growing companies on the East Coast. I've spent the last two years there working closely with medium to large-scale national insurance brands such as Safeco, The Hartford, Metlife and our company's own in-house insurance team, which runs HomeInsurance.com and HomeOwnersInsurance.com. Most of the work you'll see in my portfolio is from my time on insurance.</p>
-
-						<p>However, these days I work directly with AT&amp;T and Vonage as well as continue to mentor and train junior and mid-level talent throughout our creative team. I recently launched a mobile-only <a href="att-mobile-site.php">AT&amp;T U-verse</a> design of which I'm especially proud. With initial analytics reporting that response rate is up 40% over previous mobile experiences we've run, how can I <em>not</em> be excited!</p> -->
+						<p>I've been in the industry since 2007 and taught myself design and front end development back before code camps and Google Chrome were a thing &mdash; back when we all had the title “web designer”. Being in design leadership puts me right where I want to be. I’m at the intersection of product design, product strategy, and product management, and I get the opportunity to mentor folks along the way. When I’m not leading my product team, I’m leading design thinking workshops either through IBM or my local AIGA chapter.</p>
 
 						<div class="row">
 							<div class="column small-12">
