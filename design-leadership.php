@@ -47,7 +47,6 @@
 						</div>
 						<br>
 						<div class="row">
-							
 							<div class="column small-12 medium-6">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;We talk so much about empathy for the users that we often forget to have empathy for our colleagues.&quot; John Murray on breaking down the us and them mentality <a href="https://twitter.com/ibmdesign?ref_src=twsrc%5Etfw">@ibmdesign</a> <a href="https://twitter.com/hashtag/uxdesignsummit?src=hash&amp;ref_src=twsrc%5Etfw">#uxdesignsummit</a> <a href="https://twitter.com/hashtag/uxdesign?src=hash&amp;ref_src=twsrc%5Etfw">#uxdesign</a> <a href="https://t.co/PAUsLTdthB">pic.twitter.com/PAUsLTdthB</a></p>&mdash; Xin Xin (@spicyhappy) <a href="https://twitter.com/spicyhappy/status/969330057578622976?ref_src=twsrc%5Etfw">March 1, 2018</a></blockquote>
 							</div>
@@ -56,9 +55,11 @@
 							</div>
 						</div>
 						<hr>
-						<h4>UXPA Puerto Rico 2018</h4>
+						<h4>UXPA Puerto Rico 2018 - <b><i>Coming Soon!</i></b></h4>
+						<h5>"Why your product team should use User Story Mapping to link user research to user stories"</h5>
 						<div class="row">
 							<div class="column small-12 medium-6">
+								<b>Description</b>
 								<p>How well do you think your product team takes what they learn from their users and puts it into the next iteration of the product? How well does your team come to a common understanding of what the next iteration of the product will look like and then build a product that reflects that common understanding?</p>
 								<p>These two problems &mdash; improving your product with user research and effective team collaboration — can both be solved with a design tool called User Story Mapping.</p>
 								<p>In this session, attendees will hear how to apply User Story Mapping to connect user research to user stories for Design Thinking and Agile Development and the experience our teams have with the method.</p> 
@@ -70,23 +71,38 @@
 							</div>
 						</div>
 						<hr>
-						
-						<hr>
-						<div class="subheadline">User Story Mapping Webinar by Mural</div>
+						<h4>User Story Mapping Webinar by Mural</h4>
+						<div class="row">
+							<div class="column small-12">
+								<blockquote class="curly-quotes">When John and Eric approach me with the idea of running webinar together, I jumped on it immediately. It was clear they had something unique and valuable for the broader community with their approach to user story mapping. But more than that, I knew they'd be great partners to work with. And they didn't let me down. John and Eric are subject matter experts in their fields, and it really showed--from planning the webinar to running it. Both we're well prepared with engaging content that really resonated with our audience. With nearly 600 live attendees and almost 3000 sign ups, it turned out to be one of our best webinars ever. I really enjoyed working with them and would do so again in a heart beat. IBM is lucky to have people like dedicated, knowledgeable practitioners like John and Eric.</blockquote>
+								<figcaption class="quote-by">— Jim Kalbach, Head of Customer Experience at Mural.co</figcaption>
+								<b>Description</b>
+								
+							</div>
+						</div>
+						<div class="row">
+							<div class="column small-12 medium-8">
+								<b>Presentation Slides</b>
+								<iframe src="//www.slideshare.net/slideshow/embed_code/key/Im6Y9rPKZ9fho1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/JohnMurray184/mural-build-experiences-not-features" title="Mural: Build Experiences Not Features" target="_blank">Mural: Build Experiences Not Features</a> </strong> from <strong><a href="https://www.slideshare.net/JohnMurray184" target="_blank">John Murray</a></strong> </div>
+							</div>
+							<div class="column small-12 medium-4">
+							<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Don&#39;t leave user insights in the workshop. See how <a href="https://twitter.com/IBM?ref_src=twsrc%5Etfw">@IBM</a>&#39;s <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> &amp; <a href="https://twitter.com/heyjohnmurray?ref_src=twsrc%5Etfw">@heyjohnmurray</a> bridge <a href="https://twitter.com/hashtag/designthinking?src=hash&amp;ref_src=twsrc%5Etfw">#designthinking</a> with <a href="https://twitter.com/hashtag/agile?src=hash&amp;ref_src=twsrc%5Etfw">#agile</a> development: <a href="https://t.co/9pdpbqinTx">https://t.co/9pdpbqinTx</a></p>&mdash; MURAL (@MURAL) <a href="https://twitter.com/MURAL/status/931643882454093824?ref_src=twsrc%5Etfw">November 17, 2017</a></blockquote>
+							</div>
+						</div>
 						<div class="row">
 							<div class="column small-12 medium-6">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Don&#39;t leave user insights in the workshop. See how <a href="https://twitter.com/IBM?ref_src=twsrc%5Etfw">@IBM</a>&#39;s <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> &amp; <a href="https://twitter.com/heyjohnmurray?ref_src=twsrc%5Etfw">@heyjohnmurray</a> bridge <a href="https://twitter.com/hashtag/designthinking?src=hash&amp;ref_src=twsrc%5Etfw">#designthinking</a> with <a href="https://twitter.com/hashtag/agile?src=hash&amp;ref_src=twsrc%5Etfw">#agile</a> development: <a href="https://t.co/9pdpbqinTx">https://t.co/9pdpbqinTx</a></p>&mdash; MURAL (@MURAL) <a href="https://twitter.com/MURAL/status/931643882454093824?ref_src=twsrc%5Etfw">November 17, 2017</a></blockquote>
 							</div>
 							<div class="column small-12 medium-6">
-							<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In case you missed it <a href="https://twitter.com/MURAL?ref_src=twsrc%5Etfw">@MURAL</a> wrote a summary of the <a href="https://twitter.com/hashtag/userstorymapping?src=hash&amp;ref_src=twsrc%5Etfw">#userstorymapping</a> webinar <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> and I ran last week. Check out the link and replay or download the whole session if you were unable to attend. <a href="https://t.co/bKGFZFUds6">https://t.co/bKGFZFUds6</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/937918119653400576?ref_src=twsrc%5Etfw">December 5, 2017</a></blockquote>
+								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In case you missed it <a href="https://twitter.com/MURAL?ref_src=twsrc%5Etfw">@MURAL</a> wrote a summary of the <a href="https://twitter.com/hashtag/userstorymapping?src=hash&amp;ref_src=twsrc%5Etfw">#userstorymapping</a> webinar <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> and I ran last week. Check out the link and replay or download the whole session if you were unable to attend. <a href="https://t.co/bKGFZFUds6">https://t.co/bKGFZFUds6</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/937918119653400576?ref_src=twsrc%5Etfw">December 5, 2017</a></blockquote>
 							</div>
 						</div>
 						<div class="row">
 							<div class="column small-12 medium-6">
-							<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A lot of you have been asking for the slides to our &quot;Build Experience Not Features&quot; webinar last week with <a href="https://twitter.com/JimKalbach?ref_src=twsrc%5Etfw">@JimKalbach</a> and <a href="https://twitter.com/MURAL?ref_src=twsrc%5Etfw">@MURAL</a>. <a href="https://t.co/lOXmzBo4tb">https://t.co/lOXmzBo4tb</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/938437130652667904?ref_src=twsrc%5Etfw">December 6, 2017</a></blockquote>
+								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A lot of you have been asking for the slides to our &quot;Build Experience Not Features&quot; webinar last week with <a href="https://twitter.com/JimKalbach?ref_src=twsrc%5Etfw">@JimKalbach</a> and <a href="https://twitter.com/MURAL?ref_src=twsrc%5Etfw">@MURAL</a>. <a href="https://t.co/lOXmzBo4tb">https://t.co/lOXmzBo4tb</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/938437130652667904?ref_src=twsrc%5Etfw">December 6, 2017</a></blockquote>
 							</div>
 							<div class="column small-12 medium-6">
-							<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Putting the finishing touches on tomorrow&#39;s presentation. I hope you&#39;re as excited as <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> and I are. There&#39;s still time to sign up.<a href="https://t.co/Lm0pprlpVV">https://t.co/Lm0pprlpVV</a> <a href="https://t.co/OOFebufGGd">pic.twitter.com/OOFebufGGd</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/936047083764711424?ref_src=twsrc%5Etfw">November 30, 2017</a></blockquote>
+								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Putting the finishing touches on tomorrow&#39;s presentation. I hope you&#39;re as excited as <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> and I are. There&#39;s still time to sign up.<a href="https://t.co/Lm0pprlpVV">https://t.co/Lm0pprlpVV</a> <a href="https://t.co/OOFebufGGd">pic.twitter.com/OOFebufGGd</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/936047083764711424?ref_src=twsrc%5Etfw">November 30, 2017</a></blockquote>
 							</div>
 						</div>
 					</div>

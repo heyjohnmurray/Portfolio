@@ -21,7 +21,7 @@
 				<div class="row">
 					<div class="column small-12">
 						<blockquote class="curly-quotes">John pushed me to be the best version of myself when I felt the most insecure in my career. He has mentored me from a timid designer full of fear to a confident leader. Over the past few years he has been the one person who I could turn to with questions that would give me the brutal and honest truth. Even after he moved and we were no longer able to talk face to face the advice, friendship and guidance has not stopped.</blockquote>
-						<figcaption class="quote-by">— Andrew Cilley, Senior Designer / Team Lead at Red Ventures </figcaption>
+						<figcaption class="quote-by">— Andrew Cilley, Senior Designer / Team Lead at Red Ventures</figcaption>
 						<hr />
 						<p>I met Andrew in 2013 when he was assigned to be the junior designer on my Red Ventures Insurance design team. We bonded over our shared music interests from back when we were in high school. Andrew was one of the first people I actively mentored in my career. Before that time I felt like I was just a kid with little wisdom to impart to anyone, but since I was expected to develop him I put aside my insecurities and did the best I could to help him grow technically and professionally.</p>
 						<p>We worked together for the next two years until I left the company to come work at IBM. Even though I left we stayed in touch and regularly discussed career growth and ambitions he had and talked about what he could be doing to attain them.</p>
