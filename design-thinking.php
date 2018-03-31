@@ -55,7 +55,8 @@
 								<h4>"Design Thinking at Scale" sponsored by AIGA Orange County</h4>
 								<b>Description</b>
 								<p>Design thinking is everywhere these days. There’s plenty of people telling you how to do it and how it works, but not enough people are talking about the practical application. How do I apply it? How do I actually do it? How do I get it to work at my company and with my team?</p>
-								<p>I'll give you hands-on guidance and share my personal experiences doing design thinking at IBM in Austin, TX.</p>
+								<p>In this session, sponsored by AIGA Orange County, I showed attendees how to implement design thinking practices in their companies. I gave them hands-on guidance and shared my personal experiences doing design thinking at IBM in Austin, TX.</p>
+								<p>There were about 60 attendees in this all-day workshop, and I was the only facilitator, which meant I explained the exercise, then I walked around and made sure all four groups were on track and understood the objectives. While I'll admit that I was exhausted at the end of the day, it was an incredible experience. I loved watching folks embrace the possibilities and opportunities for bringing design thinking to their workplace.</p>
 							</div>
 						</div>
 						<div class="row">
@@ -73,6 +74,32 @@
 							</div>
 						</div>
 						<!-- /.row -->
+						<hr>
+						<div class="row">
+							<div class="column small-12">
+								<h4>AIGA Faciltator Activation</h4>
+								<div class="row">
+									<div class="column small-12">
+										<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/design-thinking/aiga-fact-workshop-small.jpg, (small)],[assets/images/design-thinking/aiga-fact-workshop-medium.jpg, (medium)],[assets/images/design-thinking/aiga-fact-workshop-large.jpg, (large-only)],[assets/images/design-thinking/aiga-fact-workshop-large.jpg, (xlarge-only)]">
+										<noscript><img src="/assets/images/design-thinking/aiga-fact-workshop-large.jpg"></noscript>
+									</div>
+								</div>
+								<hr>
+								<div class="row">
+									<div class="column small-12">
+										<b>Description</b>
+										<p>In April 2017, I was a support facilitator for the first of a multi-city collaborative workshop series for AIGA chapter leaders. Because space was limited for the workshop, 30 slots in all, there were a few attendee requirements as well as an application process:</p>
+										<ul class="list">
+											<li>Attendees must have an introductory knowledge/practice of design thinking</li>
+											<li>Attendees must be an active AIGA Board Member, National Staff, or Advisory Board Member</li>
+											<li>Attendees must be able to commit the two full days for the workshop - no phone, no email, just be present and engage fully in the experience</li>
+										</ul>
+										<p>The workshop focused on teaching attendees everything they needed to know to begin their journey into design thinking facilitation. With that knowledge, they were expected to go back to their local AIGA chapters and teach their members how to do design thinking. IBM felt this was the best way to empower and scale design thinking to AIGA's members.</p>
+										<p>The attendees were broken up into groups, about 6 and as the support facilitator I coached two of the six groups throughout the workshop. Not only was I a hands-on instructor, I was able to share my design thinking experience with everyone who attended. I wanted to ground their theoretical process in a real-world perspective.</p>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -85,9 +112,10 @@
 					<div class="column small-12">
 						<h2>Design Thinking at IBM</h2>
 						<h4>Swift Product Team Hills Workshop</h4>
-						<p><small>Originally written by Peter Perceval, IBM Swift Team Senior Visual Designer, and Eric Morrow, design thinking facilitator, and posted on the IBM Hybrid Cloud Design blog.</small></p>
+						<img src="/assets/images/design-thinking/swift-workshop-team-photo-wide.jpg" alt="">
+						<hr>
+						<p><small>Originally written by Peter Perceval, IBM Swift Team Senior Visual Designer and <br/>Eric Morrow, design thinking facilitator, and posted on the IBM Hybrid Cloud Design blog.</small></p>
 						<p>I was hired as an industry hire on July 11th 2016. A week later I would be deployed to a team that was still in the process of being created. A week after that we were officially the new design team for a brand new Hallmark project: Swift @ IBM.</p>
-						<p><img src="/assets/images/design-thinking/swift-workshop-team-photo.jpg" alt=""></p>
 						<p>Our team was composed of three individuals: myself (Peter Perceval) and Clay Crenshaw, both brand new to IBM as industry hires, and our fearless team lead John Murray, who was coming from Bluemix and being deployed to Cloud Integration Design to lead his first team into uncharted territory. Charles, our researcher, joined a few weeks later.&nbsp; I wasn’t sure exactly how we were going to navigate this ship or what my exact role and contributions would be, but one thing I knew from the beginning was that in 2 months we were supposed to have a workshop with our stakeholders and come out of it with Hills.</p>
 						<p>It would be a vast understatement to say this was a daunting, intimidating and nebulous task. We had to meet everyone involved in the five product offerings of Swift, learn the ins and outs of the offerings and the language, produce designs, and then also come up with a workshop to produce actionable hills for a high visibility project that is the linchpin to Apple and IBM’s relationship. While I may have been uncertain of many things, there was one thing I had faith in: the principles of design thinking. But how do I ensure that our stakeholders gain value from design thinking and not just see it as a waste of time?</p>
 						<h5>The User goes in the middle. And the road to the middle is paved with research.</h5>

@@ -797,6 +797,46 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/assets\/images\/design-thinking\/aiga-fact-workshop-large.jpg": {
+		"ft": 16384,
+		"iS": 217204,
+		"oA": 0,
+		"oAP": "\/assets\/images\/design-thinking\/aiga-fact-workshop-large.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/design-thinking\/aiga-fact-workshop-medium.jpg": {
+		"ft": 16384,
+		"iS": 111427,
+		"oA": 0,
+		"oAP": "\/assets\/images\/design-thinking\/aiga-fact-workshop-medium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/design-thinking\/aiga-fact-workshop-small.jpg": {
+		"ft": 16384,
+		"iS": 84456,
+		"oA": 0,
+		"oAP": "\/assets\/images\/design-thinking\/aiga-fact-workshop-small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/design-thinking\/swift-workshop-team-photo-wide.jpg": {
+		"ft": 16384,
+		"iS": 146575,
+		"oA": 0,
+		"oAP": "\/assets\/images\/design-thinking\/swift-workshop-team-photo-wide.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/design-thinking\/swift-workshop-team-photo.jpg": {
 		"ft": 16384,
 		"iS": 126219,
