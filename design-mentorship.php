@@ -40,14 +40,12 @@
 						<noscript><img src="assets/images/screenshots/slack/ux-mentorship-slack-small.png"></noscript>
 						<hr>
 						<p>In March 2017, I was scrolling through the IBM Design public Slack channels and saw someone request help seeking a mentor. At the time I didn't think much of it. I took a minute to reach out to Camila and introduce myself, and we arranged to video chat later the next week.</p>
-						<div class="row">
-							<div class="column small-12">
+						
 								<p><img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/slack/ux-mentorship-response-small.png, (small)],[assets/images/screenshots/slack/ux-mentorship-response-medium.png, (medium)],[assets/images/screenshots/slack/ux-mentorship-response-large.png, (large-only)],[assets/images/screenshots/slack/ux-mentorship-response-large.png, (xlarge-only)]"></p>
 								<noscript><img src="assets/images/screenshots/slack/ux-mentorship-response.png"></noscript>
-							</div>
-						</div>
+						<hr>
 						<div class="row">
-						<div class="column small-6">
+							<div class="column small-6">
 								<p>During our first conversation I found out that she was an aspiring UX designer working in one of IBM's offices in Brazil. She told me she was interested in breaking into the industry professionally but didn't really know where to start. She'd read some books, taken some introductory classes, but she wanted a mentor who could help push her in the right direction.</p>
 								<p>As soon as she said she was inexperienced and looking to get started I thought back to when I was first started out. I recognized her curiosity and ambition, and I knew I wanted to help.</p>
 								<p>Over the course of the next six months I coached her in the principles of UX and we established a consistent meeting time.</p>

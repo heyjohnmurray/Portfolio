@@ -23,27 +23,12 @@
 			<? include('assets/includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
-			<!-- <img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/project-headshots/small.jpg, (small)],[assets/images/screenshots/hi-redesign/project-headshots/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/project-headshots/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/project-headshots/xlarge.jpg, (xlarge-only)]">
-			<noscript><img src="assets/images/screenshots/hi-redesign/project-headshots/default.jpg"></noscript> -->
+			<div class="responsive-embed"><iframe width="980" height="551" src="https://www.youtube-nocookie.com/embed/L2ZEp2wuH_o?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 			<div class="body-copy" id="public-speaking">
 				<div class="row">
 					<div class="column small-12">
-						<h1>Public Speaking</h1>
-						<div class="subheadline">UXPA Puerto Rico 2018</div>
-						<div class="row">
-							<div class="column small-12 medium-6">
-								<p>How well do you think your product team takes what they learn from their users and puts it into the next iteration of the product? How well does your team come to a common understanding of what the next iteration of the product will look like and then build a product that reflects that common understanding?</p>
-								<p>These two problems &mdash; improving your product with user research and effective team collaboration — can both be solved with a design tool called User Story Mapping.</p>
-								<p>In this session, attendees will hear how to apply User Story Mapping to connect user research to user stories for Design Thinking and Agile Development and the experience our teams have with the method.</p> 
-								<p>Attendees will get a taste of going through running a simple user story mapping workshop so that they will feel comfortable taking the process back to their business.</p>
-							</div>
-							<div class="column small-12 medium-6">
-								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Excited to announce that our slot at UXPA International has been confirmed. I&#39;m really looking forward to going to Puerto Rico this June and sharing how user story mapping has helped us at IBM. I&#39;m excited to meet and learn from other UX professionals. Should be awesome! <a href="https://t.co/ZRii2XrHYk">pic.twitter.com/ZRii2XrHYk</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/979234334208032768?ref_src=twsrc%5Etfw">March 29, 2018</a></blockquote>
-								<!-- <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Excited to announce that our slot at UXPA International has been confirmed. I&#39;m really looking forward to going to Puerto Rico this June and sharing how user story mapping has helped us at IBM. I&#39;m excited to meet and learn from other UX professionals. Should be awesome! <a href="https://t.co/ZRii2XrHYk">pic.twitter.com/ZRii2XrHYk</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/979234334208032768?ref_src=twsrc%5Etfw">March 29, 2018</a></blockquote> -->
-							</div>
-						</div>
-						<hr />
-						<div class="subheadline">UX Design Summit 2018</div>
+						<h2>Public Speaking</h2>
+						<h4>UX Design Summit 2018</h4>
 						<div class="row">
 							<div class="column small-12">
 								<p>“They have no idea how to work with a real design team.” We’ve all heard or said something like that about people on our product teams, especially developers. While that’s a natural response to a breakdown in communication or a road bump during implementation, over time it can create an “Us vs. Them” mentality that does more harm than good. So how do we avoid scratching the itch. How do we keep avoiding giving in to the cynicism? As a design leader, how do you balance your team’s frustrations and continue to motivate them to deliver quality user experiences?</p>
@@ -60,7 +45,25 @@
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Listening to <a href="https://twitter.com/heyjohnmurray?ref_src=twsrc%5Etfw">@heyjohnmurray</a> at the <a href="https://twitter.com/hashtag/uxdesignsummit?src=hash&amp;ref_src=twsrc%5Etfw">#uxdesignsummit</a> in <a href="https://twitter.com/hashtag/Sanfrancisco?src=hash&amp;ref_src=twsrc%5Etfw">#Sanfrancisco</a> and this concluding slide! Nailed it!👏🏼👏🏼<a href="https://twitter.com/hashtag/ux?src=hash&amp;ref_src=twsrc%5Etfw">#ux</a> <a href="https://twitter.com/hashtag/design?src=hash&amp;ref_src=twsrc%5Etfw">#design</a> <a href="https://t.co/ZWs7ARl4qU">pic.twitter.com/ZWs7ARl4qU</a></p>&mdash; Ashish SHendure (@ashish_shendure) <a href="https://twitter.com/ashish_shendure/status/969333719491272704?ref_src=twsrc%5Etfw">March 1, 2018</a></blockquote>
 							</div>
 						</div>
-						<hr />
+						
+						
+						
+						<h4>UXPA Puerto Rico 2018</h4>
+						<div class="row">
+							<div class="column small-12 medium-6">
+								<p>How well do you think your product team takes what they learn from their users and puts it into the next iteration of the product? How well does your team come to a common understanding of what the next iteration of the product will look like and then build a product that reflects that common understanding?</p>
+								<p>These two problems &mdash; improving your product with user research and effective team collaboration — can both be solved with a design tool called User Story Mapping.</p>
+								<p>In this session, attendees will hear how to apply User Story Mapping to connect user research to user stories for Design Thinking and Agile Development and the experience our teams have with the method.</p> 
+								<p>Attendees will get a taste of going through running a simple user story mapping workshop so that they will feel comfortable taking the process back to their business.</p>
+							</div>
+							<div class="column small-12 medium-6">
+								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Excited to announce that our slot at UXPA International has been confirmed. I&#39;m really looking forward to going to Puerto Rico this June and sharing how user story mapping has helped us at IBM. I&#39;m excited to meet and learn from other UX professionals. Should be awesome! <a href="https://t.co/ZRii2XrHYk">pic.twitter.com/ZRii2XrHYk</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/979234334208032768?ref_src=twsrc%5Etfw">March 29, 2018</a></blockquote>
+								<!-- <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Excited to announce that our slot at UXPA International has been confirmed. I&#39;m really looking forward to going to Puerto Rico this June and sharing how user story mapping has helped us at IBM. I&#39;m excited to meet and learn from other UX professionals. Should be awesome! <a href="https://t.co/ZRii2XrHYk">pic.twitter.com/ZRii2XrHYk</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/979234334208032768?ref_src=twsrc%5Etfw">March 29, 2018</a></blockquote> -->
+							</div>
+						</div>
+						<hr>
+						
+						<hr>
 						<div class="subheadline">User Story Mapping Webinar by Mural</div>
 						<div class="row">
 							<div class="column small-12 medium-6">
