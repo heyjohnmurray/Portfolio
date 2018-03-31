@@ -135,6 +135,7 @@ span.nav-label {
 		position: fixed;
 		top: 0;
 		width: 100%;
+		z-index: 300;
 
 		.mobile-link {
 			display: inline-block;

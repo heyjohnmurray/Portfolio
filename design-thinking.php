@@ -22,7 +22,21 @@
 			<? include('assets/includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
+			<script type="text/javascript" id="vidyard_embed_code_hBvpmV9hhva3B8dSLi7Nm3" src="//play.vidyard.com/hBvpmV9hhva3B8dSLi7Nm3.js?v=3.1.1&type=inline&width=980&height=551"></script>
 			<div class="body-copy">
+				<div class="row">
+					<div class="column small-12">
+						<blockquote class="curly-quotes">When John and Eric approach me with the idea of running a webinar together, I jumped on it immediately. It was clear they had something unique and valuable for the broader community with their approach to user story mapping. But more than that, I knew they'd be great partners to work with. And they didn't let me down. John and Eric are subject matter experts in their fields, and it really showed&mdash;from planning the webinar to running it. Both were well prepared with engaging content that really resonated with our audience. <br/><br/> <b>With nearly 600 live attendees and almost 3000 sign ups it turned out to be one of our best webinars ever</b>. I really enjoyed working with them and would do so again in a heart beat. IBM is lucky to have people like dedicated, knowledgeable practitioners like John and Eric.</blockquote>
+						<figcaption class="quote-by">— Jim Kalbach, Head of Customer Experience at Mural.co</figcaption>
+						<b>Description</b>
+						<p>If you’ve ever been frustrated at the lack of tangible takeaways following a design workshop, you’re not alone. Many teams find that design thinking workshops don’t often lead to real product improvements. It looks a little like the game of telephone: the team leaves the workshop in agreement, but before they can get back to work, things quickly get distorted or disappear altogether. <a href="https://blog.mural.co/8-ways-to-scale-digital-design" target="_blank">At MURAL, we refer to this as workshop amnesia</a>.</p>
+						<p>The good news is there’s a solution. We recently welcomed <a href="https://twitter.com/heyjohnmurray">John Murray</a>, Design Team Lead &amp; Advisory Front End Developer at IBM, and <a href="https://twitter.com/ericmorrow">Eric Morrow</a>, Design Facilitator at IBM and author of Lean Accelerator, to host a webinar and share how they get around the persistent gaps. Through trial and error, they’ve discovered that teams can bridge the space between design workshops ideas and the product development that follows.</p>
+						<p>They connect the two by using a method known as User Story Mapping. For more details, <a href="https://mural.co/webinars/build-experiences-not-features/" target="_blank">watch the full session</a> or <a href="https://www.slideshare.net/JohnMurray184/mural-build-experiences-not-features" target="_blank">view the presentation</a>.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="callout">
 				<div class="row">
 					<div class="column small-12">
 						<blockquote class="curly-quotes">John is a rockstar. I haven't always had the pleasure of working with someone who I can always trust to bring their A­-game and hold me accountable to do the same. John is an awesome manager of things, leader of others, and do­er, maker, thinker and honestly my only regret is that we have never worked together on a team. If we did ­it would be the best team, ever. In the work we did together for AIGA, John came in as a volunteer and came out a mentor of many and leader of all. All I needed was a facilitator and what I got was much more. I think that is evidence of his ability to restlessly reinvent through feedback, unite and get it done now through his willingness to roll his sleeves up and do the work or lead, delegate, and mentor others so that they get a chance to practice what John preaches. He also shares his successes with his teammates and others who supported the great outcomes he is attached to.</blockquote>
@@ -33,10 +47,6 @@
 					<!-- /.column -->
 				</div>
 				<!-- /.row -->
-			</div>
-			<!-- /.body-copy -->
-
-			<div class="callout">
 				<div class="row">
 					<div class="column small-12">
 						<h2>Design Thinking with AIGA</h2>

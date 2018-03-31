@@ -23,7 +23,7 @@
 			<? include('assets/includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
-			<div class="responsive-embed"><iframe width="980" height="551" src="https://www.youtube-nocookie.com/embed/L2ZEp2wuH_o?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+			<div class="flex-video"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L2ZEp2wuH_o?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 			<div class="body-copy" id="public-speaking">
 				<div class="row">
 					<div class="column small-12">
@@ -74,10 +74,12 @@
 						<h4>User Story Mapping Webinar by Mural</h4>
 						<div class="row">
 							<div class="column small-12">
-								<blockquote class="curly-quotes">When John and Eric approach me with the idea of running webinar together, I jumped on it immediately. It was clear they had something unique and valuable for the broader community with their approach to user story mapping. But more than that, I knew they'd be great partners to work with. And they didn't let me down. John and Eric are subject matter experts in their fields, and it really showed--from planning the webinar to running it. Both we're well prepared with engaging content that really resonated with our audience. With nearly 600 live attendees and almost 3000 sign ups, it turned out to be one of our best webinars ever. I really enjoyed working with them and would do so again in a heart beat. IBM is lucky to have people like dedicated, knowledgeable practitioners like John and Eric.</blockquote>
+								<blockquote class="curly-quotes">When John and Eric approach me with the idea of running a webinar together, I jumped on it immediately. It was clear they had something unique and valuable for the broader community with their approach to user story mapping. But more than that, I knew they'd be great partners to work with. And they didn't let me down. John and Eric are subject matter experts in their fields, and it really showed&mdash;from planning the webinar to running it. Both were well prepared with engaging content that really resonated with our audience. <br/><br/> <b>With nearly 600 live attendees and almost 3000 sign ups it turned out to be one of our best webinars ever</b>. I really enjoyed working with them and would do so again in a heart beat. IBM is lucky to have people like dedicated, knowledgeable practitioners like John and Eric.</blockquote>
 								<figcaption class="quote-by">— Jim Kalbach, Head of Customer Experience at Mural.co</figcaption>
 								<b>Description</b>
-								
+								<p>If you’ve ever been frustrated at the lack of tangible takeaways following a design workshop, you’re not alone. Many teams find that design thinking workshops don’t often lead to real product improvements. It looks a little like the game of telephone: the team leaves the workshop in agreement, but before they can get back to work, things quickly get distorted or disappear altogether. <a href="https://blog.mural.co/8-ways-to-scale-digital-design" target="_blank">At MURAL, we refer to this as workshop amnesia</a>.</p>
+								<p>The good news is there’s a solution. We recently welcomed <a href="https://twitter.com/heyjohnmurray">John Murray</a>, Design Team Lead &amp; Advisory Front End Developer at IBM, and <a href="https://twitter.com/ericmorrow">Eric Morrow</a>, Design Facilitator at IBM and author of Lean Accelerator, to host a webinar and share how they get around the persistent gaps. Through trial and error, they’ve discovered that teams can bridge the space between design workshops ideas and the product development that follows.</p>
+								<p>They connect the two by using a method known as User Story Mapping. For more details, <a href="https://mural.co/webinars/build-experiences-not-features/" target="_blank">watch the full session</a> or <a href="https://www.slideshare.net/JohnMurray184/mural-build-experiences-not-features" target="_blank">view the presentation</a>.</p>
 							</div>
 						</div>
 						<div class="row">
@@ -128,8 +130,9 @@
 						</ul>
 					</div>
 				</div>
+				<hr>
 				<div class="row">
-					<div class="subheadline">Published articles</div>
+					<h4>Published articles</h4>
 					<div class="column small-12 medium-6">
 						<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I just published “Build Experiences not Features, part 2 of 2” <a href="https://t.co/RiOZC5BZDr">https://t.co/RiOZC5BZDr</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/927635657702469632?ref_src=twsrc%5Etfw">November 6, 2017</a></blockquote>
 						<p>Published by IBM Design<br /> <small>4.7k views</small></p>

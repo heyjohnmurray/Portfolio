@@ -107,6 +107,7 @@ aside {
 			left: 0;
 			position: relative;
 			text-decoration: none;
+			z-index: 0;
 
 			&:hover {
 				color: darken($color-secondary-light, 25%);
