@@ -152,4 +152,44 @@ aside {
 
 hr {
 	margin: 3rem 0;
+	border: 0; 
+	height: 1px; 
+	background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+	background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+	background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+	background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
 }
+
+blockquote {
+	border-left: 10px solid $color-tertiary-dark;
+	padding-left: 1.5em;
+	margin-left: 0;
+	font-family:"light-italic";
+	position: relative;
+
+	&.twitter-tweet {
+		border-left: 0;
+		padding-left: 0;
+		font-family: default;
+	}
+}
+
+.curly-quotes:before, .curly-quotes:after {
+	display: inline-block;
+	vertical-align: top;
+	height: 30px;
+	line-height: 60px;
+	font-size: 80px;
+	opacity: .2;
+  }
+  
+  .curly-quotes:before {
+	content: '\201C';
+	margin-right: 10px;
+	margin-left: -8px;
+  }
+
+  figcaption {
+	padding-left: 2em;
+	margin-bottom: 2em;
+  }

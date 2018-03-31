@@ -2490,6 +2490,39 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/screenshots\/slack\/user-story-mapping-idea.png": {
+		"ft": 32768,
+		"iS": 135929,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/slack\/user-story-mapping-idea.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/slack\/ux-mentorship-response.png": {
+		"ft": 32768,
+		"iS": 66779,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/slack\/ux-mentorship-response.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/slack\/ux-mentorship-slack.png": {
+		"ft": 32768,
+		"iS": 94422,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/slack\/ux-mentorship-slack.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/includes\/base\/footer.php": {
 		"cB": 0,
 		"ft": 8192,

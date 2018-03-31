@@ -14,7 +14,7 @@
 				<ul class="list inline-list has-row-colors">
 					<li><a href="#user-story-mapping">User Story Mapping</a></li>
 					<li><a href="#design-thinking-at-ibm">Design Thinking at IBM</a></li>
-					<li><a href="#design-thinking-at-aiga">Design Thinking at AIGA</a></li>
+					<li><a href="#design-thinking-at-aiga">Design Thinking with AIGA</a></li>
 				</ul>
 				<!-- /.list -->
 			</div>
@@ -28,8 +28,11 @@
 			<div class="body-copy">
 				<div class="row">
 					<div class="column small-12">
-						<h1>Facilitation with AIGA</h1>
-						<h3>Design Thinking at Scale by AIGA Orange County</h3>
+						<blockquote class="curly-quotes">John is a rockstar. I haven't always had the pleasure of working with someone who I can always trust to bring their A­-game and hold me accountable to do the same. John is an awesome manager of things, leader of others, and do­er, maker, thinker and honestly my only regret is that we have never worked together on a team. If we did ­it would be the best team, ever. In the work we did together for AIGA, John came in as a volunteer and came out a mentor of many and leader of all. All I needed was a facilitator and what I got was much more. I think that is evidence of his ability to restlessly reinvent through feedback, unite and get it done now through his willingness to roll his sleeves up and do the work or lead, delegate, and mentor others so that they get a chance to practice what John preaches. He also shares his successes with his teammates and others who supported the great outcomes he is attached to.</blockquote>
+						<figcaption class="quote-by">— Amber Atkins, Co-Director of Education and Mentorship, AIGA Austin</figcaption>
+						<hr />
+						<h2>Design Thinking with AIGA</h2>
+						<div class="subheadline">"Design Thinking at Scale" sponsored by AIGA Orange County</div>
 						<div class="row">
 							<div class="column small-12 medium-6">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Another successful design thinking workshop in the books. Thanks to <a href="https://twitter.com/AIGAOC?ref_src=twsrc%5Etfw">@aigaoc</a> for hosting and thanks to everyone who came out. <a href="https://t.co/l4FFUwNgrD">pic.twitter.com/l4FFUwNgrD</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/909588782273380352?ref_src=twsrc%5Etfw">September 18, 2017</a></blockquote>
@@ -48,7 +51,7 @@
 			<div class="callout">
 				<div class="row">
 					<div class="column small-12">
-						<h2>Callout HEADER</h2>
+						<h2>Design Thinking at IBM</h2>
 						<p>CONTENT</p>
 						<!-- /.row -->
 					</div>
@@ -61,7 +64,7 @@
 			<div class="body-copy">
 				<div class="row">
 					<div class="column small-12">
-						<h1>HEADER</h1>
+						<h2>User Story Mapping</h2>
 						<p>CONTENT</p>
 					</div>
 					<!-- /.column -->
