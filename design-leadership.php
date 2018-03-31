@@ -39,7 +39,7 @@
 						<div class="row">
 							<div class="column small-12  medium-8">
 								<b>Presentation Slides</b>
-								<iframe src="//www.slideshare.net/slideshow/embed_code/key/KhFxHB0qUXaajX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+								<iframe src="//www.slideshare.net/slideshow/embed_code/key/KhFxHB0qUXaajX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 							</div>
 							<div class="column small-12 medium-4">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Good things sometimes come at the last minute. I&#39;ll be speaking at UX Design Summit tomorrow in San Francisco. I&#39;m really excited to be sharing my expertise, but I&#39;m also looking forward to learning from the other speakers in attendance. <a href="https://t.co/NhA9oblaet">pic.twitter.com/NhA9oblaet</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/968943964320620547?ref_src=twsrc%5Etfw">February 28, 2018</a></blockquote>
@@ -67,11 +67,11 @@
 							</div>
 							<div class="column small-12 medium-6">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Excited to announce that our slot at UXPA International has been confirmed. I&#39;m really looking forward to going to Puerto Rico this June and sharing how user story mapping has helped us at IBM. I&#39;m excited to meet and learn from other UX professionals. Should be awesome! <a href="https://t.co/ZRii2XrHYk">pic.twitter.com/ZRii2XrHYk</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/979234334208032768?ref_src=twsrc%5Etfw">March 29, 2018</a></blockquote>
-								<!-- <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Excited to announce that our slot at UXPA International has been confirmed. I&#39;m really looking forward to going to Puerto Rico this June and sharing how user story mapping has helped us at IBM. I&#39;m excited to meet and learn from other UX professionals. Should be awesome! <a href="https://t.co/ZRii2XrHYk">pic.twitter.com/ZRii2XrHYk</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/979234334208032768?ref_src=twsrc%5Etfw">March 29, 2018</a></blockquote> -->
 							</div>
 						</div>
 						<hr>
 						<h4>User Story Mapping Webinar by Mural</h4>
+						<h5>Build Experiences not Features</h5>
 						<div class="row">
 							<div class="column small-12">
 								<blockquote class="curly-quotes">When John and Eric approach me with the idea of running a webinar together, I jumped on it immediately. It was clear they had something unique and valuable for the broader community with their approach to user story mapping. But more than that, I knew they'd be great partners to work with. And they didn't let me down. John and Eric are subject matter experts in their fields, and it really showed&mdash;from planning the webinar to running it. Both were well prepared with engaging content that really resonated with our audience. <br/><br/> <b>With nearly 600 live attendees and almost 3000 sign ups it turned out to be one of our best webinars ever</b>. I really enjoyed working with them and would do so again in a heart beat. IBM is lucky to have people like dedicated, knowledgeable practitioners like John and Eric.</blockquote>
@@ -85,7 +85,7 @@
 						<div class="row">
 							<div class="column small-12 medium-8">
 								<b>Presentation Slides</b>
-								<iframe src="//www.slideshare.net/slideshow/embed_code/key/Im6Y9rPKZ9fho1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/JohnMurray184/mural-build-experiences-not-features" title="Mural: Build Experiences Not Features" target="_blank">Mural: Build Experiences Not Features</a> </strong> from <strong><a href="https://www.slideshare.net/JohnMurray184" target="_blank">John Murray</a></strong> </div>
+								<iframe src="//www.slideshare.net/slideshow/embed_code/key/Im6Y9rPKZ9fho1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 							</div>
 							<div class="column small-12 medium-4">
 							<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Don&#39;t leave user insights in the workshop. See how <a href="https://twitter.com/IBM?ref_src=twsrc%5Etfw">@IBM</a>&#39;s <a href="https://twitter.com/ericmorrow?ref_src=twsrc%5Etfw">@ericmorrow</a> &amp; <a href="https://twitter.com/heyjohnmurray?ref_src=twsrc%5Etfw">@heyjohnmurray</a> bridge <a href="https://twitter.com/hashtag/designthinking?src=hash&amp;ref_src=twsrc%5Etfw">#designthinking</a> with <a href="https://twitter.com/hashtag/agile?src=hash&amp;ref_src=twsrc%5Etfw">#agile</a> development: <a href="https://t.co/9pdpbqinTx">https://t.co/9pdpbqinTx</a></p>&mdash; MURAL (@MURAL) <a href="https://twitter.com/MURAL/status/931643882454093824?ref_src=twsrc%5Etfw">November 17, 2017</a></blockquote>
@@ -155,7 +155,7 @@
 			<div class="body-copy" id="in-the-studio">
 				<div class="row">
 					<div class="column small-12">
-						<h1>In-Studio</h1>
+						<h1>In the Studio</h1>
 						<div class="row">
 							<div class="column small-12 medium-6">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Shared my <a href="https://twitter.com/hashtag/designthinking?src=hash&amp;ref_src=twsrc%5Etfw">#designthinking</a> experience in the <a href="https://twitter.com/hashtag/ibm?src=hash&amp;ref_src=twsrc%5Etfw">#ibm</a> studio during this week&#39;s new design leads workshop. <a href="https://t.co/zCu6KrfFMZ">pic.twitter.com/zCu6KrfFMZ</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/868139844639358976?ref_src=twsrc%5Etfw">May 26, 2017</a></blockquote>
