@@ -36,13 +36,13 @@
 			<div class="callout">
 				<div class="row">
 					<div class="column small-12">
-						<p><img class="js-delay-load" src="assets/images/screenshots/slack/ux-mentorship-slack.png" alt=""></p>
-						<noscript><img src="assets/images/screenshots/slack/ux-mentorship-slack.png"></noscript>
+						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/slack/ux-mentorship-slack-small.png, (small)],[assets/images/screenshots/slack/ux-mentorship-slack-medium.png, (medium)],[assets/images/screenshots/slack/ux-mentorship-slack-large.png, (large-only)],[assets/images/screenshots/slack/ux-mentorship-slack-large.png, (xlarge-only)]">
+						<noscript><img src="assets/images/screenshots/slack/ux-mentorship-slack-small.png"></noscript>
 						<hr>
 						<p>In March 2017, I was scrolling through the IBM Design public Slack channels and saw someone request help seeking a mentor. At the time I didn't think much of it. I took a minute to reach out to Camila and introduce myself, and we arranged to video chat later the next week.</p>
 						<div class="row">
 							<div class="column small-12">
-								<p><img class="js-delay-load" src="assets/images/screenshots/slack/ux-mentorship-response.png" alt=""></p>
+								<p><img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/slack/ux-mentorship-response-small.png, (small)],[assets/images/screenshots/slack/ux-mentorship-response-medium.png, (medium)],[assets/images/screenshots/slack/ux-mentorship-response-large.png, (large-only)],[assets/images/screenshots/slack/ux-mentorship-response-large.png, (xlarge-only)]"></p>
 								<noscript><img src="assets/images/screenshots/slack/ux-mentorship-response.png"></noscript>
 							</div>
 						</div>

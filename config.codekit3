@@ -2501,22 +2501,66 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/images\/screenshots\/slack\/ux-mentorship-response.png": {
+	"\/assets\/images\/screenshots\/slack\/ux-mentorship-response-large.png": {
 		"ft": 32768,
 		"iS": 66779,
 		"oA": 0,
-		"oAP": "\/assets\/images\/screenshots\/slack\/ux-mentorship-response.png",
+		"oAP": "\/assets\/images\/screenshots\/slack\/ux-mentorship-response-large.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/images\/screenshots\/slack\/ux-mentorship-slack.png": {
+	"\/assets\/images\/screenshots\/slack\/ux-mentorship-response-medium.png": {
+		"ft": 32768,
+		"iS": 65607,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/slack\/ux-mentorship-response-medium.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/slack\/ux-mentorship-response-small.png": {
+		"ft": 32768,
+		"iS": 68774,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/slack\/ux-mentorship-response-small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/slack\/ux-mentorship-slack-large.png": {
 		"ft": 32768,
 		"iS": 94422,
 		"oA": 0,
-		"oAP": "\/assets\/images\/screenshots\/slack\/ux-mentorship-slack.png",
+		"oAP": "\/assets\/images\/screenshots\/slack\/ux-mentorship-slack-large.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/slack\/ux-mentorship-slack-medium.png": {
+		"ft": 32768,
+		"iS": 95544,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/slack\/ux-mentorship-slack-medium.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/slack\/ux-mentorship-slack-small.png": {
+		"ft": 32768,
+		"iS": 97424,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/slack\/ux-mentorship-slack-small.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
