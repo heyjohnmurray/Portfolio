@@ -37,20 +37,21 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="column small-12  large-9">
+							<div class="column small-12  medium-8">
 								<b>Presentation Slides</b>
 								<iframe src="//www.slideshare.net/slideshow/embed_code/key/KhFxHB0qUXaajX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+							</div>
+							<div class="column small-12 medium-4">
+								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Good things sometimes come at the last minute. I&#39;ll be speaking at UX Design Summit tomorrow in San Francisco. I&#39;m really excited to be sharing my expertise, but I&#39;m also looking forward to learning from the other speakers in attendance. <a href="https://t.co/NhA9oblaet">pic.twitter.com/NhA9oblaet</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/968943964320620547?ref_src=twsrc%5Etfw">February 28, 2018</a></blockquote>
 							</div>
 						</div>
 						<br>
 						<div class="row">
-							<div class="column small-12 medium-4">
-								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Good things sometimes come at the last minute. I&#39;ll be speaking at UX Design Summit tomorrow in San Francisco. I&#39;m really excited to be sharing my expertise, but I&#39;m also looking forward to learning from the other speakers in attendance. <a href="https://t.co/NhA9oblaet">pic.twitter.com/NhA9oblaet</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/968943964320620547?ref_src=twsrc%5Etfw">February 28, 2018</a></blockquote>
-							</div>
-							<div class="column small-12 medium-4">
+							
+							<div class="column small-12 medium-6">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;We talk so much about empathy for the users that we often forget to have empathy for our colleagues.&quot; John Murray on breaking down the us and them mentality <a href="https://twitter.com/ibmdesign?ref_src=twsrc%5Etfw">@ibmdesign</a> <a href="https://twitter.com/hashtag/uxdesignsummit?src=hash&amp;ref_src=twsrc%5Etfw">#uxdesignsummit</a> <a href="https://twitter.com/hashtag/uxdesign?src=hash&amp;ref_src=twsrc%5Etfw">#uxdesign</a> <a href="https://t.co/PAUsLTdthB">pic.twitter.com/PAUsLTdthB</a></p>&mdash; Xin Xin (@spicyhappy) <a href="https://twitter.com/spicyhappy/status/969330057578622976?ref_src=twsrc%5Etfw">March 1, 2018</a></blockquote>
 							</div>
-							<div class="column small-12 medium-4">
+							<div class="column small-12 medium-6">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Listening to <a href="https://twitter.com/heyjohnmurray?ref_src=twsrc%5Etfw">@heyjohnmurray</a> at the <a href="https://twitter.com/hashtag/uxdesignsummit?src=hash&amp;ref_src=twsrc%5Etfw">#uxdesignsummit</a> in <a href="https://twitter.com/hashtag/Sanfrancisco?src=hash&amp;ref_src=twsrc%5Etfw">#Sanfrancisco</a> and this concluding slide! Nailed it!👏🏼👏🏼<a href="https://twitter.com/hashtag/ux?src=hash&amp;ref_src=twsrc%5Etfw">#ux</a> <a href="https://twitter.com/hashtag/design?src=hash&amp;ref_src=twsrc%5Etfw">#design</a> <a href="https://t.co/ZWs7ARl4qU">pic.twitter.com/ZWs7ARl4qU</a></p>&mdash; Ashish SHendure (@ashish_shendure) <a href="https://twitter.com/ashish_shendure/status/969333719491272704?ref_src=twsrc%5Etfw">March 1, 2018</a></blockquote>
 							</div>
 						</div>
