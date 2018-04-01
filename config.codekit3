@@ -3688,6 +3688,13 @@
 		"oAP": "\/protected\/ibm-swift.php",
 		"oF": 0
 		},
+	"\/protected\/ibm-vmware.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/protected\/ibm-vmware.php",
+		"oF": 0
+		},
 	"\/quotes-hoi-redesign.php": {
 		"cB": 0,
 		"ft": 8192,

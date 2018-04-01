@@ -1,5 +1,5 @@
 <? include('assets/includes/base/header.php'); ?>
-<body class="interior-page hi-redesign">
+<body class="interior-page ibm-microclimate">
 	<? include('assets/includes/nav/nav-secondary-desktop.php'); ?>
 	<section>
 		<aside class="align-left">
