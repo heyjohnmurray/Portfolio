@@ -32,6 +32,7 @@
                         
                         <p>Most of my team's time on this project was spent getting alignment from our stakeholders on the product's mission and intent. With five assets to manage, you can imagine we had our work cut out for us. We set up a hills workshop to achieve the needed alignment from our cross-functional and distributed team of stakeholders.</p>
                         <p>The workshop itself was a success and took a lot of planning on my part. After we finished the workshop, we wrote the article below, and I think it gives you insight into what it was like running a workshop with a new design team and a new team of stakeholders.</p>
+                        
                         <div class="row">
                             <div class="column small-12 medium-6">
                                 <h4>Project milestones</h4>
@@ -58,6 +59,7 @@
                                 </ul>
                             </div>
                         </div>
+                        
                         <div class="row">
                             <div class="column small-12">
                                 <h4>Post-relase Performance Recognition</h4>    

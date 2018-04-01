@@ -8,7 +8,7 @@
 
 				<div class="headline"><span>IBM</span> Swift</div>
 				
-				<p>XXXX</p>
+				<p>In February 2016, IBM and Apple announced a partnership to bring server side Swift application development to the cloud. With this relationship, IBM became the first cloud provider to allow developers to create cloud native applications in Apple's open source language.</p>
 				<p><a href="/protected/ibm-swift.php" class="button is-primary">View this project!</a></p>
 			</div>
 			<!-- /.sidebar-copy -->
@@ -43,17 +43,6 @@
 			</div>
 			<!-- /.callout -->
 
-			<div class="body-copy">
-				<div class="row">
-					<div class="column small-12">
-						<h1>HEADER</h1>
-						<p>CONTENT</p>
-					</div>
-					<!-- /.column -->
-				</div>
-				<!-- /.row -->
-			</div>
-			<!-- /.body-copy -->
 		</div>
 		<!-- /.content -->
 	</section>

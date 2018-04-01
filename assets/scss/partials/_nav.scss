@@ -25,7 +25,8 @@ nav {
 
 	ul {
 		position: relative;
-		z-index: 99; // place below nav
+		top: -50px;
+		z-index: 99;
 	}
 
 	li {
@@ -45,7 +46,7 @@ nav {
 		}
 
 		@media only screen and (min-width:1025px) and (max-width:#{upper-bound($xlarge-range)}) {
-			// font-size: 40px;
+			font-size: 40px;
 		}
 
 		@media #{$xlarge-up} {
@@ -60,7 +61,7 @@ nav {
 		position: relative;
 		text-align: right;
 		text-transform: uppercase;
-		top: -23px;
+		top: -10px;
 		z-index: 999;
 	}
 

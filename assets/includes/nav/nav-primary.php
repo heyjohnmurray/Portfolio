@@ -1,6 +1,6 @@
 <nav class="nav-primary js-nav">
+	<a href="/" class="nav-close js-nav-close"><i class="icon-cancel"></i> Close</a>
 	<ul>
-		<li><a href="/" class="nav-close js-nav-close"><i class="icon-cancel"></i> Close</a></li>
 	<? if(stristr($_SERVER['REQUEST_URI'], "/index.php")) { ?>
 		<li><a href="/">Home</a></li>
 		<li><a href="/#portfolio-section">Portfolio</a></li>
