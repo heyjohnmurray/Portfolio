@@ -37,7 +37,7 @@
 				<div class="row">
 					<div class="column small-12">
 						<blockquote class="curly-quotes">Not only was John a great boss, he’s been an ever better mentor and friend. He continues to coach me through my career, helping me find roles that match my growth potential. I've become a much better designer since I’ve known him.</blockquote>
-						<figcaption class="quote-by">— Tashawn Jones, Product Designer / DockYard, former product designer at Red Ventures</figcaption>
+						<figcaption class="quote-by">— Tashawn Jones, Product Designer at DockYard and former product designer at Red Ventures</figcaption>
 						<hr>
 						<p>Tashawn join Red Ventures in early 2015. It's rare that you get the opportunity identify someone's potential before you even meet them. At the time he was interviewing I was one of the go-to designers for interviewing potential new hires. When I saw his portfolio, I recognized that there was raw potential.</p>
 						<p>When he came in for his on-site interview, I sensed the ego-less desire to come in and learn and grow. It just so happened that after he got hired, he was made my direct report. In him, I saw a younger version of myself: hungry, humble, and willing to do what it takes to get better and bring value to the organization.</p>
