@@ -1760,6 +1760,56 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/default.jpg": {
+		"ft": 16384,
+		"iS": 58864,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/default.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/large.jpg": {
+		"ft": 16384,
+		"iS": 95311,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/large.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/medium.jpg": {
+		"ft": 16384,
+		"iS": 94507,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/medium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/small.jpg": {
+		"ft": 16384,
+		"iS": 55002,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/xlarge.jpg": {
+		"ft": 16384,
+		"iS": 177769,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/xlarge.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/screenshots\/metlife\/pages\/index\/default.jpg": {
 		"ft": 16384,
 		"iS": 387899,
@@ -3623,6 +3673,13 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/protected\/ibm-microclimate.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/protected\/ibm-microclimate.php",
+		"oF": 0
 		},
 	"\/quotes-hoi-redesign.php": {
 		"cB": 0,

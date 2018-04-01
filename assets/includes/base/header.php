@@ -25,6 +25,6 @@
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
-<link rel="stylesheet" href="assets/css/project.min.css">
+<link rel="stylesheet" href="../assets/css/project.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
 </head>

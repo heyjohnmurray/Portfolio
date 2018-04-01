@@ -13,14 +13,21 @@ body {
 }
 
 .button {
+	display: inline-block;
 	font-family: "bold";
 	font-size: 18px;
 	padding: 20px;
 	text-align: center;
+	text-decoration: none;
 
 	&.is-primary {
 		background-color: $button-background-color-primary;
 		color: $button-text-color-primary;
+
+		&:hover {
+			background-color: $button-background-color-primary-hover;
+			color: $button-text-color-primary-hover;
+		}
 	}
 }
 
