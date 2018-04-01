@@ -336,6 +336,12 @@
 								<p>When I’m not leading my product team, I’m leading design thinking workshops either through IBM or my local AIGA chapter. I've led workshops of all types and sizes, from Intro to Design Thinking through remote product team sessions with folks spread all around the world.</p>
 							</div>
 						</div>
+						<div class="row">
+							<div class="column small-12">
+								<blockquote class="curly-quotes">John is the quintessential team player, always looking to do whatever the team needs, pushing others to do better, and pushing himself above all to be the best he can be. Hard working, loyal, and dedicated, he sets goals, keeps his eye on the ball, and adapts as needed to get himself and his team across the finish line. He has been one of my favorite people to work with and mentor in my career and I would be excited to have him as a teammate on any project I am working on.</blockquote>
+								<figcaption class="quote-by">— James Huston, Director of Platform Engineering / Red Ventures</figcaption>
+							</div>
+						</div>
 						<!-- /.row -->
 						<div class="row">
 							<div class="column small-12">

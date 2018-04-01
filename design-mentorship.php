@@ -20,9 +20,9 @@
 			<div class="body-copy">
 				<div class="row">
 					<div class="column small-12">
-						<blockquote class="curly-quotes">John pushed me to be the best version of myself when I felt the most insecure in my career. He has mentored me from a timid designer full of fear to a confident leader. Over the past few years he has been the one person who I could turn to with questions that would give me the brutal and honest truth. Even after he moved and we were no longer able to talk face to face the advice, friendship and guidance has not stopped.</blockquote>
+						<blockquote class="curly-quotes">John pushed me to be the best version of myself when I felt the most insecure in my career. He has mentored me from a timid designer full of fear to a confident leader. Over the past few years he has been the one person who I could turn to with questions that would give me the brutal and honest truth. Even after he moved and we were no longer able to talk face-to-face; the advice, friendship, and guidance has not stopped.</blockquote>
 						<figcaption class="quote-by">— Andrew Cilley, Senior Designer / Team Lead at Red Ventures</figcaption>
-						<hr />
+						<hr>
 						<p>I met Andrew in 2013 when he was assigned to be the junior designer on my Red Ventures Insurance design team. We bonded over our shared music interests from back when we were in high school. Andrew was one of the first people I actively mentored in my career. Before that time I felt like I was just a kid with little wisdom to impart to anyone, but since I was expected to develop him I put aside my insecurities and did the best I could to help him grow technically and professionally.</p>
 						<p>We worked together for the next two years until I left the company to come work at IBM. Even though I left we stayed in touch and regularly discussed career growth and ambitions he had and talked about what he could be doing to attain them.</p>
 						<p>When Andrew first joined the company he came in as a junior designer and now he's a design team lead with his own direct reports. It's been incredible to watch him grow in his career and see him become a confident leader. He's lightyears removed from the timid young designer I met years ago, and it's incredible to know that I had a hand in his development.</p>
@@ -36,13 +36,26 @@
 			<div class="callout">
 				<div class="row">
 					<div class="column small-12">
+						<blockquote class="curly-quotes">Not only was John a great boss, he’s been an ever better mentor and friend. He continues to coach me through my career, helping me find roles that match my growth potential. I've become a much better designer since I’ve known him.</blockquote>
+						<figcaption class="quote-by">— Tashawn Jones, Product Designer / DockYard, former product designer at Red Ventures</figcaption>
+						<hr>
+						<p>Tashawn join Red Ventures in early 2015. It's rare that you get the opportunity identify someone's potential before you even meet them. At the time he was interviewing I was one of the go-to designers for interviewing potential new hires. When I saw his portfolio, I recognized that there was raw potential.</p>
+						<p>When he came in for his on-site interview, I sensed the ego-less desire to come in and learn and grow. It just so happened that after he got hired, he was made my direct report. In him, I saw a younger version of myself: hungry, humble, and willing to do what it takes to get better and bring value to the organization.</p>
+						<p>In late 2015, I left to join IBM, but we stayed in touch. I've always made it a point to make time for him and provide honest feedback about his work and his career and pushing him to push himself to grow in his craft.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="body-copy">
+				<div class="row">
+					<div class="column small-12">
+						<p>In March 2017, I was scrolling through the IBM Design public Slack channels and saw someone request help seeking a mentor.</p>
 						<img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/slack/ux-mentorship-slack-small.png, (small)],[assets/images/screenshots/slack/ux-mentorship-slack-medium.png, (medium)],[assets/images/screenshots/slack/ux-mentorship-slack-large.png, (large-only)],[assets/images/screenshots/slack/ux-mentorship-slack-large.png, (xlarge-only)]">
 						<noscript><img src="assets/images/screenshots/slack/ux-mentorship-slack-small.png"></noscript>
 						<hr>
-						<p>In March 2017, I was scrolling through the IBM Design public Slack channels and saw someone request help seeking a mentor. At the time I didn't think much of it. I took a minute to reach out to Camila and introduce myself, and we arranged to video chat later the next week.</p>
-						
-								<p><img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/slack/ux-mentorship-response-small.png, (small)],[assets/images/screenshots/slack/ux-mentorship-response-medium.png, (medium)],[assets/images/screenshots/slack/ux-mentorship-response-large.png, (large-only)],[assets/images/screenshots/slack/ux-mentorship-response-large.png, (xlarge-only)]"></p>
-								<noscript><img src="assets/images/screenshots/slack/ux-mentorship-response.png"></noscript>
+						<p>At the time I didn't think much of it. I took a minute to reach out to Camila and introduce myself, and we arranged to video chat later the next week.</p>
+						<p><img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/slack/ux-mentorship-response-small.png, (small)],[assets/images/screenshots/slack/ux-mentorship-response-medium.png, (medium)],[assets/images/screenshots/slack/ux-mentorship-response-large.png, (large-only)],[assets/images/screenshots/slack/ux-mentorship-response-large.png, (xlarge-only)]"></p>
+						<noscript><img src="assets/images/screenshots/slack/ux-mentorship-response.png"></noscript>
 						<hr>
 						<div class="row">
 							<div class="column small-6">
