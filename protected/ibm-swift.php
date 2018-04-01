@@ -11,9 +11,9 @@
                 <h5>Skills &amp; roles for this product</h5>
                 <ul class="list inline-list has-row-colors">
                     <li>Design Leadership</li>
+                    <li>Collaborative Product Strategy</li>
                     <li>UX Strategy</li>
                     <li>Design Thinking Methods &amp; Practices</li>
-                    <li>Collaborative Product Strategy</li>
                     <li>Release Planning</li>
                     <li>Prototyping</li>
                     <li>User Testing</li>

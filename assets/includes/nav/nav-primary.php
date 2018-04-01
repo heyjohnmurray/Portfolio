@@ -4,7 +4,7 @@
 	<? if(stristr($_SERVER['REQUEST_URI'], "/index.php")) { ?>
 		<li><a href="/">Home</a></li>
 		<li><a href="/#portfolio-section">Portfolio</a></li>
-		<li><a href="#about-section">About</a></li>
+		<li><a href="/#about-section">About</a></li>
 		<li><a href="/design-leadership.php">Design Leadership</a></li>
 		<li><a href="/design-thinking.php">Design Thinking</a></li>
 		<li><a href="/design-mentorship.php">Mentorship</a></li>
