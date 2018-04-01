@@ -21,8 +21,28 @@
 			<div class="body-copy">
 				<div class="row">
 					<div class="column small-12">
-						<h1>HEADER</h1>
-						<p>CONTENT</p>
+						<h2>The Mission</h2>
+						<p>When my Hybrid Cloud design team were assigned to this product, some of the assets had already been created by another IBM product team in a different business unit. However, they were quickly thrown together and not a lot forethought was put into how each asset would relate to the others.</p>
+						<p>As a result, there were five assets, each with its own user experience:</p>
+						<ol class="list">
+							<li>Swift runtime, which lived on IBM's cloud platform</li>
+							<li>Swift sandbox site</li>
+							<li>Kitura framework website</li>
+							<li>Package catalog website</li>
+							<li>Swift@IBM marketing website</li>
+						</ol>
+						<p>There were also two separate market segments the team had their eye on, and everyone had their own opinion about who we should be targeting first and why.</p> 
+						<ol class="list">
+							<li></li>
+						</ol>
+						
+						<p>Furthermore, there was no sense of urgency from the team around developing a scoped release schedule. They were just making addittions and developments on an arbitrary squad-based schedule.</p>
+						<p>Our focus from the outset was to get alignment among the stakeholders on two things:</p>
+						<ul class="list">
+							<li>How can we create a consistent experience across all five assets?</li>
+							<li>Which developer segment should we focus on first?</li>
+							
+						</ul>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -33,8 +53,8 @@
 			<div class="callout">
 				<div class="row">
 					<div class="column small-12">
-						<h2>Callout HEADER</h2>
-						<p>CONTENT</p>
+						<h4>Want to see more?</h4>
+						<p>Due to NDA restrictions, I can't openly share the details of this product. If you'd like to see more detail then email me, and I'll grant you access. If you already have login information then click "View this project!" in the sidebar to login.</p>
 						<!-- /.row -->
 					</div>
 					<!-- /.column -->

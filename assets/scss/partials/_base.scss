@@ -70,7 +70,8 @@ body {
 	@include margin(0 0 40px 0);
 }
 
-ul {
+ul,
+ol {
 	margin: 0;
 	padding: 0;
 

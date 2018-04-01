@@ -3372,33 +3372,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/assets\/js\/project.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/project-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/js\/project.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/project.min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/js\/project.min.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/js\/project.min.js.map",
-		"oF": 0
-		},
 	"\/assets\/scss\/globals\/foundation.scss": {
 		"aP": 0,
 		"bl": 0,

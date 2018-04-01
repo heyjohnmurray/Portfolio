@@ -31,7 +31,7 @@
                         <h2>Aligning on and Defining Our Mission</h2>
                         
                         <p>Most of my team's time on this project was spent getting alignment from our stakeholders on the product's mission and intent. With five assets to manage, you can imagine we had our work cut out for us. We set up a hills workshop to achieve the needed alignment from our cross-functional and distributed team of stakeholders.</p>
-                        <p>The workshop itself was a success and took a lot of planning on my part. After we finished the workshop, we wrote the article below, and I think it gives you insight into what it was like running a workshop with a new design team and a new team of stakeholders.</p>
+                        <p>The workshop itself was a success and took a lot of planning on my part. After we finished the workshop, <a href="#swift-hills-workshop">we wrote the article below</a>, and I think it gives you insight into what it was like running a workshop with a new design team and a new team of stakeholders.</p>
                         
                         <div class="row">
                             <div class="column small-12 medium-6">
@@ -59,12 +59,10 @@
                                 </ul>
                             </div>
                         </div>
-                        
+
                         <div class="row">
                             <div class="column small-12">
                                 <h4>Post-relase Performance Recognition</h4>    
-                                    <!-- <li><i>Delivered on a strategic vision with a team made entirely of IBM new hires</i></li>
-                                    <li><i>I drove this project on my own because we didn't have a design manager as most teams tend to be assigned</i></li> -->
                                 <p>I was commended by both my VP of design and my Director of Design for what we achieved on this project. The following statement was made on my 2016 annual review by my manager.</p>
                                 <blockquote class="curly-quotes">John has done a fantastic job stepping into a lead position this year and owning it. The continual communication with OM's and stakeholders, planning a workshop, putting out fires on the team, etc., John has done a great job staying on top of everything. John demonstrated significant responsibility to others in bringing together a set of IBM Design new hires to form the Swift Hallmark Design team. John also worked tirelessly with the broader program team to lead them into effective IBM Design Thinking practices vs tactical planning. John had to walk a fine line of refusing focus on request for urgent design assistance while getting collaboration on strategic design and project outcomes.  At the end of the engagement, the project team were significantly bought into John's IBM Design Thinking led approach and were able to arrive at strategic hills.</blockquote>
                                 <figcaption class="quote-by">— Adrian Jones, Hybrid Cloud Design Program Director </figcaption>
@@ -99,7 +97,7 @@
                 </div>
             </div>
             
-            <div class="callout">
+            <div class="callout" id="swift-hills-workshop">
                 <div class="row">
                     <div class="column small-12">
                         <h4>Hills Workshop</h4>
