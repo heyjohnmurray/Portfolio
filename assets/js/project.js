@@ -31,7 +31,7 @@ $(function() {
 
 	// typing effect on the home page
 	$('.js-typer').typed({	
-		strings: ['Design Leader', 'Mentor', 'Strategist', 'Facilitator'],
+		strings: ['Design Leader', 'Strategist', 'Mentor', 'Facilitator'],
 		loop: true,
 		typeSpeed: 100
 	});

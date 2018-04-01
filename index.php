@@ -40,7 +40,7 @@
 				<!-- /.button-toggle-nav -->
 
 				<div class="headline"><span>About</span> My Portfolio</div>
-				<p>I led the design and product strategy for all of these projects, often working directly with a team of project managers, content writers and business development experts. On the non-IBM projects, I did the front end development and visual design all while <a href="design-leadership.php">leading</a> and <a href="design-mentorship.php">mentoring</a> a team of designers.</p>
+				<p>I helped drive the design and product strategy for all of these projects, often working directly with a team of project managers, content writers and business development experts. On the non-IBM projects, I did the front end development and visual design all while <a href="design-leadership.php">leading</a> and <a href="design-mentorship.php">mentoring</a> a team of designers.</p>
 				<p>Each project in my portfolio lists the skills, technologies, and resonsibilities I brought to that particular initiative. I hope you like what you see. <b>Enjoy!</b></p>
 			</div>
 			<!-- /.sidebar-copy -->
