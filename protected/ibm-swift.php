@@ -27,32 +27,82 @@
 			<!-- <img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/project-headshots/small.jpg, (small)],[assets/images/screenshots/hi-redesign/project-headshots/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/project-headshots/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/project-headshots/xlarge.jpg, (xlarge-only)]">
             <noscript><img src="assets/images/screenshots/hi-redesign/project-headshots/default.jpg"></noscript> -->
             <img src="../assets/images/design-thinking/swift-workshop-team-photo-wide.jpg" alt="">
-            <hr>
 			<div class="body-copy">
 				<div class="row">
 					<div class="column small-12">
-                        <h2>Algining on and Defining Our Mission</h2>
+                        <h2>Aligning on and Defining Our Mission</h2>
                         
                         <p>Most of my team's time on this project was spent getting alignment from our stakeholders on the product's mission and intent. With five assets to manage, you can imagine we had our work cut out for us. We set up a hills workshop to achieve the needed alignment from our cross-functional and distributed team of stakeholders.</p>
                         <p>The workshop itself was a success and took a lot of planning on my part. After we finished the workshop, we wrote the article below, and I think it gives you insight into what it was like running a workshop with a new design team and a new team of stakeholders.</p>
-                        <h4>Project milestones</h4>
-                        <ul class="list">
-                            <li>Design kickoff</li>
-                            <li>Hills workshop to align on scope of first release <i>(in-depth article below)</i></li>
-                            <li>Design Team generative research</li>
-                            <li></li>
-                        </ul>
+                        <div class="row">
+                            <div class="column small-12 medium-6">
+                                <h4>Project milestones</h4>
+                                <ul class="list">
+                                    <li>Design kickoff</li>
+                                    <li>Generative research</li>
+                                    <li>Hills workshop <i>(in-depth article below)</i></li>
+                                    <li>Playback -1 (not quite aligned)</li>
+                                    <li>Playback 0 (final release run through)</li>
+                                    <li>All-hands meeting to share the vision.</li>
+                                    <li>Finalize mid-fi designs</li>
+                                    <li>Hand over designs for implementation</li>
+                                    <li>Release goes public</li>
+                                </ul>
+                            </div>
+                            <div class="column small-12 medium-6">
+                                <h4>Outcomes</h4>
+                                <p>This was a challenging but productive team to be a part of. In the short time we had we accomplished a number of things:</p>
+                                <ul class="list">
+                                    <li>Alignment - Stakeholders had a shared understanding of who the user was and what we wanted to do for them.</li>
+                                    <li>Used design thinking methods to establish a set of scoped mission statements for our release</li>
+                                    <li>Planned an executed our first successful design thinking workshop</li>
+                                    <li>Created design deliverables tied to the hills we set out at the beginning of the relase</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="column small-12">
+                                <h4>Post-relase Performance Recognition</h4>    
+                                    <!-- <li><i>Delivered on a strategic vision with a team made entirely of IBM new hires</i></li>
+                                    <li><i>I drove this project on my own because we didn't have a design manager as most teams tend to be assigned</i></li> -->
+                                <p>I was commended by both my VP of design and my Director of Design for what we achieved on this project. The following statement was made on my 2016 annual review by my manager.</p>
+                                <blockquote class="curly-quotes">John has done a fantastic job stepping into a lead position this year and owning it. The continual communication with OM's and stakeholders, planning a workshop, putting out fires on the team, etc., John has done a great job staying on top of everything. John demonstrated significant responsibility to others in bringing together a set of IBM Design new hires to form the Swift Hallmark Design team. John also worked tirelessly with the broader program team to lead them into effective IBM Design Thinking practices vs tactical planning. John had to walk a fine line of refusing focus on request for urgent design assistance while getting collaboration on strategic design and project outcomes.  At the end of the engagement, the project team were significantly bought into John's IBM Design Thinking led approach and were able to arrive at strategic hills.</blockquote>
+                                <figcaption class="quote-by">— Adrian Jones, Hybrid Cloud Design Program Director </figcaption>
+                            </div>
+                        </div>
 					</div>
 					<!-- /.column -->
 				</div>
                 <!-- /.row -->
 			</div>
             <!-- /.body-copy -->
+
+            <div class="callout">
+                <div class="row">
+                    <div class="column small-12">
+                        <h4>Design Kickoff</h4>
+                        <h5>Establishing the design team's mandate and intent</h5>
+                        <p>As a traditionally developer-led organization, IBM Design has been given an emphatic mandate to change the developer-as-the-end-user culture that has consumed the company and hindered its progress. This was the first time that we had the leadership for design, product management, and development all in the same room. To be totally honest, my VP of design and I went into the meeting knowing we had to play a little bit of good cop/bad cop. So you'll see slides essentially saying: "here's what we're here to do and this isn't business as usual where you can put unfair expectations on the design team without considering them in the product strategy.</p>
+                        <iframe src="//www.slideshare.net/slideshow/embed_code/key/KFCarsGyYda9Up" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+
+            <div class="body-copy">
+                <div class="row">
+                    <div class="column small-12">
+                        <h4>Playback Zero</h4>
+                        <h5>Last stop before the train leaves the station</h5>
+                        <p>I presented this deck to our stakeholders as part of a deliverable before designs were handed over and implementation began for Q4 2016. In it, we showed the outcomes from our research. We shared the personas we'd developed from our extensive user research. We reviewed evaluative research and shared user's feedback about the current state of the product. We also shared the hills, or mission statements, that the whole product team agreed to deliver on for Q4 during our hills workshop. Finally, we shared mid-fidelity design work for stakeholder approval.</p>
+                        <iframe src="//www.slideshare.net/slideshow/embed_code/key/HbmBIFFKcUaz2d" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
             
             <div class="callout">
                 <div class="row">
                     <div class="column small-12">
-                        <h4>Swift Product Team Hills Workshop</h4>
+                        <h4>Hills Workshop</h4>
                         <p><small><i>The following account was originally written by our visual designer,Peter, and Eric, our workshop facilitator, and posted on the IBM Hybrid Cloud Design blog.</small></i></p>
                         <p>I was hired as an industry hire on July 11th 2016. A week later I would be deployed to a team that was still in the process of being created. A week after that we were officially the new design team for a brand new Hallmark project: Swift @ IBM.</p>
                         <p>Our team was composed of three individuals: myself (Peter Perceval) and Clay Crenshaw, both brand new to IBM as industry hires, and our fearless team lead John Murray, who was coming from Bluemix and being deployed to Cloud Integration Design to lead his first team into uncharted territory. Charles, our researcher, joined a few weeks later.&nbsp; I wasn’t sure exactly how we were going to navigate this ship or what my exact role and contributions would be, but one thing I knew from the beginning was that in 2 months we were supposed to have a workshop with our stakeholders and come out of it with Hills.</p>

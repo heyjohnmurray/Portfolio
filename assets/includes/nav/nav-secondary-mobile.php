@@ -40,7 +40,6 @@
 			</a>
 		<? } ?>
 		<? if(stristr($_SERVER['REQUEST_URI'], "/protected/ibm-swift.php")) { ?>
-			asdf
 			<a href="/protected/ibm-vmware.php">
 				<i class="icon-briefcase"></i>
 				Next Project
