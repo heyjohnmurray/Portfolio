@@ -139,7 +139,7 @@
 					</div>
 					<div class="column small-12 medium-6">
 						<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you to <a href="https://twitter.com/aigaaustin?ref_src=twsrc%5Etfw">@aigaaustin</a> for publishing my recent article on how to set yourself apart from your colleagues. You can read it on their Medium page starting today. <a href="https://t.co/4h3RmJ4Wxj">pic.twitter.com/4h3RmJ4Wxj</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/956652679643762688?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
-						<p>Published by AIGA Austin<br /> <small>234 views</small></p>	
+						<p>Published by AIGA Austin<br /> <small>40% read ratio</small></p>	
 					</div>
 				</div>
 				<!-- /.row -->

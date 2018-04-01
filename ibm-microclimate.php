@@ -10,7 +10,7 @@
 				
 				<p>Microclimate is an end to end development environment that lets you rapidly create, edit, and deploy applications. Applications are run in containers from day one and can be delivered into production on Kubernetes through an automated DevOps pipeline using Jenkins. Microclimate can be installed locally or on IBM Cloud Private.</p>
 
-				<p><a href="/protected/microclimate.php" class="button is-primary">View this project!</a></p>
+				<p><a href="/protected/ibm-microclimate.php" class="button is-primary">View this project!</a></p>
 			</div>
 			<!-- /.sidebar-copy -->
 
@@ -24,9 +24,23 @@
 					<div class="column small-12">
 						<h2>Microclimate and the Developer Experience</h2>
 						<h4>The Mission</h4>
-						[reference the initial kickoff deck]
-						<p>Like any product that is in production and going through iterative improvements, I can't go into too much detail about the UX process or show in-flight design work.</p>
-						<p>If you'd like to see more detail then email me, and I'll grant you access. If you already have login information then click the button in the sidebar to login</p>
+						<p>In August 2017, I was assigned to the newly-formed Hybrid Cloud Developer Experience tribe. For anyone who's ever gotten in on the ground floor of any new business initiative, you know that even when there's a stated mission, it can be tricky to know where to being and what to prioritize.</p>
+						<p>Whenever I work with a new set of stakeholders I seek to clarify the mission first and foremost. I do that by identifying at least one key stakeholder as my "source of truth". Sometimes that's the executive in charge, sometimes it's an architect or a member of the product team leadership. For me, it's all about figuring out who has the clearest idea of the product's vision and strategy and working with them to get alignment and shared understanding from the rest of the leadership team.</p>
+						<p>After a few weeks of user research, stakeholder interviews, and competitive landscape analysis; we presented our findings to our leadership team as a way to reiterate and validate what we felt were the objectives so that we could move forward.</p>
+						<p>Based on the generative research we showed in that presentation, our leadership team agreed on a three-pronged mission. With the mission defined, we began to chart our course.</p>
+						<!-- <ol>
+							<li>Create a tool or set of tools that developers that was valuable to developers</li>
+							<li>Use that product to generate interest in the IBM Cloud Platform at large</li>
+							<li>Nurture and maintain that interest by ramping up developer advocacy</li>
+						</ol> -->
+						
+						<!-- <h5>Finding a visionary and solidifying the vision</h5>
+						<p>As a design lead at IBM, I've been in this position many times before. In fact, I often tell people that working at IBM is like working in a startup incubator. Projects come and projects go. With each one you learn a little more than the time before.</p>
+						<p>With that said, every product team I've led at IBM has been for an initiative that was starting at square one.</p> -->
+						
+						<!-- <h5></h5> -->
+						<h4>Want to see more?</h4>
+						<p>Like any product that is in production and going through iterative improvements, I can't openly share the details of our UX process or show in-flight design work. If you'd like to see more detail then email me, and I'll grant you access. If you already have login information then click "View this project!" in the sidebar to login.</p>
 					</div>
 					<!-- /.column -->
 				</div>
