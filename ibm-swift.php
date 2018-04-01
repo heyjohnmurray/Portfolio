@@ -21,7 +21,8 @@
 			<div class="body-copy">
 				<div class="row">
 					<div class="column small-12">
-						<h2>The Mission</h2>
+						<h2>The Challenge</h2>
+						<h5>Multiple assets and no unifying experince</h5>
 						<p>When my Hybrid Cloud design team were assigned to this product, some of the assets had already been created by another IBM product team in a different business unit. However, they were quickly thrown together and not a lot forethought was put into how each asset would relate to the others.</p>
 						<p>As a result, there were five assets, each with its own user experience:</p>
 						<ol class="list">
@@ -31,18 +32,16 @@
 							<li>Package catalog website</li>
 							<li>Swift@IBM marketing website</li>
 						</ol>
-						<p>There were also two separate market segments the team had their eye on, and everyone had their own opinion about who we should be targeting first and why.</p> 
+						<hr>
+						<h5>Target users based on assumptions</h5>
+						<p>There were also two separate market segments the team had their eye on, and everyone had their own opinion about who we should be targeting first and why. Neither of these market segments had any validated research done on them, and the only insight we had about them was based on the team's hunches and assumptions about who the user was and what they wanted.</p> 
 						<ol class="list">
-							<li></li>
+							<li>Existing enterprise backend developer</li>
+							<li>Front end developer working at a smaller business or startup</li>
 						</ol>
-						
+						<hr>
+						<h5>No urgency, no schedule</h5>
 						<p>Furthermore, there was no sense of urgency from the team around developing a scoped release schedule. They were just making addittions and developments on an arbitrary squad-based schedule.</p>
-						<p>Our focus from the outset was to get alignment among the stakeholders on two things:</p>
-						<ul class="list">
-							<li>How can we create a consistent experience across all five assets?</li>
-							<li>Which developer segment should we focus on first?</li>
-							
-						</ul>
 					</div>
 					<!-- /.column -->
 				</div>
@@ -53,16 +52,26 @@
 			<div class="callout">
 				<div class="row">
 					<div class="column small-12">
-						<h4>Want to see more?</h4>
-						<p>Due to NDA restrictions, I can't openly share the details of this product. If you'd like to see more detail then email me, and I'll grant you access. If you already have login information then click "View this project!" in the sidebar to login.</p>
-						<!-- /.row -->
+						<h4>The Mission</h4>
+						<p>As you can see we had our work cut out for us. Also, keep in mind that it took me several rounds of meetings and investigating to identify and diagnose the challenges above. These were lying under the surface, and I and my team worked to bring them to light before, during, and after our hills workshop.</p>
+						<p>Our focus from the outset was to get alignment among the stakeholders on two things:</p>
+						<ul class="list">
+							<li>How can we create a consistent experience across all five assets?</li>
+							<li>Which developer segment should we focus on first?</li>
+							<li>What should the scope and delivery schedule of the next release be?</li>
+						</ul>
 					</div>
-					<!-- /.column -->
 				</div>
-				<!-- /.row -->
 			</div>
-			<!-- /.callout -->
 
+			<div class="body-copy">
+				<div class="row">
+					<div class="column small-12">
+						<h4>The Solution</h4>
+						<p>Due to NDA restrictions, I can't openly share the details of this product and how I strategically addressed and delivered solutions. If you'd like to see more detail then email me, and I'll grant you access. If you already have login information then click "View this project!" in the sidebar to login.</p>
+					</div>
+				</div>
+			</div>
 		</div>
 		<!-- /.content -->
 	</section>
