@@ -107,7 +107,7 @@
 			</div>
 			<!-- /.callout -->
 
-			<div class="body-copy">
+			<!-- <div class="body-copy">
 				<div class="row">
 					<div class="column small-12">
 						<h2>Design Thinking at IBM</h2>
@@ -138,11 +138,8 @@
 						<h5>Repeat – Do an activity again if needed to get to the right result</h5>
 						<p>We ended Day 1 of the two day workshop with Need Statements and a quick bout of ideation for a gut check. We started Day 2 with playbacks of how we created all the artifacts on Day 1. We decided that our user needs weren’t focused enough so we had a conversation and re-did them around a specific use case. One of the key mindsets of Design Thinking is iteration – that all the work that goes into creating an artifact is to advance the team’s agenda, not to create the specific artifact. We use Sharpies and Post-Its and Flipcharts so that it is cheap and easy to throw artifacts, and the work they represent, away. And yet, how often do we really re-do a specific method in a workshop? It is far better to repeat a method that didn’t advance the team then to proceed with a bad foundation. Once we re-wrote the needs, we were able to march on to Hills!</p>
 					</div>
-					<!-- /.column -->
 				</div>
-				<!-- /.row -->
-			</div>
-			<!-- /.body-copy -->
+			</div> -->
 		</div>
 		<!-- /.content -->
 	</section>

@@ -9,6 +9,7 @@
 				<div class="headline"><span>IBM</span> Swift</div>
 				
 				<p>XXXX</p>
+				<p><a href="/protected/ibm-swift.php" class="button is-primary">View this project!</a></p>
 			</div>
 			<!-- /.sidebar-copy -->
 

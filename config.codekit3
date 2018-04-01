@@ -3681,6 +3681,13 @@
 		"oAP": "\/protected\/ibm-microclimate.php",
 		"oF": 0
 		},
+	"\/protected\/ibm-swift.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/protected\/ibm-swift.php",
+		"oF": 0
+		},
 	"\/quotes-hoi-redesign.php": {
 		"cB": 0,
 		"ft": 8192,
