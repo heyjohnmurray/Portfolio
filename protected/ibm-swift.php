@@ -24,8 +24,6 @@
 			<? include('../assets/includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
-			<!-- <img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[assets/images/screenshots/hi-redesign/project-headshots/small.jpg, (small)],[assets/images/screenshots/hi-redesign/project-headshots/medium.jpg, (medium)],[assets/images/screenshots/hi-redesign/project-headshots/large.jpg, (large-only)],[assets/images/screenshots/hi-redesign/project-headshots/xlarge.jpg, (xlarge-only)]">
-            <noscript><img src="assets/images/screenshots/hi-redesign/project-headshots/default.jpg"></noscript> -->
             <img src="../assets/images/design-thinking/swift-workshop-team-photo-wide.jpg" alt="">
 			<div class="body-copy">
 				<div class="row">
@@ -126,6 +124,17 @@
                         <p>Primary user research is the fuel that drives the Design Thinking “Observe-Reflect-Make” Restless Reinvention engine. And OM and Development can end up pretty far from the primary user in their day to day roles. So Design teams include a design researcher who can have direct contact and conversations with the primary user (who can evolve to become a Sponsor User). I did a modified (blank) empathy map exercise with the group to pull out their existing perspective on the user and then grouped the responses. Through that process we went from understanding our user as an enterprise developer to understanding the differences between a “traditional” and a “modern” enterprise developer. Since Swift is a new offering, we decided to aim at the modern enterprise developer, who we thought more likely to try something new. As we layered in research findings from our researcher, Charles, we found that we needed to split our modern enterprise developer again, into a client side/front end developer and a server side/back end developer. We affectionately called these users Billie and Ted(‘s excellent adventure!)</p>
                         <h5>Repeat – Do an activity again if needed to get to the right result</h5>
                         <p>We ended Day 1 of the two day workshop with Need Statements and a quick bout of ideation for a gut check. We started Day 2 with playbacks of how we created all the artifacts on Day 1. We decided that our user needs weren'’'t focused enough so we had a conversation and re-did them around a specific use case. One of the key mindsets of Design Thinking is iteration – that all the work that goes into creating an artifact is to advance the team’s agenda, not to create the specific artifact. We use Sharpies and Post-Its and Flipcharts so that it is cheap and easy to throw artifacts, and the work they represent, away. And yet, how often do we really re-do a specific method in a workshop? It is far better to repeat a method that didn’t advance the team then to proceed with a bad foundation. Once we re-wrote the needs, we were able to march on to Hills!</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="body-copy">
+                <div class="row">
+                    <div class="column small-12">
+                        <h4>Mid-fidelity designs</h4>
+                        <p>These are the mid-fidelity designs the design team created and delivered as agreed on with our stakeholders. After we showed these to stakeholders, we waited for marketing copy and a timeline for design implementation. From there we moved on to planning the next release.</p>
+                        <p><b><small>(Scroll down through this presentation to get a better view of the design files we showed.)</small></b></p>
+                        <iframe src="//www.slideshare.net/slideshow/embed_code/key/gPi6HEi5aUFAqx" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
