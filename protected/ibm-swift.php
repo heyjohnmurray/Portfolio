@@ -32,7 +32,12 @@
                         
                         <p>Most of my team's time on this project was spent getting alignment from our stakeholders on the product's mission and intent. With five assets to manage, you can imagine we had our work cut out for us. We set up a hills workshop to achieve the needed alignment from our cross-functional and distributed team of stakeholders.</p>
                         <p>The workshop itself was a success and took a lot of planning on my part. After we finished the workshop, <a href="#swift-hills-workshop">we wrote the article below</a>, and I think it gives you insight into what it was like running a workshop with a new design team and a new team of stakeholders.</p>
-                        
+
+                        <h4>Need help seeing the big picture?</h4>
+                        <p>This page has a lot of detailed content about our strategic process because there were a number of challenges we needed to address before we could even begin to talk about what designs needed to be produced. <a href="#swift-playback-zero">Read the Playback Zero deck</a> if you want a condensed summary of everything my team and me did on this project.</p>
+
+                        <hr>
+
                         <div class="row">
                             <div class="column small-12 medium-6">
                                 <h4>Project milestones</h4>
@@ -86,12 +91,13 @@
                 </div>
             </div>
 
-            <div class="body-copy">
+            <div class="body-copy" id="swift-playback-zero">
                 <div class="row">
                     <div class="column small-12">
                         <h4>Playback Zero</h4>
                         <h5>Last stop before the train leaves the station</h5>
                         <p>I presented this deck to our stakeholders as part of a deliverable before designs were handed over and implementation began for Q4 2016. In it, we showed the outcomes from our research. We shared the personas we'd developed from our extensive user research. We reviewed evaluative research and shared user's feedback about the current state of the product. We also shared the hills, or mission statements, that the whole product team agreed to deliver on for Q4 during our hills workshop. Finally, we shared mid-fidelity design work for stakeholder approval.</p>
+                        <p>Simply put, this presentation wrapped up the the challenges we saw and the solutions we proposed into one tidy package.</p>
                         <iframe src="//www.slideshare.net/slideshow/embed_code/key/HbmBIFFKcUaz2d" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
                     </div>
                 </div>
