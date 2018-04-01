@@ -9,16 +9,7 @@
 				<div class="headline"><span>IBM</span> VMware</div>
 
 				<p>Moving your existing data center to the cloud doesn’t have to take up so much time and effort. IBM Cloud for VMware Solutions lets you deploy a comprehensive portfolio of automated and on-demand services for VMware workloads to the cloud, faster than ever before. And by capturing your data center infrastructure as patterns, you have a seamless path to bring your data center to the IBM Cloud without converting virtual machines or changing existing tools and skill sets.</p>
-				
-				<ul class="list inline-list has-row-colors">	
-					<li>Design Leadership</li>
-					<li>UX Strategy</li>
-					<li>Design Ops</li>
-					<li>Collaborative Product Strategy</li>
-					<li>Release Planning</li>
-					<li>Prototyping</li>
-					<li>User Testing</li>
-				</ul>
+				<p><a href="/protected/ibm-vmware.php" class="button is-primary">View this project!</a></p>
 			</div>
 			<!-- /.sidebar-copy -->
 

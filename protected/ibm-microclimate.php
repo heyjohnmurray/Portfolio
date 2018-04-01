@@ -8,7 +8,7 @@
 
 				<div class="headline"><span>IBM</span> Microclimate</div>
 				
-				<p>XXXPROTECTED WORK CONTENTXXXX</p>
+				<h5>Skills &amp; roles for this product</h5>
 
 				<ul class="list inline-list has-row-colors">
 					<li>Design Leadership</li>

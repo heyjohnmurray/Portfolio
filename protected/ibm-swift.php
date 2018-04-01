@@ -6,9 +6,18 @@
 			<div class="sidebar-copy">
 				<? include('../assets/includes/nav/nav-secondary-mobile.php') ?>
 
-				<div class="headline"><span>IBM</span> Swift</div>
+                <div class="headline"><span>IBM</span> Swift</div>
 				
-				<p>XXXX</p>
+                <h5>Skills &amp; roles for this product</h5>
+                <ul class="list inline-list has-row-colors">
+                    <li>Design Leadership</li>
+                    <li>Design Thinking Methods &amp; Practices</li>
+                    <li>UX Strategy</li>
+                    <li>Collaborative Product Strategy</li>
+                    <li>Release Planning</li>
+                    <li>Prototyping</li>
+                    <li>User Testing</li>
+                </ul>
 			</div>
 			<!-- /.sidebar-copy -->
 
@@ -22,9 +31,11 @@
 					<div class="column small-12">
                     <h2>Design Thinking at IBM</h2>
                     <h4>Swift Product Team Hills Workshop</h4>
+                    <p>Most of my team's time on this project was spent getting alignment from our stakeholders on the product's mission and intent. With five assets to manage, you can imagine we had our work cut out for us. We set up a hills workshop to achieve the needed alignment from our cross-functional and distributed team of stakeholders.</p>
+                    <p>The workshop itself was a success and took a lot of planning on my part. After we finished the workshop, we wrote the article below, and I think it gives you insight into what it was like running a workshop with a new design team and a new team of stakeholders.</p>
                     <img src="../assets/images/design-thinking/swift-workshop-team-photo-wide.jpg" alt="">
                     <hr>
-                    <p><small>Originally written by Peter Perceval, IBM Swift Team Senior Visual Designer and <br/>Eric Morrow, design thinking facilitator, and posted on the IBM Hybrid Cloud Design blog.</small></p>
+                    <p><small><i>The following account was originally written by our visual designer,Peter, and Eric, our workshop facilitator, and posted on the IBM Hybrid Cloud Design blog.</small></i></p>
                     <p>I was hired as an industry hire on July 11th 2016. A week later I would be deployed to a team that was still in the process of being created. A week after that we were officially the new design team for a brand new Hallmark project: Swift @ IBM.</p>
                     <p>Our team was composed of three individuals: myself (Peter Perceval) and Clay Crenshaw, both brand new to IBM as industry hires, and our fearless team lead John Murray, who was coming from Bluemix and being deployed to Cloud Integration Design to lead his first team into uncharted territory. Charles, our researcher, joined a few weeks later.&nbsp; I wasn’t sure exactly how we were going to navigate this ship or what my exact role and contributions would be, but one thing I knew from the beginning was that in 2 months we were supposed to have a workshop with our stakeholders and come out of it with Hills.</p>
                     <p>It would be a vast understatement to say this was a daunting, intimidating and nebulous task. We had to meet everyone involved in the five product offerings of Swift, learn the ins and outs of the offerings and the language, produce designs, and then also come up with a workshop to produce actionable hills for a high visibility project that is the linchpin to Apple and IBM’s relationship. While I may have been uncertain of many things, there was one thing I had faith in: the principles of design thinking. But how do I ensure that our stakeholders gain value from design thinking and not just see it as a waste of time?</p>

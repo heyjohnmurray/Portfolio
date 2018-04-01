@@ -7,9 +7,7 @@
 				<? include('assets/includes/nav/nav-secondary-mobile.php') ?>
 
 				<div class="headline"><span>IBM</span> Microclimate</div>
-				
 				<p>Microclimate is an end to end development environment that lets you rapidly create, edit, and deploy applications. Applications are run in containers from day one and can be delivered into production on Kubernetes through an automated DevOps pipeline using Jenkins. Microclimate can be installed locally or on IBM Cloud Private.</p>
-
 				<p><a href="/protected/ibm-microclimate.php" class="button is-primary">View this project!</a></p>
 			</div>
 			<!-- /.sidebar-copy -->
