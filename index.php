@@ -339,7 +339,7 @@
 						<div class="row">
 							<div class="column small-12">
 								<blockquote class="curly-quotes">John is the quintessential team player, always looking to do whatever the team needs, pushing others to do better, and pushing himself above all to be the best he can be. Hard working, loyal, and dedicated, he sets goals, keeps his eye on the ball, and adapts as needed to get himself and his team across the finish line. He has been one of my favorite people to work with and mentor in my career and I would be excited to have him as a teammate on any project I am working on.</blockquote>
-								<figcaption class="quote-by">— James Huston, mentor and former colleague and Director of Platform Engineering at Red Ventures</figcaption>
+								<figcaption class="quote-by">— James Huston, mentor, former colleague, and Director of Platform Engineering at Red Ventures</figcaption>
 							</div>
 						</div>
 						<!-- /.row -->

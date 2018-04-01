@@ -36,9 +36,21 @@ nav {
 		color: $color-primary-dark;
 		display: block;
 		font-family: "black";
-		font-size: 50px;
+		font-size: 40px;
 		text-decoration: none;
 		text-transform: uppercase;
+
+		@media #{$medium-up} {
+			font-size: 50px;
+		}
+
+		@media only screen and (min-width:1025px) and (max-width:#{upper-bound($xlarge-range)}) {
+			// font-size: 40px;
+		}
+
+		@media #{$xlarge-up} {
+			font-size: 50px;
+		}
 	}
 
 	.nav-close {
@@ -76,7 +88,7 @@ nav {
 
 		@media #{$large-up} {
 			left: -23%;
-			top: -70px;
+			top: -150px;
 		}
 
 		&.logo-fade {

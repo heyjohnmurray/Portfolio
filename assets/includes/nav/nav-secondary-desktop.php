@@ -112,7 +112,7 @@
 		<!-- /.column -->	
 	<? } ?>
 	<? if(stristr($_SERVER['REQUEST_URI'], "/design-thinking.php")) { ?>
-		<div class="column medium-3 mobile-link">
+		<div class="column medium-4 mobile-link">
 			<a href="/design-leadership.php">
 				<i class="icon-left-open"></i> Design Leadership
 			</a>
@@ -126,7 +126,7 @@
 		<!-- /.column -->	
 	<? } ?>
 	<? if(stristr($_SERVER['REQUEST_URI'], "/design-mentorship.php")) { ?>
-		<div class="column medium-3 mobile-link">
+		<div class="column medium-4 mobile-link">
 			<a href="/design-thinking.php">
 				<i class="icon-left-open"></i> Design Thinking
 			</a>
