@@ -1760,6 +1760,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/as-is-scenario-gap.png": {
+		"ft": 32768,
+		"iS": 111179,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/as-is-scenario-gap.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/as-is-scenario.png": {
+		"ft": 32768,
+		"iS": 188156,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/as-is-scenario.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/early-strategy-insights1.png": {
 		"ft": 32768,
 		"iS": 295855,
@@ -1793,6 +1815,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/github-design-brief.png": {
+		"ft": 32768,
+		"iS": 288937,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/github-design-brief.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/knowledge-gathering.png": {
 		"ft": 32768,
 		"iS": 429127,
@@ -1815,6 +1848,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/microclimate-end-to-end-scenario.png": {
+		"ft": 32768,
+		"iS": 5609532,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/microclimate-end-to-end-scenario.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/questions-and-assumptions.png": {
 		"ft": 32768,
 		"iS": 238405,
@@ -1823,6 +1867,257 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/ux-playback-process.png": {
+		"ft": 32768,
+		"iS": 183353,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/ux-playback-process.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/ux-process.jpeg": {
+		"ft": 16384,
+		"iS": 278184,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/ux-process.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/ux-process.jpg": {
+		"ft": 16384,
+		"iS": 449776,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/ux-process.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/confirmation.png": {
+		"ft": 32768,
+		"iS": 253473,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/confirmation.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Create confimration Copy.png": {
+		"ft": 32768,
+		"iS": 263586,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Create confimration Copy.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/menu-closed.png": {
+		"ft": 32768,
+		"iS": 242143,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/menu-closed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Name-project-node.png": {
+		"ft": 32768,
+		"iS": 81843,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Name-project-node.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Name-project-Swift.png": {
+		"ft": 32768,
+		"iS": 82130,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Name-project-Swift.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Name-project.png": {
+		"ft": 32768,
+		"iS": 81946,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Name-project.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/project-application.png": {
+		"ft": 32768,
+		"iS": 261614,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/project-application.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/project-editor.png": {
+		"ft": 32768,
+		"iS": 331998,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/project-editor.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Projects-Default-View.png": {
+		"ft": 32768,
+		"iS": 100898,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Projects-Default-View.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Projects-project-Delete.png": {
+		"ft": 32768,
+		"iS": 95453,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Projects-project-Delete.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Projects-project-selected.png": {
+		"ft": 32768,
+		"iS": 106493,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Projects-project-selected.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Select Language Copy.png": {
+		"ft": 32768,
+		"iS": 108517,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Select Language Copy.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Select Language Node.png": {
+		"ft": 32768,
+		"iS": 108165,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Select Language Node.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Select Language Swift.png": {
+		"ft": 32768,
+		"iS": 108165,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Select Language Swift.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Select-framework.png": {
+		"ft": 32768,
+		"iS": 114140,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Select-framework.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/select-language.png": {
+		"ft": 32768,
+		"iS": 108125,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/select-language.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Select-services-Node.png": {
+		"ft": 32768,
+		"iS": 139139,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Select-services-Node.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Select-Swagger-Node.png": {
+		"ft": 32768,
+		"iS": 211820,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Select-Swagger-Node.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Selected-Service-Node.png": {
+		"ft": 32768,
+		"iS": 150541,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/Selected-Service-Node.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/welcome-get-started.png": {
+		"ft": 32768,
+		"iS": 1265394,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/beta\/welcome-get-started.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
