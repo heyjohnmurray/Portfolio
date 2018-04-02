@@ -210,7 +210,15 @@
 			<div class="callout">
 				<div class="row">
 					<div class="column small-12">
-					<h4>GA Release - March 30, 2018</h4>
+						<h4>GA Release - March 30, 2018</h4>
+						<p>As we were releasing our beta in January, we began planning for our Q1 deliverable. The emphasis for this release was on having a compelling story that we could demo on stage at THINK in March. This meant we had to be done with designs by mid-February. That didn't leave us a lot of wiggle room to do UX and visuals, but we got everything done in time and had a successful release.</p>
+
+						<h5>Determining the scope for Q1</h5>
+						<p>I was really involved as deeply in the beta release discussion as I'd like&mdash;part of being in a development-led organization, unfortunately. So when it came time to plan the next release I was determined to make things better. Design needed to have a stronger voice in shaping the product and the experience.</p>
+
+						<h5>Product team pivots</h5>
+						<p>Between beta and Q1 our leadership team had to make the difficult decision to make a more concerted effort to make our product look more closely integrated into the IBM Cloud Platform portfolio. Originally, we were supposed to be more ambitious and have an non-branded look and feel&mdash;"un-IBM", if you will. This pivot forced us to take a step back visually and adopt the <a href="http://carbondesignsystem.com/">Carbon Design System</a>. While it was frustrating to have to redo our visual design aesthetic for the next release, adopting a component library helped us speed up some of our design process. We weren't having to make UI elements from scratch and our developer was able to pull from the Carbon codebase and deliver into production much faster. It also neutralized the "design-by-committee" problem that we had going on in during the beta release.</p>
+						
 						[show GA screens]
 						[discuss q1 planning and use of story mapping]
 						[list feature objectives: import, pipeline]
