@@ -68,8 +68,8 @@
 						<ol class="list">
 							<li>Get alignment from stakeholders on the team's mission</li>
 							<li>Gather technical domain knowledge and onboard my designers</li>
+							<li>Identify a user persona and begin validating who the intended user was</li>
 							<li>Work with product management to define an ad hoc product roadmap</li>
-							<li>Identify a user persona and begin validating our team's assumptions about who the intended user was</li>
 						</ol>
 					</div>
 				</div>

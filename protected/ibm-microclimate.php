@@ -59,7 +59,7 @@
 						<ol class="list">
 							<li>Get alignment from stakeholders on the team's mission</li>
 							<li>Gather technical domain knowledge and onboard my designers</li>
-							<li>Identify a user persona and begin validating our team's assumptions about who the intended user was</li>
+							<li>Identify a user persona and begin validating who the intended user was</li>
 							<li>Work with product management to define an ad hoc product roadmap</li>
 						</ol>
 						
@@ -75,6 +75,12 @@
 						</ul>
 
 						<p>After the initial meeting, I set up similar meetings with key members of our tribe leadership to ask them the same questions. Then, I circled back around to our executive sponsor and shared my impressions of what I heard so that he can clarify things for me and also tell me when someone was right or wrong. I've found that the sooner you can identify inconsistent perceptions among stakeholders the better.</p>
+						<p>By meeting with stakeholders and documenting the discussion we were able to develop a three-pronged mission for our product team:</p>
+						<ol class="list">
+							<li>Create a tool or set of tools that developers that was valuable to developers</li>
+							<li>Use that product to generate interest in the IBM Cloud Platform at large</li>
+							<li>Nurture and maintain that interest by ramping up developer advocacy</li>
+						</ol>
 						
 						<hr>
 
@@ -170,15 +176,6 @@
 
 
 
-						<h5>Defining the tribe's mission</h5>
-						<p>[intro paragraph about balancing the strategic and the tactical]</p>
-
-						<p>In the end we worked together to develop a three-pronged mission:</p>
-						<ol>
-							<li>Create a tool or set of tools that developers that was valuable to developers</li>
-							<li>Use that product to generate interest in the IBM Cloud Platform at large</li>
-							<li>Nurture and maintain that interest by ramping up developer advocacy</li>
-						</ol>
 						
 						
 						[reference the initial kickoff deck]
