@@ -66,6 +66,7 @@
 						<p>While we waited for all of the development resources to be allocated, the design team needed to hit the ground running.</p>
 						<p>I specifically needed to:</p>
 						<ol class="list">
+							<li>Get alignment from stakeholders on the team's mission</li>
 							<li>Gather technical domain knowledge and onboard my designers</li>
 							<li>Work with product management to define an ad hoc product roadmap</li>
 							<li>Identify a user persona and begin validating our team's assumptions about who the intended user was</li>

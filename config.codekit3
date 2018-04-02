@@ -1760,6 +1760,39 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/knowledge-gathering.png": {
+		"ft": 32768,
+		"iS": 429127,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/knowledge-gathering.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/knowledge-gathering2.png": {
+		"ft": 32768,
+		"iS": 758131,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/knowledge-gathering2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/questions-and-assumptions.png": {
+		"ft": 32768,
+		"iS": 238405,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/questions-and-assumptions.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/images\/screenshots\/ibm-microclimate\/project-headshots\/default.jpg": {
 		"ft": 16384,
 		"iS": 58864,
@@ -3371,6 +3404,33 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/assets\/js\/project.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/project-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/project.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/project.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/project.min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/js\/project.min.js.map",
+		"oF": 0
 		},
 	"\/assets\/scss\/globals\/foundation.scss": {
 		"aP": 0,
