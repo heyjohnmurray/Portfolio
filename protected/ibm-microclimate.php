@@ -218,11 +218,21 @@
 
 						<h5>Product team pivots</h5>
 						<p>Between beta and Q1 our leadership team had to make the difficult decision to make a more concerted effort to make our product look more closely integrated into the IBM Cloud Platform portfolio. Originally, we were supposed to be more ambitious and have an non-branded look and feel&mdash;"un-IBM", if you will. This pivot forced us to take a step back visually and adopt the <a href="http://carbondesignsystem.com/">Carbon Design System</a>. While it was frustrating to have to redo our visual design aesthetic for the next release, adopting a component library helped us speed up some of our design process. We weren't having to make UI elements from scratch and our developer was able to pull from the Carbon codebase and deliver into production much faster. It also neutralized the "design-by-committee" problem that we had going on in during the beta release.</p>
+						<small>Beta welcome screen</small>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/project-headshots/beta/welcome-get-started.png" alt=""></p>
 						
+						<small>GA welcome screen</small>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/project-headshots/beta/welcome-get-started-ga.png" alt=""></p>
+						
+						<p>As you can see from just those two images alone, we had to go in a totally different direction between beta and GA in terms of our visual design.</p>
+
+						<!-- <hr>
+						<h5>Key Features: Import a project &amp; DevOps Pipeline</h5>
+
 						[show GA screens]
 						[discuss q1 planning and use of story mapping]
 						[list feature objectives: import, pipeline]
-						[formal review - not-detailed]
+						[formal review - not-detailed] -->
 					</div>
 				</div>
 			</div>
