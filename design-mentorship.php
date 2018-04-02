@@ -58,13 +58,13 @@
 						<noscript><img src="assets/images/screenshots/slack/ux-mentorship-response.png"></noscript>
 						<hr>
 						<div class="row">
-							<div class="column small-6">
+							<div class="column small-12 large-6">
 								<p>During our first conversation I found out that she was an aspiring UX designer working in one of IBM's offices in Brazil. She told me she was interested in breaking into the industry professionally but didn't really know where to start. She'd read some books, taken some introductory classes, but she wanted a mentor who could help push her in the right direction.</p>
 								<p>As soon as she said she was inexperienced and looking to get started I thought back to when I was first started out. I recognized her curiosity and ambition, and I knew I wanted to help.</p>
 								<p>Over the course of the next six months I coached her in the principles of UX and we established a consistent meeting time.</p>
 								<p>She would show me her recent design projects. I'd provide feedback and give her clues as to potential next steps and we'd set a time to meet again. By the end of the six months she was taking on side projects from development teams in her office that didn't have design resources and growing into a solid junior designer in her own right.</p>
 							</div>
-							<div class="column small-6">
+							<div class="column small-12 large-6">
 								<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who&#39;d have ever thought when I started out as a young designer that I&#39;d get to mentor young designers in Brazil? <a href="https://t.co/H8v9SI2gXX">pic.twitter.com/H8v9SI2gXX</a></p>&mdash; John Murray (@heyjohnmurray) <a href="https://twitter.com/heyjohnmurray/status/876239169617612800?ref_src=twsrc%5Etfw">June 18, 2017</a></blockquote>
 							</div>
 						</div>

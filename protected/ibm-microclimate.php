@@ -215,6 +215,7 @@
 
 						<h5>Determining the scope for Q1</h5>
 						<p>I was really involved as deeply in the beta release discussion as I'd like&mdash;part of being in a development-led organization, unfortunately. So when it came time to plan the next release I was determined to make things better. Design needed to have a stronger voice in shaping the product and the experience.</p>
+						<p>In the lead up to the session I met with our product manager and explained that diong a user story mapping activity could help us.</p>
 
 						<h5>Product team pivots</h5>
 						<p>Between beta and Q1 our leadership team had to make the difficult decision to make a more concerted effort to make our product look more closely integrated into the IBM Cloud Platform portfolio. Originally, we were supposed to be more ambitious and have an non-branded look and feel&mdash;"un-IBM", if you will. This pivot forced us to take a step back visually and adopt the <a href="http://carbondesignsystem.com/">Carbon Design System</a>. While it was frustrating to have to redo our visual design aesthetic for the next release, adopting a component library helped us speed up some of our design process. We weren't having to make UI elements from scratch and our developer was able to pull from the Carbon codebase and deliver into production much faster. It also neutralized the "design-by-committee" problem that we had going on in during the beta release.</p>
@@ -271,8 +272,6 @@
 						
 						<h5>You have to avoiding an "us vs. them" mentality</h5>
 						<p>It's all too easy to have an "us vs. them" mentality when you're dealing with team members on a multi-disciplinary product team. I've seen that type of negativity sink design's credibility all too often. I was so inspired by the idea that I <a href="https://www.youtube.com/watch?v=L2ZEp2wuH_o">wrote and gave a talk about it</a> at the UX Design Summit in San Francisco in March 2018.</p>
-
-						<hr>
 					</div>
 				</div>
 			</div>			
