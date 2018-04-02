@@ -24,8 +24,6 @@
 			<? include('../assets/includes/nav/nav-primary.php') ?>
 		</aside>
 		<div class="content align-right">
-			<!-- <img class="js-delay-load" data-src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-lazy="[../assets/images/screenshots/ibm-microclimate/project-headshots/small.jpg, (small)],[../assets/images/screenshots/ibm-microclimate/project-headshots/medium.jpg, (medium)],[../assets/images/screenshots/ibm-microclimate/project-headshots/large.jpg, (large-only)],[../assets/images/screenshots/ibm-microclimate/project-headshots/xlarge.jpg, (xlarge-only)]">
-			<noscript><img src="../assets/images/screenshots/hi-redesign/project-headshots/default.jpg"></noscript> -->
 			<div class="body-copy">
 				<div class="row">
 					<div class="column small-12">
@@ -33,6 +31,8 @@
 						
 						<h4>The Mission</h4>
 						[reference the initial kickoff deck]
+						<p>After a few weeks of user research, stakeholder interviews, and competitive landscape analysis; we presented our findings to our leadership team as a way to reiterate and validate what we felt were the objectives so that we could move forward.</p>
+						<p>Based on the generative research we showed in that presentation, our leadership team agreed on a three-pronged mission. With the mission defined, we began to chart our course.</p>
 
 						<p>As you read on the <a href="/ibm-microclimate.php">previous page</a> my team's first </p>
 
