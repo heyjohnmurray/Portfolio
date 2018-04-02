@@ -78,7 +78,7 @@
 						<!-- /.cover -->
 					</a>
 				</li>
-				<li>
+				<!-- Removing VMWARE for now <li>
 					<a href="ibm-vmware.php" class="product-vmware">
 						<div class="title">
 							<b>IBM</b>
@@ -86,7 +86,6 @@
 
 							<div class="button margin is-primary hide-for-large-up">Touch for project details</div>
 						</div>
-						<!-- /.title -->
 						<div class="cover">
 							<b>Click for project details</b>
 							<div class="row">
@@ -101,13 +100,10 @@
 										<li>User Testing</li>
 									</ul>
 								</div>
-								<!-- /.column -->
 							</div>
-							<!-- /.row -->
 						</div>
-						<!-- /.cover -->
 					</a>
-				</li>
+				</li> -->
 				<li>
 					<a href="ibm-swift.php" class="product-swift">
 						<div class="title">

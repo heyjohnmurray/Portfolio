@@ -59,9 +59,11 @@
 						<ol class="list">
 							<li>Get alignment from stakeholders on the team's mission</li>
 							<li>Gather technical domain knowledge and onboard my designers</li>
-							<li>Work with product management to define an ad hoc product roadmap</li>
 							<li>Identify a user persona and begin validating our team's assumptions about who the intended user was</li>
+							<li>Work with product management to define an ad hoc product roadmap</li>
 						</ol>
+						
+						<hr>
 
 						<h5>Aligning on and defining our mission</h5>
 						<p>With any new project I lead, I look for consistency and guidance from the leadership around me. I usually look for a "visionary" or "source of truth", someone who I think has the clearest understanding of the overall objective and the direction things should be heading. In this case, it was my executive sponsor. I met with him and asked him questions including:</p>
@@ -73,6 +75,8 @@
 						</ul>
 
 						<p>After the initial meeting, I set up similar meetings with key members of our tribe leadership to ask them the same questions. Then, I circled back around to our executive sponsor and shared my impressions of what I heard so that he can clarify things for me and also tell me when someone was right or wrong. I've found that the sooner you can identify inconsistent perceptions among stakeholders the better.</p>
+						
+						<hr>
 
 						<h5>Hitting the books</h5>
 						<p>As the design lead I feel I need to know the most about the product so that I can answer any questions my team may have. Because our product requires a strong technical background I read everything I could about the following:</p>
@@ -96,17 +100,76 @@
 								</ul>
 							</div>
 						</div>
+					
+						<hr>
 
+						<h5>Onboarding and level-setting as a team</h5>
 						<p>After I read everything I could get my hands on I set up daily knowledge sharing meetings with my design team to explain what I'd learned and to assign them a topic to go out and do further investigation on to share with the group.</p>
 						<p>Despite our constant knowledge sharing, some folks were still struggling to make heads or tails of the rather dense subject matter. Understandable, so I created a document diagraming everything I knew and walked them through it.</p>
+						<p>One of the hardest parts about being a leader in these situations is sharing what you know at the same rate at which you're learning it. To help me with that I also diagrammed the ongoing business strategy and a 30/60/90 outlook for the design team so they didn't feel out-of-the-loop.</p>
 						
 						<p><img src="/assets/images/screenshots/ibm-microclimate/process/knowledge-gathering.png" alt=""></p>
 						<p><img src="/assets/images/screenshots/ibm-microclimate/process/knowledge-gathering2.png" alt=""></p>
 						
 						<p>As we were learning about the domain and meeting with stakeholders, I wanted to be open with my team about what we knew, what we didn't know, and what we were afraid to ask.</p>
-						<img src="/assets/images/screenshots/ibm-microclimate/process/questions-and-assumptions.png" alt="">
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/questions-and-assumptions.png" alt=""></p>
+
+						<small><i>At the time the product only had a working name, Microclimate, so I was just calling it "TBD Offering".</i></small>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/early-strategy-insights1.png" alt=""></p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/early-strategy-insights3.png" alt=""></p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/early-strategy-insights2.png" alt=""></p>
 						
+						<hr>
+
+						<h5>Defining the user</h5>
+						<p>While I was learning and sharing with my team, I worked with our researcher to do some initial surveys and developer interviews.</p>
 						
+						<p>We asked questions a number of questions including:</p>
+						<ul class="list">
+							<li>How do developers discover, try and buy new tooling?</li>
+							<li>What traits did they value most when evaluating new tooling?</li>
+							<li>Where does IBM stand in the developer community?</li>
+							<li>Are developers brand loyal to any single cloud platform?</li></li>
+						</ul>
+
+						<p>Here's a summary of those early research findings.</p>
+						<iframe src="//www.slideshare.net/slideshow/embed_code/key/pvsKgcoHFZF8iC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+
+						<p>While we were doing surveys and interviews, we looked at personas we may have inherited with the three products that were merging to form our new product team. Microservice Builder had a couple of personas, and after some discussions with our stakeholders settled on Rohan, the devops developer.</p>
+						<p>We chose Rohan because he was validated by previous researchers on our design org and because he matched the non-traditional IBM customer our stakeholders had in mind.</p>
+
+						<h5>Rohan, the devops developer</h5>
+						<small>Summary</small>
+						<p>Rohan works in a smaller company in a medium size city. His role as a developer requires him to wear many hats managing both the customer facing applications and operations for the company. His skills are similar to Maureen (Developer) but their differing work environments and team structure means they have unique needs.</p>
+
+						<small>Goals</small>
+						<ul class="list">
+							<li>Create, deploy and manage applications and microservices</li>
+							<li>Find affordable tools and services to simplify his operations workflow</li>
+						</ul>
+
+						<small>Behaviors</small>
+						<ul class="list">
+							<li>Actively participates in local professional groups and meetups</li>
+							<li>Brings his work home with him</li>
+						</ul>
+
+						<small>Beliefs</small>
+						<ul class="list">
+							<li>He'd rather pay for a service to maintain an app so he can focus on the app</li>
+							<li>Open source is great</li>
+						</ul>
+
+						<small>Needs</small>
+						<ul class="list">
+							<li>To find affordable tools and services to simplify his operations workflow</li>
+							<li>Guidance for cloud native best practices</li>
+						</ul>
+
+						<hr>
+
+
+
 						<h5>Defining the tribe's mission</h5>
 						<p>[intro paragraph about balancing the strategic and the tactical]</p>
 
@@ -126,22 +189,13 @@
 				</div>
 			</div>
 
-			
 
-			
-
-			<h5>Establishing the design team's mandate and intent</h5>
-			<p>As a traditionally developer-led organization, IBM Design has been given an emphatic mandate to change the developer-as-the-end-user culture that has consumed the company and hindered its progress. This was the first time that we had the leadership for design, product management, and development all in the same room. To be totally honest, my VP of design and I went into the meeting knowing we had to play a little bit of good cop/bad cop. So you'll see slides essentially saying: "here's what we're here to do and this isn't business as usual where you can put unfair expectations on the design team without considering them in the product strategy.</p>
 
 			<h5>Strategic work</h5>
 			[key stakeholder/executive as source of truth]
 			[early stakeholder interviews to gauge alignment]
 			[developer surveys and interviewee recruiting]
 			[playback information at all-hands kickoff]
-			
-			<!-- <h5>Tactical work</h5>
-			[gaining domain knowledge]
-			[sharing domain knowledge with team] -->
 			
 			<h4>Beta Release - January 15, 2018</h4>
 			[show peter screens]

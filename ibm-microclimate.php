@@ -8,7 +8,7 @@
 
 				<div class="headline"><span>IBM</span> Microclimate</div>
 				<p>Microclimate is an end to end development environment that lets you rapidly create, edit, and deploy applications. Applications are run in containers from day one and can be delivered into production on Kubernetes through an automated DevOps pipeline using Jenkins. Microclimate can be installed locally or on IBM Cloud Private.</p>
-				<p><a href="/protected/ibm-microclimate.php" class="button is-primary">View this project!</a></p>
+				<p><a href="/protected/ibm-microclimate.php" class="button is-primary">Read the case study!</a></p>
 			</div>
 			<!-- /.sidebar-copy -->
 
@@ -79,7 +79,7 @@
 				<div class="row">
 					<div class="column small-12">
 						<h4>The Process</h4>
-						<p>Like any product that is in production and going through iterative improvements, I can't openly share the details of our UX process or show in-flight design work. If you'd like to see more detail then email me, and I'll grant you access. If you already have login information then click "View this project!" in the sidebar to login.</p>
+						<p>Like any product that is in production and going through iterative improvements, I can't openly share the details of our UX process or show in-flight design work. If you'd like to see more detail then email me, and I'll grant you access. If you already have login information then click "Read the case study!" in the sidebar to login.</p>
 					</div>
 				</div>
 			</div>

@@ -1760,6 +1760,39 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/early-strategy-insights1.png": {
+		"ft": 32768,
+		"iS": 295855,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/early-strategy-insights1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/early-strategy-insights2.png": {
+		"ft": 32768,
+		"iS": 391052,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/early-strategy-insights2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/early-strategy-insights3.png": {
+		"ft": 32768,
+		"iS": 91597,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/early-strategy-insights3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/knowledge-gathering.png": {
 		"ft": 32768,
 		"iS": 429127,
@@ -1777,8 +1810,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/knowledge-gathering2.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},

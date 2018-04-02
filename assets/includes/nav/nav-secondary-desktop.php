@@ -7,7 +7,7 @@
 			</a>
 		</div>
 		<div class="column medium-4 mobile-link">
-			<a href="ibm-vmware.php">
+			<a href="ibm-swift.php"> <!-- put in vmware when it's done -->
 				<i class="icon-briefcase"></i> Next Project
 			</a>
 		</div>
