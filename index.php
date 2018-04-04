@@ -326,10 +326,10 @@
 						</div>
 						<div class="row">
 							<div class="column small-12">
-								<p>I've been in the industry since 2007 and taught myself design and front end development back before code camps and Google Chrome were a thing &mdash; back when we all had the title “web designer”. You can tell by my resume below that I've worked my way up through the ranks over the years. Nowadays, I spend my time leading and mentoring designers of all ages and abilities.</p>
-								<p>In my design leadership role I working directly with product managers, development managers, executives to create product roadmaps and strategy while also coaching and directing my design team and communicating the vision need to guide them deliver excellent user experiences that our customers and our VP of design expect.</p>
-								<p>Being in design leadership puts me right where I want to be. I’m at the intersection of product design, product strategy, and product management, and I get the opportunity to mentor folks along the way.</p> 
-								<p>When I’m not leading my product team, I’m leading design thinking workshops either through IBM or my local AIGA chapter. I've led workshops of all types and sizes, from Intro to Design Thinking through remote product team sessions with folks spread all around the world.</p>
+								<p>I've been in the industry since 2007 and taught myself design and front end development back before code camps and Google Chrome were a thing &mdash; back when we all had the title “web designer”. Nowadays, I spend my time leading and mentoring designers of all ages and abilities.</p>
+								<p>As a design leader I work directly with product leadership at every level: product managers, development managers, and c-suite executives. I build and manage those relationships and work with leadership to strategize and drive the product roadmap. I work with my design teams to deliver excellent user experiences for our users and to advocate for the user at ever stage of the process.</p>
+								<p>Being in design leatdership puts me right where I want to be. I'm at the intersection of product design, product strategy, and product management, and I get the opportunity to mentor folks along the way.</p> 
+								<p>When I'm not leading my product team, I'm planning and facilitating design thinking workshops either through IBM or my local AIGA chapter. I've led workshops of all types and sizes, from Intro to Design Thinking to remote product team sessions with folks spread all around the world.</p>
 							</div>
 						</div>
 						<div class="row">
