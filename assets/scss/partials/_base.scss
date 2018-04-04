@@ -31,6 +31,13 @@ body {
 	}
 }
 
+a.button {
+	&:hover {
+		border-bottom: none;
+	}
+}
+
+
 .content {
 	.banner {
 		margin-bottom: 20px;
