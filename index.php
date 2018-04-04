@@ -408,17 +408,17 @@
 								<div class="row">
 									<div class="column small-12 large-5">
 										<h4>Design Lead</h4>
-										<p>Red Ventures Telco Vertical<br /> Feb 2014 - July 2015</p>
+										<p>Red Ventures, Telco Vertical<br /> Feb 2014 - July 2015</p>
 									</div>
 									<div class="column small-12 large-7">
-										<p>I ran the customer experience design team that worked on AT&amp;T marketing and direct response assets. In this role, I guided the team to deliver work in bi-weekly sprints; design, developed and delivered projects of my own; and managed the career development of all the designers on my team and was responsible for mentoring them and helping them move up in the organization to become senior-level designers. I worked directly with our customer experience analysts to define the strategic initiatives that would ensure success for the clients we had.</p>
+										<p>I ran the customer experience design team that worked on AT&amp;T marketing and direct response assets. In this role, I guided the team to deliver work in bi-weekly sprints; designed, developed and delivered projects of my own; and managed the career development of all the designers on my team and was responsible for mentoring them and helping them move up in the organization to become senior-level designers. I worked directly with our customer experience analysts to define the strategic initiatives that would ensure success for the clients we had.</p>
 									</div>
 								</div>
 								<hr />
 								<div class="row">
 									<div class="column small-12 large-5">
 										<h4>Senior UX Designer &amp; Design Lead</h4>
-										<p>Red Ventures Insurance Vertical<br /> Oct 2013 - Jan 2014</p>
+										<p>Red Ventures, Insurance Vertical<br /> Oct 2013 - Jan 2014</p>
 									</div>
 									<div class="column small-12 large-7">
 										<p>As both a senior UX designer and a design lead I managed all the designers and front end developers that worked in my companys' insurance vertical. With client relationships like Safeco, The Hartford, Travelers, and Liberty Mutual, it was my job to ensure that designers were not only staying on-brand but were creating direct response webistes and landing pages that got measurable results during A/B testing.</p>
@@ -428,7 +428,7 @@
 								<div class="row">
 									<div class="column small-12 large-5">
 										<h4>Mid-level UX Designer</h4>
-										<p>Red Ventures Insurance Vertical<br /> April 2012 - Sep 2013</p>
+										<p>Red Ventures, Insurance Vertical<br /> April 2012 - Sep 2013</p>
 									</div>
 									<div class="column small-12 large-7">
 										<p>As a UX designer working on the insurance vertical I created direct response websites that met specific KPIs. Through a sprint-based design and development schedule, I consistently delivered engaging, high-quality work with little direction from my design lead. I worked directly with our customer experience analysts to define and iterate a direct response marking strategy.</p>
