@@ -364,7 +364,12 @@
 										<p>Hybrid Cloud Developer Experience <br/>Aug 2017 – Present</p>
 									</div>
 									<div class="column small-12 large-7">
-										<p>The Developer Experience team has a number of missions, including demonstrating the value of IBM's products to existing customer's developers. Explore and capture new developer market segments and drive them to adopt IBM runtimes.</p>
+										<p>The Developer Experience team has a number of missions:</p>
+										<ul class="list">
+											<li>demonstrating the value of IBM's products to existing customer's developers</li>
+											<li>explore and capture new developer market segments</li>
+											<li>drive them to adopt IBM runtime environments</li>
+										</ul>
 										<p>Our current product is Microclimate, and end-to-end developer experience tool for creating microservice-based applications that can be deployed in both on-premise and cloud environments, including the IBM Cloud Platform.</p>
 									</div>
 								</div>
@@ -393,7 +398,7 @@
 								<div class="row">
 									<div class="column small-12 large-5">
 										<h4>Advisory Front End Developer</h4>
-										<p>IBM Swift<br/> August 2015 - April 2016</p>
+										<p>IBM Bluemix<br/> August 2015 - April 2016</p>
 									</div>
 									<div class="column small-12 large-7">
 										<p>As a front end developer at IBM I got the chance to help develop the UI for Bluemix. I also worked on creating a unified UX for elements of Bluemix's product catalog, and I was an early member of the Carbon Design System team.
