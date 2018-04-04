@@ -438,7 +438,7 @@
 								<div class="row">
 									<div class="column small-12 large-5">
 										<h4>Junior UX Designer</h4>
-										<p>Red Ventures Insurance vertical <br /> Jan 2012 - Mar 2012</p>
+										<p>Red Ventures Insurance Vertical <br /> Jan 2012 - Mar 2012</p>
 									</div>
 									<div class="column small-12 large-7">
 										<p>I was one of the first designers to work on this business unit. As a result, I was able to build out a number of websites for our early insurance vertical customers.</p>
@@ -448,7 +448,7 @@
 								<div class="row">
 									<div class="column small-12 large-5">
 										<h4>Junior UX Designer</h4>
-										<p>Red Ventures Telco vertical<br /> Aug 2010 - Dec 2011</p>
+										<p>Red Ventures, Telco Vertical<br /> Aug 2010 - Dec 2011</p>
 									</div>
 									<div class="column small-12 large-7">
 										<p>As a junior designer I created designed and developed direct response websites and landing pages for some of our biggest clients, including DIRECTV. </p>
