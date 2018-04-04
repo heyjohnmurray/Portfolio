@@ -182,7 +182,7 @@
 						<p>The image above is a zoomed in view of the end-to-end as-is scenario that I created early on and that I use as a proxy for a product roadmap. It allows me to keep my finger on the pulse of what's going on.</p>
 						<p><img src="/assets/images/screenshots/ibm-microclimate/process/as-is-scenario-gap.png" alt=""></p>
 						<p>In the image above you'll see a box with a dotted border. That's where I highlighted that we're missing functionality. By mapping out the end-to-end in this manner, I can objectively show our stakeholders where there are gaps in our product.</p>
-						<p><i><small>If you'd like to take a deeper look at this document you can <a href="/assets/images/screenshots/ibm-microclimate/process/microclimate-end-to-end-scenario.png">download it here</a>.</small></i></p>
+						<p><a href="/assets/images/screenshots/ibm-microclimate/process/microclimate-end-to-end-scenario.png" class="button is-primary">Click to view artifact!</a></p>
 
 						<hr>
 
@@ -212,11 +212,60 @@
 					<div class="column small-12">
 						<h4>GA Release - March 30, 2018</h4>
 						<p>As we were releasing our beta in January, we began planning for our Q1 deliverable. The emphasis for this release was on having a compelling story that we could demo on stage at THINK in March. This meant we had to be done with designs by mid-February. That didn't leave us a lot of wiggle room to do UX and visuals, but we got everything done in time and had a successful release.</p>
-
+						<hr>
 						<h5>Determining the scope for Q1</h5>
 						<p>I wasn't really involved as deeply in the beta release discussion as I'd like&mdash;part of being in a development-led organization, unfortunately. So when it came time to plan the next release I was determined to make things better. Design needed to have a stronger voice in shaping the product and the experience.</p>
 						<p>In the lead up to the session I met with our product manager and explained that doing a user story mapping activity could help us.</p>
-
+						<p>Essentially we had a 2 hour slot in a single all-day planning meeting to do "design". It wasn't much, but I made the most of it. I didn't have a lot of time to do the pre-work I normally do for workshops so I kept my process simple:</p>
+						<ol class="list">
+							<li>Get product management buy-in</li>
+							<li>Prepare a workshop agenda and <a href="/assets/images/screenshots/ibm-microclimate/process/q1-usm-session.png">Mural document</a></li>
+							<li>Get a facilitator</li>
+							<li>Show everyone the process and how it works</li>
+							<li>Do a user story mapping session and see what comes out</li>
+						</ol>
+						<hr>
+						<h5>Running the session</h5>
+						<p>Normally, I don't like to teach a group how to do an exercise and get them to deliver an outcome all in the same workshop because it's asking too much. In this situation I didn't have the luxury to get the stakeholder buy-in I wanted.</p>
+						<p>Here's the explanatory part of the workshop document:</p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/q1-usm-session-intro-explanation.jpg" alt=""></p>
+						<p>Then I showed them the persona and the hills, or mission statements, that they'd all seen for this release.</p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/q1-usm-session-persona-hill-explanation.jpg" alt=""></p>
+						<p>Next, I showed them the as-is flow that was currently in the product. If you remember earlier, I mentioned that I had an end-to-end experience document that I used as a proxy for a product roadmap. I referenced that to show the team the as-is you see below.</p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/q1-usm-session-as-is.jpg" alt=""></p>
+						<p>Finally, I showed them what a user story map could look like.</p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/q1-usm-session-example.jpg" alt=""></p>
+						<p>Then it was time to dig into the exercise itself, and the team started to look at the mission statement they'd written and create a to-be scenario of the ideal user experience.</p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/q1-usm-session-ideation.jpg" alt=""></p>
+						<p>What they created wasn't pretty, but in the end they created an end-to-end experience that represented something achievable within the upcoming release. They also started to add screenshots from competitor products that mirrored the experience they were creating. Before they knew it, the experience was coming to life, and the design team had something to go off of.</p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/q1-usm-session-finished-map.jpg" alt=""></p>
+						<p>Key takeaways from the experience:</p>
+						<ol class="list">
+							<li>Product management saw the value of mapping out an experience and were bought into the process. They were even eager to do it again!</li>
+							<li>The as-is scenario had two potential routes the team could have explored, and doing user story mapping forced them to prioritize one path they wanted to deliver. In the end, they found a painless way to scope the release.</li>
+							<li>Design walked away with two clear deliverables: create an import flow and a devops pipeline flow into the product.</li>
+							<li>Design could start to do wireframes and early prototyping knowing that they were working on something that the product team had agreed on.</li>
+						</ol>
+						<hr>
+						<h5>Storyboarding</h5>
+						<p>With loose user stories from the sotry mapping session, I was able to write a user journey storyline that I shared with one of our designers, and he was able to begin to create a storyboard from what I shared with him.</p>
+						<a href="https://ibm.invisionapp.com/share/HRFFTLLP8ZK" class="button is-primary">Click to view prototype!</a>			
+						<img src="/assets/images/screenshots/ibm-microclimate/process/usm-storyboards.jpg" alt="">
+						<img src="/assets/images/screenshots/ibm-microclimate/process/usm-storyboards2.jpg" alt="">
+						<hr>
+						<h5>Low-fi wireframes</h5>
+						<p>With the stories defined, we began to create low-fi wireframes to further evolve the user journey as we understood it.</p>
+						<p><a href="https://ibm.invisionapp.com/share/X3FIAQ8YET5" class="button is-primary">Click to view prototype!</a></p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/import-low-fi-wires1.jpg" alt=""></p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/import-low-fi-wires2.jpg" alt=""></p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/import-low-fi-wires3.jpg" alt=""></p>
+						<hr>
+						<h5>Hi-fi wireframes</h5>
+						<p>Because we used a component library, we were able to go from low-fi wireframes to hi-fi design screens with ease.</p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/import-hi-fi-wires1.jpg" alt=""></p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/import-hi-fi-wires2.jpg" alt=""></p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/import-hi-fi-wires3.jpg" alt=""></p>
+						<hr>
 						<h5>Product team pivots</h5>
 						<p>Between beta and Q1 our leadership team had to make the difficult decision to make a more concerted effort to make our product look more closely integrated into the IBM Cloud Platform portfolio. Originally, we were supposed to be more ambitious and have an non-branded look and feel&mdash;"un-IBM", if you will. This pivot forced us to take a step back visually and adopt the <a href="http://carbondesignsystem.com/">Carbon Design System</a>. While it was frustrating to have to redo our visual design aesthetic for the next release, adopting a component library helped us speed up some of our design process. We weren't having to make UI elements from scratch and our developer was able to pull from the Carbon codebase and deliver into production much faster. It also neutralized the "design-by-committee" problem that we had going on in during the beta release.</p>
 						<small>Beta welcome screen</small>
@@ -226,14 +275,6 @@
 						<p><img src="/assets/images/screenshots/ibm-microclimate/project-headshots/beta/welcome-get-started-ga.png" alt=""></p>
 						
 						<p>As you can see from just those two images alone, we had to go in a totally different direction between beta and GA in terms of our visual design.</p>
-
-						<!-- <hr>
-						<h5>Key Features: Import a project &amp; DevOps Pipeline</h5>
-
-						[show GA screens]
-						[discuss q1 planning and use of story mapping]
-						[list feature objectives: import, pipeline]
-						[formal review - not-detailed] -->
 					</div>
 				</div>
 			</div>
@@ -258,6 +299,19 @@
 
 						<h5>Establishing UX process is not instantaneous, it's progressive</h5>
 						<p>I've <a href="https://medium.com/design-ibm/build-experiences-not-features-part-2-of-2-8d1c7ac523db">written extensively</a> on UX process and how to integrate design thinking with agile development. But showing the value of design and getting it a seat at the table take time. It's a slow and steady process and it's not something that is acheived in a single release or a single quarter. It's about refinement.</p>
+						<p>In fact, my design team started out by having to meet short deadlines and didn't get to do as much ideation as we wanted, but over time we've been able to create the autonomy we need to explore. We definitely had growing pains with our stakeholders and with ourselves as a team.</p>
+						<p>We were a textbook example of <a href="https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development">Tuckman's stages of group development:</a></p>
+						<ul class="list">
+							<li>Forming - our beta release</li>
+							<li>Storming - our GA release</li>
+							<li>Norming - our current release</li>
+							<li>Performing - our next release, hopefully</li>
+						</ul>
+						<p>Over time we've evolved our process to what you see below.</p>
+						<p><img src="/assets/images/screenshots/ibm-microclimate/process/ux-process-v1.png" alt=""></p>
+						<p><a href="/assets/images/screenshots/ibm-microclimate/process/ux-process-v1.png" class="button is-primary">Click to view artifact!</a></p>
+
+						<p>Ideally, we're trying to evolve to something more efficient like what you see in this more developed inforgraphic below. Slowly but surely we're getting there.</p>
 						<p><img src="/assets/images/screenshots/ibm-microclimate/process/ux-process.jpg" alt=""></p>
 						<small>I created the image above as part of a case study I did about how we can integrate design thinking and agile.</small>
 						
@@ -272,6 +326,8 @@
 						
 						<h5>You have to avoiding an "us vs. them" mentality</h5>
 						<p>It's all too easy to have an "us vs. them" mentality when you're dealing with team members on a multi-disciplinary product team. I've seen that type of negativity sink design's credibility all too often. I was so inspired by the idea that I <a href="https://www.youtube.com/watch?v=L2ZEp2wuH_o">wrote and gave a talk about it</a> at the UX Design Summit in San Francisco in March 2018.</p>
+						<p>My team struggled with that mentality at first, and that was the inspiration for this talk.</p>
+						<iframe src="//www.slideshare.net/slideshow/embed_code/key/KhFxHB0qUXaajX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 					</div>
 				</div>
 			</div>			
