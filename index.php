@@ -20,7 +20,7 @@
 		<!-- /.row -->
 		<div class="row">
 			<div class="column small-4 small-offset-4 large-2 large-offset-5">
-				<a href="#portfolio-section">
+				<a href="#portfolio-section" class="arrow">
 					<img src="assets/images/icons/icon-view-portfolio.png" alt="">
 				</a>
 			</div>
