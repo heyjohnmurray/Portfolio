@@ -12,6 +12,11 @@
 			text-decoration: none;
 			text-transform: uppercase;
 			width: 100%;
+			border-bottom: none;
+
+			&:hover {
+				border-bottom: none;
+			}
 
 			@media #{$medium-up} {
 				-webkit-transition:background-size 0.5s linear;

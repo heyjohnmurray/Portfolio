@@ -88,6 +88,10 @@ aside {
 	li,
 	a {
 		color: #fff;
+		
+		&:hover {
+			text-decoration: none;
+		}
 	}
 }
 
@@ -102,17 +106,18 @@ aside {
 	}
 }
 
-.body-copy {
+.content {
 	a {
 		-webkit-transition:all 0.25s ease-in;
 		-moz-transition:all 0.25s ease-in;
 		transition:all 0.25s ease-in;
-		border-bottom: none;
+		border-bottom: 3px solid $color-primary-light;
 		font-family: "bold";
 		text-decoration: none;
 
+
 		&:hover {
-			border-bottom: 3px solid $color-primary-light;
+			border-bottom: 3px solid $color-tertiary-dark;
 		}
 	}
 }
