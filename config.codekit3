@@ -1974,6 +1974,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/q1-planning.png": {
+		"ft": 32768,
+		"iS": 14401042,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/q1-planning.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/q1-usm-session-as-is.jpg": {
 		"ft": 16384,
 		"iS": 67583,
@@ -2040,8 +2051,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/q1-usm-session.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -4344,8 +4355,8 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 0,
-	"animateCSSInjections": 1,
+	"alwaysUseExternalServer": 1,
+	"animateCSSInjections": 0,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
