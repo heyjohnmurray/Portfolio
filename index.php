@@ -338,6 +338,12 @@
 								<figcaption class="quote-by">— James Huston, mentor, former colleague, and Director of Platform Engineering at Red Ventures</figcaption>
 							</div>
 						</div>
+						<div class="row">
+							<div class="column small-12">
+								<blockquote class="curly-quotes">John Murray is always available for advice and encouragement. When I was at what felt like the lowest point in my career, he was there to talk to and help me create an actionable plan to propel myself forward as a designer.</blockquote>
+								<figcaption class="quote-by">— Janiece Allison, Senior UI/UX Designer at DockYard</figcaption>
+							</div>
+						</div>
 						<!-- /.row -->
 						<div class="row">
 							<div class="column small-12">
