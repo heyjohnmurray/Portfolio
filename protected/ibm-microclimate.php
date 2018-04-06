@@ -248,7 +248,6 @@
 						<p><img src="/assets/images/screenshots/ibm-microclimate/process/q1-usm-session-ideation.jpg" alt=""></p>
 						<p>What they created wasn't pretty, but in the end they created an end-to-end experience that represented something achievable within the upcoming release. They also started to add screenshots from competitor products that mirrored the experience they were creating. Before they knew it, the experience was coming to life, and the design team had something to go off of.</p>
 						<p><img src="/assets/images/screenshots/ibm-microclimate/process/q1-usm-session-finished-map.jpg" alt=""></p>
-						<p><a href="/assets/images/screenshots/ibm-microclimate/process/q1-usm-session.png" class="button is-primary">Click to view artifact!</a></p>
 						<p>Key takeaways from the experience:</p>
 						<ol class="list">
 							<li>Product management saw the value of mapping out an experience and were bought into the process. They were even eager to do it again!</li>
@@ -256,6 +255,7 @@
 							<li>Design walked away with two clear deliverables: create an import flow and a devops pipeline flow into the product.</li>
 							<li>Design could start to do wireframes and early prototyping knowing that they were working on something that the product team had agreed on.</li>
 						</ol>
+						<p><a href="/assets/images/screenshots/ibm-microclimate/process/q1-usm-session.png" class="button is-primary">Click to view artifact!</a></p>
 						<hr>
 						<h5>Storyboarding</h5>
 						<p>With loose user stories from the sotry mapping session, I was able to write a user journey storyline that I shared with one of our designers, and he was able to begin to create a storyboard from what I shared with him.</p>
