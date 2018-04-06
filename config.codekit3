@@ -1947,8 +1947,19 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/microclimate-end-to-end-scenario.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/microclimate-team-update.png": {
+		"ft": 32768,
+		"iS": 11628698,
+		"oA": 0,
+		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/microclimate-team-update.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},

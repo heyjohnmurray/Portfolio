@@ -125,7 +125,7 @@
 							<p><img src="/assets/images/screenshots/ibm-microclimate/process/early-strategy-insights1.png" alt=""></p>
 							<p><img src="/assets/images/screenshots/ibm-microclimate/process/early-strategy-insights3.png" alt=""></p>
 							<p><img src="/assets/images/screenshots/ibm-microclimate/process/early-strategy-insights2.png" alt=""></p>
-							
+							<p><a href="/assets/images/screenshots/ibm-microclimate/process/microclimate-team-update.png" class="button is-primary">Click to view artifact!</a></p>
 							<hr>
 
 							<h5>Defining the user</h5>
