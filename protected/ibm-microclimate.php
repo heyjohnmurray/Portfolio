@@ -259,16 +259,16 @@
 						<hr>
 						<h5>Storyboarding</h5>
 						<p>With loose user stories from the sotry mapping session, I was able to write a user journey storyline that I shared with one of our designers, and he was able to begin to create a storyboard from what I shared with him.</p>
-						<p><a href="https://ibm.invisionapp.com/share/HRFFTLLP8ZK" class="button is-primary">Click to view prototype!</a></p>
 						<p><img src="/assets/images/screenshots/ibm-microclimate/process/usm-storyboards.jpg" alt=""></p>
 						<p><img src="/assets/images/screenshots/ibm-microclimate/process/usm-storyboards2.jpg" alt=""></p>
+						<p><a href="https://ibm.invisionapp.com/share/HRFFTLLP8ZK" class="button is-primary">Click to view prototype!</a></p>
 						<hr>
 						<h5>Low-fi wireframes</h5>
 						<p>With the stories defined, we began to create low-fi wireframes to further evolve the user journey as we understood it.</p>
-						<p><a href="https://ibm.invisionapp.com/share/X3FIAQ8YET5" class="button is-primary">Click to view prototype!</a></p>
 						<p><img src="/assets/images/screenshots/ibm-microclimate/process/import-low-fi-wires1.jpg" alt=""></p>
 						<p><img src="/assets/images/screenshots/ibm-microclimate/process/import-low-fi-wires2.jpg" alt=""></p>
 						<p><img src="/assets/images/screenshots/ibm-microclimate/process/import-low-fi-wires3.jpg" alt=""></p>
+						<p><a href="https://ibm.invisionapp.com/share/X3FIAQ8YET5" class="button is-primary">Click to view prototype!</a></p>
 						<hr>
 						<h5>Hi-fi wireframes</h5>
 						<p>Because we used a component library, we were able to go from low-fi wireframes to hi-fi design screens with ease.</p>
