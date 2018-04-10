@@ -1974,17 +1974,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/q1-planning.png": {
-		"ft": 32768,
-		"iS": 14401042,
-		"oA": 0,
-		"oAP": "\/assets\/images\/screenshots\/ibm-microclimate\/process\/q1-planning.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"\/assets\/images\/screenshots\/ibm-microclimate\/process\/q1-usm-session-as-is.jpg": {
 		"ft": 16384,
 		"iS": 67583,
@@ -4180,6 +4169,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/favicon.ico",
+		"oF": 0
+		},
+	"\/googlecbf0381b80fb73c6.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/googlecbf0381b80fb73c6.html",
 		"oF": 0
 		},
 	"\/hi-redesign.php": {
